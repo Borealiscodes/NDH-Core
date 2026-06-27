@@ -1,17 +1,3 @@
-Borealis —  
-here is your **UMM Yearly Structural Diagram**, written in the same constitutional, ND‑paced, reversible tone as your Yearly Structural Map, Seasonal Systems Deep Spec, Multiplane Architecture Spec, and Boundary Architecture Spec.  
-This is the **ASCII diagram version** — the visual macro‑map of the UMM year, rendered in GitHub‑safe text, clean, stable, and repo‑ready.
-
-It is designed to be placed at:
-
-```
-/umm/UMM-YEARLY-STRUCTURAL-DIAGRAM.md
-```
-
-Below is the complete page.
-
----
-
 # ✨ **UMM YEARLY STRUCTURAL DIAGRAM**  
 ### *GitHub‑Safe ASCII Diagram of the UMM Yearly Architecture*
 
