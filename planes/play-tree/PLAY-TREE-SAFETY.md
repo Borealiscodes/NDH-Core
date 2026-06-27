@@ -1,163 +1,206 @@
-# 🌳 **PLAY-TREE-SAFETY.md**  
-### **Constitutional Safety Contract for the Play Tree Subsystem**  
-*(UMM‑Native, Non‑Coercive, ND‑Safe)*
-
----
-
-## **0. Constitutional Role**
-This document defines the **binding safety constraints** for the Play Tree Plane and all associated sub‑planes, tonal systems, UI concept layers, ecology links, and roadmap documents.
-
-All files within the Play Tree subsystem **inherit** these rules.  
-No file may override or weaken them.
-
----
-
-## **1. Purpose of the Safety Contract**
-The Play Tree subsystem exists to provide:
-
-- gentle sensory reflection  
-- emotional safety  
-- non‑coercive navigation  
-- ND‑friendly pacing  
-- metaphorically soft interpretation  
-- reversible states  
-- user autonomy  
-
-This contract ensures the subsystem **never** becomes diagnostic, prescriptive, evaluative, or coercive.
-
----
-
-## **2. Global Safety Invariants (Non‑Negotiable)**
-
-### **2.1 Emotional Safety**
-- No guilt language  
-- No shame language  
-- No moral framing  
-- No urgency  
-- No alarmism  
-- No evaluative tone  
-- No “should,” “must,” “ought,” or “why didn’t you”  
-
-### **2.2 Sensory Safety**
-- No flashing  
-- No sudden motion  
-- No harsh contrast  
-- No alarming metaphors  
-- Sensory load must be framed neutrally (e.g., “wind,” “breeze,” “clouds”)  
-
-### **2.3 Cognitive Safety**
-- No diagnostic terms  
-- No predictive claims  
-- No pathologizing language  
-- No clinical framing  
-- No assumptions about user state or capacity  
-
-### **2.4 Boundary & Autonomy Safety**
-- Exit is always allowed  
-- All states are reversible  
-- No forced flows  
-- No locked modes  
-- No coercive nudges  
-- All guidance must be optional  
-
-### **2.5 Tonal Safety**
-- Tone must remain gentle, observational, and non‑directive  
-- Bob‑Ross‑Vibe allowed only as **tone**, not quotes or likeness  
-- No sarcasm  
-- No dark humor  
-- No tonal whiplash  
-
-### **2.6 Metaphor Safety**
-- No metaphors implying damage, failure, or harm  
-- No storms, disasters, or violent imagery  
-- All metaphors must be reversible (clouds clear, wind softens, light shifts)  
-
-### **2.7 Interaction Safety**
-- No timers  
-- No urgency cues  
-- No forced decisions  
-- No irreversible actions  
-- Predictable, low‑ambiguity interactions  
-
----
-
-## **3. Safety Header Requirement**
-Every file in the Play Tree subsystem must begin with the following header:
-
-> **SAFETY NOTE — PLAY TREE SUBSYSTEM**  
-> Play Tree is a symbolic, non‑coercive, ND‑safe reflection tool.  
-> It does not diagnose, predict, instruct, or pressure.  
-> All states are reversible.  
-> Exit is always allowed.  
-> Tone must remain gentle, observational, and non‑directive.  
-> Sensory and emotional metaphors must remain neutral, soft, and non‑alarming.  
-> No file in this subsystem may introduce coercion, urgency, red states, or evaluative language.  
-> This subsystem inherits and must uphold the Play Tree Safety Contract (PLAY-TREE-SAFETY.md).
-
-This header is **mandatory**.
-
----
-
-## **4. Subsystem Scope**
-This contract governs all files in:
+# 🌳✨ **PLAY-TREE-SAFETY.md**  
+### *Safety, Reversibility, and ND‑Safe Boundaries for the Play Tree Plane*
 
 ```
-/planes/play-tree/
-/tonal/play-tree/
-/ui-concepts/play-tree/
-/ecology-links/play-tree/
-/roadmaps/
+# ✨ PLAY TREE — SAFETY ✨
+### Safety, Reversibility, and ND-Safe Boundaries
+
+## ❗ Play Tree Boundary Rule — No Mixing with Atropus
+The Play Tree is a warm, expressive, ND-safe plane. It must never mix with
+Atropus, reference Atropus, or incorporate null-plane tone, logic, or
+commentary. The Play Tree and Atropus operate on entirely different tonal,
+structural, and constitutional layers. They remain permanently separate.
+
+This document defines the safety principles, constraints, and constitutional
+protections that ensure the Play Tree remains gentle, reversible, and
+neurodivergent-safe. Safety is not an add-on; it is the core of the plane.
 ```
 
-Any new file added to these directories must:
+---
 
-- include the Safety Header  
-- comply with all invariants  
-- pass the Safety Review Checklist  
+# 🌳 **1. Purpose of the Safety Layer**
+The Safety Layer ensures:
+
+- the user is never pressured  
+- the user is never evaluated  
+- the user is never trapped  
+- the user is never overwhelmed  
+- the user always has control  
+- the environment remains warm and gentle  
+
+Safety is the **constitutional backbone** of the Play Tree.
 
 ---
 
-## **5. Safety Review Checklist**
-Before committing any file, verify:
+# 🌳 **2. Safety Principles**
 
-- [ ] Does it include the Safety Header?  
-- [ ] Does it avoid diagnostic or clinical language?  
-- [ ] Does it avoid coercion, urgency, or pressure?  
-- [ ] Are all metaphors soft, neutral, and reversible?  
-- [ ] Is tone gentle, observational, and non‑directive?  
-- [ ] Are all states reversible?  
-- [ ] Is exit always allowed?  
-- [ ] Are sensory descriptions non‑alarming?  
-- [ ] Are ND‑accessibility principles upheld?  
+### **2.1 Reversibility**
+Every action must be undoable.  
+No irreversible states.  
+No permanent changes.
 
-A file may not be merged until all checks pass.
+### **2.2 Non-Coercion**
+The Play Tree must never:
+
+- force a choice  
+- imply obligation  
+- push emotional states  
+- escalate intensity  
+
+### **2.3 Softness**
+All transitions must be:
+
+- slow  
+- gentle  
+- low-contrast  
+- non-jarring  
+
+### **2.4 Predictability**
+The user must always know:
+
+- where they are  
+- what will happen  
+- how to undo it  
+
+### **2.5 Sensory Safety**
+The Play Tree must avoid:
+
+- flashing  
+- sudden motion  
+- harsh colors  
+- loud overlays  
+
+### **2.6 Warmth**
+The plane must maintain a warm tonal profile.
 
 ---
 
-## **6. Amendment Rules**
-This safety contract may only be amended if:
+# 🌳 **3. Safety Constraints by Layer**
 
-- the amendment increases safety, clarity, or non‑coercion  
-- the amendment does not weaken any existing invariant  
-- the amendment is explicitly documented and versioned  
+## **3.1 Root Safety**
+- Root must always be reachable  
+- Root must always be stable  
+- Reset must be soft and reversible  
 
-No implicit changes are allowed.
+## **3.2 Branch Safety**
+- Branch transitions must fade, not snap  
+- Branches must not overlap  
+- Branch previews must be non-committal  
+
+## **3.3 Leaf Safety**
+- Leaf actions must be atomic  
+- Leaf density must remain within safe bounds  
+- Leaf interactions must not imply performance  
+
+## **3.4 Sap Flow Safety**
+- Warmth/intensity must remain within safe gradients  
+- No automatic escalation  
+- All adjustments must be reversible  
+
+## **3.5 Weather Safety**
+- Weather overlays must remain optional  
+- Weather must not override user control  
+- Weather must remain soft  
 
 ---
 
-## **7. Sealing Clause**
-Once this file is added to the repo, the Play Tree subsystem becomes a **constitutional component** of UMA‑Universal.
+# 🌳 **4. Safety Invariants**
+The Play Tree has **six safety invariants**:
 
-All future expansions must:
+1. **Reversibility** — nothing is permanent  
+2. **Softness** — nothing is harsh  
+3. **Non-Coercion** — nothing forces behavior  
+4. **Warmth** — nothing becomes cold or clinical  
+5. **Predictability** — nothing surprises the user  
+6. **No Atropus** — nothing adopts null-plane tone  
 
-- inherit this contract  
-- uphold all invariants  
-- pass the Safety Review Checklist  
-- maintain ND‑safe, non‑coercive design  
-
-This contract cannot be bypassed.
+These invariants cannot be violated.
 
 ---
 
-# 🌳 **PLAY-TREE-SAFETY.md — COMPLETE**
+# 🌳 **5. Safety Mechanisms**
+
+### **5.1 Soft Reset**
+A gentle return to Root:
+
+- fades branches  
+- retracts leaves  
+- resets Sap Flow  
+- clears Weather overlays  
+
+### **5.2 Sensory Dampening**
+A softening layer that:
+
+- dims colors  
+- slows motion  
+- reduces density  
+
+### **5.3 Pacing Control**
+Allows the user to:
+
+- slow interactions  
+- slow transitions  
+- slow animations  
+
+### **5.4 Warmth Guard**
+Ensures the plane never becomes:
+
+- cold  
+- clinical  
+- sharp  
+- null-toned  
+
+### **5.5 Boundary Guard**
+Ensures:
+
+- no Atropus mixing  
+- no null-plane bleed  
+- no anchor-only logic  
+
+---
+
+# 🌳 **6. Safety Scenarios**
+
+### **6.1 Overwhelm Scenario**
+If sensory load increases:
+
+- Weather softens  
+- Motion slows  
+- Density reduces  
+- Warmth stabilizes  
+
+### **6.2 Uncertainty Scenario**
+If the user hesitates:
+
+- UI pauses  
+- transitions slow  
+- previews become softer  
+
+### **6.3 Reset Scenario**
+If the user wants to stop:
+
+- Root becomes available  
+- everything fades gently  
+- no state is lost  
+
+---
+
+# 🌳 **7. Safety Summary**
+The Play Tree must remain:
+
+- warm  
+- gentle  
+- reversible  
+- ND-safe  
+- predictable  
+- constitutionally bounded  
+- permanently separate from Atropus  
+
+Safety is not optional — it is the **core identity** of the plane.
+
+---
+
+# 🌳✨ END OF FILE
+
+---
 
