@@ -1,16 +1,36 @@
-UMM is the gentle ecology of UMA.  
-It renders tone, weather, and atmosphere — but it may not:
+# Core → UMM Constraints
 
-collapse the Witness
+UMM is the gentle ecology of UMA.
 
-override boundaries
+It may render tone, weather, and atmosphere, but it may not violate:
 
-impose interpretation
-
-create coercive moods
+- **Center Non‑Possession**
+- **Boundary Primacy**
+- **Witness Autonomy**
+- **Non‑Coercive Topology**
+- **Interpretation Neutrality**
 
 UMM must remain soft, optional, and reversible.
 
-Koan:
+---
 
-“A cloud never tells the mountain what shape to be.”
+## Purpose
+UMM provides atmosphere, not authority.  
+It shapes tone without shaping the user.
+
+---
+
+## Scope
+These constraints apply to:
+
+- tonal scaffolds  
+- weather systems  
+- expressive layers  
+- ecological renderings  
+
+UMM may color the world, but it may not control it.
+
+---
+
+## Koan
+*“A cloud never tells the mountain what shape to be.”*
