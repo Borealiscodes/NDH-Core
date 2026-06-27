@@ -1,241 +1,163 @@
-# 🌳 **FINAL SAFETY PASS — PLAY TREE PLANE**  
-*(UMM‑Native Constitutional Layer)*
+# 🌳 **PLAY-TREE-SAFETY.md**  
+### **Constitutional Safety Contract for the Play Tree Subsystem**  
+*(UMM‑Native, Non‑Coercive, ND‑Safe)*
 
-This pass ensures:
+---
 
+## **0. Constitutional Role**
+This document defines the **binding safety constraints** for the Play Tree Plane and all associated sub‑planes, tonal systems, UI concept layers, ecology links, and roadmap documents.
+
+All files within the Play Tree subsystem **inherit** these rules.  
+No file may override or weaken them.
+
+---
+
+## **1. Purpose of the Safety Contract**
+The Play Tree subsystem exists to provide:
+
+- gentle sensory reflection  
 - emotional safety  
-- sensory safety  
-- cognitive safety  
-- boundary safety  
-- metaphor safety  
-- ND‑accessibility  
-- non‑coercive design  
-- reversibility  
-- tone stability  
+- non‑coercive navigation  
+- ND‑friendly pacing  
+- metaphorically soft interpretation  
+- reversible states  
+- user autonomy  
 
-Everything below is a **hard invariant**.
+This contract ensures the subsystem **never** becomes diagnostic, prescriptive, evaluative, or coercive.
 
 ---
 
-# 🌱 **1. Safety Category: Emotional Safety**
+## **2. Global Safety Invariants (Non‑Negotiable)**
 
-### **1.1 No emotional pressure**
+### **2.1 Emotional Safety**
 - No guilt language  
-- No “should,” “must,” “ought,” or “why didn’t you”  
-- No framing that implies failure or deficiency  
-
-### **1.2 No emotional escalation**
+- No shame language  
+- No moral framing  
 - No urgency  
-- No alarmist metaphors  
-- No catastrophic framing  
+- No alarmism  
+- No evaluative tone  
+- No “should,” “must,” “ought,” or “why didn’t you”  
 
-### **1.3 Emotional tone must remain:**
-- gentle  
-- observational  
-- warm  
-- non‑directive  
-- non‑judgmental  
-
-**Guided Link:**  
-- **Check Emotional Tone**
-
----
-
-# 🌿 **2. Safety Category: Sensory Safety**
-
-### **2.1 No sudden sensory events**
+### **2.2 Sensory Safety**
 - No flashing  
-- No abrupt animation  
-- No sharp color transitions  
+- No sudden motion  
+- No harsh contrast  
+- No alarming metaphors  
+- Sensory load must be framed neutrally (e.g., “wind,” “breeze,” “clouds”)  
 
-### **2.2 Sensory metaphors must be neutral**
-- Noise = wind  
-- Crowds = pressure  
-- Fog = cloud cover  
-- Movement = breeze  
-
-### **2.3 Sensory load must never be framed as danger**
-Only as:
-
-> “Branches catching more weather.”
-
-**Guided Link:**  
-- **Verify Sensory Safety**
-
----
-
-# 🌲 **3. Safety Category: Cognitive Safety**
-
-### **3.1 No diagnostic language**
-- No “overstimulated”  
-- No “dysregulated”  
-- No “maladaptive”  
+### **2.3 Cognitive Safety**
+- No diagnostic terms  
+- No predictive claims  
+- No pathologizing language  
 - No clinical framing  
+- No assumptions about user state or capacity  
 
-### **3.2 No predictive claims**
-- No “this will overwhelm you”  
-- No “you can’t handle this”  
-
-### **3.3 Cognitive metaphors must be soft**
-- “Cloudy”  
-- “Busy”  
-- “Lively”  
-- “Quieting”  
-
-**Guided Link:**  
-- **Check Cognitive Tone**
-
----
-
-# 🌤 **4. Safety Category: Boundary & Autonomy Safety**
-
-### **4.1 Exit is always allowed**
-- Never blocked  
-- Never discouraged  
-- Never framed as failure  
-
-### **4.2 No coercive nudges**
-- No “you should leave”  
-- No “you need to stay”  
-
-### **4.3 All guidance must be optional**
-- “Your roots might enjoy…”  
-- “You may find…”  
-- “There’s a path if you’d like…”  
-
-**Guided Link:**  
-- **Check Boundary Integrity**
-
----
-
-# 🌳 **5. Safety Category: Interaction Safety**
-
-### **5.1 All interactions must be reversible**
-- No irreversible states  
-- No locked modes  
+### **2.4 Boundary & Autonomy Safety**
+- Exit is always allowed  
+- All states are reversible  
 - No forced flows  
+- No locked modes  
+- No coercive nudges  
+- All guidance must be optional  
 
-### **5.2 No time pressure**
-- No countdowns  
-- No “respond now”  
-- No urgency cues  
-
-### **5.3 Predictable interaction patterns**
-- Tap → reveal  
-- Tap → hide  
-- No hidden gestures  
-
-**Guided Link:**  
-- **Verify Interaction Safety**
-
----
-
-# 🌱 **6. Safety Category: Tonal Safety**
-
-### **6.1 Tone must remain stable**
-- No sudden tone shifts  
+### **2.5 Tonal Safety**
+- Tone must remain gentle, observational, and non‑directive  
+- Bob‑Ross‑Vibe allowed only as **tone**, not quotes or likeness  
 - No sarcasm  
 - No dark humor  
+- No tonal whiplash  
 
-### **6.2 Bob‑Ross‑Vibe must remain copyright‑safe**
-- Tone only  
-- No quotes  
-- No references to episodes  
-- No imitation of voice  
+### **2.6 Metaphor Safety**
+- No metaphors implying damage, failure, or harm  
+- No storms, disasters, or violent imagery  
+- All metaphors must be reversible (clouds clear, wind softens, light shifts)  
 
-### **6.3 Tonal Scaffolds must be consistent**
-- Repeated gentle phrases  
-- Predictable cadence  
-- Soft metaphors  
-
-**Guided Link:**  
-- **Run Tonal Safety Check**
-
----
-
-# 🌿 **7. Safety Category: Metaphor Safety**
-
-### **7.1 Tree metaphors must remain gentle**
-- No “broken branches”  
-- No “rotting roots”  
-- No “damaged trunk”  
-
-### **7.2 Weather metaphors must remain neutral**
-- No storms  
-- No lightning  
-- No natural disasters  
-
-### **7.3 All metaphors must be reversible**
-- Clouds can clear  
-- Wind can soften  
-- Light can shift  
-
-**Guided Link:**  
-- **Check Metaphor Safety**
+### **2.7 Interaction Safety**
+- No timers  
+- No urgency cues  
+- No forced decisions  
+- No irreversible actions  
+- Predictable, low‑ambiguity interactions  
 
 ---
 
-# 🌲 **8. Safety Category: Repository Safety**
+## **3. Safety Header Requirement**
+Every file in the Play Tree subsystem must begin with the following header:
 
-### **8.1 All files must include safety headers**
-Each file begins with:
+> **SAFETY NOTE — PLAY TREE SUBSYSTEM**  
+> Play Tree is a symbolic, non‑coercive, ND‑safe reflection tool.  
+> It does not diagnose, predict, instruct, or pressure.  
+> All states are reversible.  
+> Exit is always allowed.  
+> Tone must remain gentle, observational, and non‑directive.  
+> Sensory and emotional metaphors must remain neutral, soft, and non‑alarming.  
+> No file in this subsystem may introduce coercion, urgency, red states, or evaluative language.  
+> This subsystem inherits and must uphold the Play Tree Safety Contract (PLAY-TREE-SAFETY.md).
 
-> **Safety Note:**  
-> “Play Tree is a symbolic, non‑coercive, ND‑safe reflection tool.  
-> It is not diagnostic, predictive, or prescriptive.”
-
-### **8.2 No file may contain:**
-- clinical language  
-- coercive phrasing  
-- red states  
-- alarm metaphors  
-
-### **8.3 All expansions must pass this safety layer**
-No new module can bypass the Final Safety Pass.
-
-**Guided Link:**  
-- **Run Repo Safety Audit**
+This header is **mandatory**.
 
 ---
 
-# 🌳 **9. Safety Category: User Autonomy**
+## **4. Subsystem Scope**
+This contract governs all files in:
 
-### **9.1 User is always the agent**
-Play Tree never:
+```
+/planes/play-tree/
+/tonal/play-tree/
+/ui-concepts/play-tree/
+/ecology-links/play-tree/
+/roadmaps/
+```
 
-- interprets  
-- judges  
-- diagnoses  
-- predicts  
-- instructs  
+Any new file added to these directories must:
 
-It only **reflects**.
-
-### **9.2 User chooses pacing**
-- Slow  
-- Paused  
-- Stopped  
-- Revisited  
-
-### **9.3 User chooses meaning**
-Play Tree never assigns meaning to sensations.
-
-**Guided Link:**  
-- **Check Autonomy Safety**
+- include the Safety Header  
+- comply with all invariants  
+- pass the Safety Review Checklist  
 
 ---
 
-# 🌟 **FINAL SAFETY PASS — COMPLETE**
+## **5. Safety Review Checklist**
+Before committing any file, verify:
 
-Play Tree is now:
+- [ ] Does it include the Safety Header?  
+- [ ] Does it avoid diagnostic or clinical language?  
+- [ ] Does it avoid coercion, urgency, or pressure?  
+- [ ] Are all metaphors soft, neutral, and reversible?  
+- [ ] Is tone gentle, observational, and non‑directive?  
+- [ ] Are all states reversible?  
+- [ ] Is exit always allowed?  
+- [ ] Are sensory descriptions non‑alarming?  
+- [ ] Are ND‑accessibility principles upheld?  
 
-- safe  
-- reversible  
-- non‑coercive  
-- ND‑accessible  
-- emotionally gentle  
-- metaphorically stable  
-- cognitively neutral  
-- repo‑ready  
+A file may not be merged until all checks pass.
 
-This is the constitutional safety layer that protects the entire Plane.
+---
+
+## **6. Amendment Rules**
+This safety contract may only be amended if:
+
+- the amendment increases safety, clarity, or non‑coercion  
+- the amendment does not weaken any existing invariant  
+- the amendment is explicitly documented and versioned  
+
+No implicit changes are allowed.
+
+---
+
+## **7. Sealing Clause**
+Once this file is added to the repo, the Play Tree subsystem becomes a **constitutional component** of UMA‑Universal.
+
+All future expansions must:
+
+- inherit this contract  
+- uphold all invariants  
+- pass the Safety Review Checklist  
+- maintain ND‑safe, non‑coercive design  
+
+This contract cannot be bypassed.
+
+---
+
+# 🌳 **PLAY-TREE-SAFETY.md — COMPLETE**
+
