@@ -202,10 +202,3 @@ It is the living environment in which UMM operates.
 
 ---
 
-If you want, I can now generate:
-
-- **UMM‑Planes.md**  
-- **UMM‑Invariants.md**  
-- **UMM‑Tests folder structure**  
-
-Which branch of the forest do you want to grow next.
