@@ -1,168 +1,94 @@
-# **Starting a New Character Module**  
-### *Constitutional Entry Point for UMA‑Universal*
+# <character-name> — Core Specification
+### Constitutional Entry Point for UMA‑Universal
 
-Beginning a new character module means creating a **fully compliant, safety‑aligned, reversible, ND‑friendly symbolic entity** under the Character Constitutional Constraints Appendix and Mimi‑Meta’s tonal anchor.
-
-This entry defines the **exact steps**, the **required files**, and the **structural placement**.
+Beginning a new character module means creating a fully compliant, safety‑aligned, reversible, ND‑friendly symbolic entity within UMA‑Universal. This file defines the character’s constitutional foundation and anchors all subsequent files in the module.
 
 ---
 
-## **1. Create the Character Directory**
+## 1. Character Intent
 
-Inside:
+State the core purpose of the character within UMA‑Universal.
 
-```
-/characters/
-```
+The intent must:
+- reinforce global safety
+- reinforce ND‑friendly pacing
+- reinforce reversibility
+- reinforce non‑coercive symbolic interaction
+- increase clarity, stability, or comfort within the ecology
 
-create:
+The intent must not:
+- introduce new safety rules
+- create directive or interpretive behavior
+- alter plane structure
+- override Mimi‑Meta’s tonal anchor
+- violate the Character Constitutional Constraints Appendix
 
-```
-/characters/<character-name>/
-```
-
-Use lowercase, hyphenated naming for consistency.
-
-Example:
-
-```
-/characters/sola/
-```
+Provide a single, stable sentence describing the character’s purpose.
 
 ---
 
-## **2. Required Files for Every Character**
+## 2. Constitutional Placement
 
-Each character module must contain the following files:
-
-```
-<character-name>.md                (Core Spec)
-<character-name>-safety.md         (Safety Contract)
-<character-name>-tonal.md          (Tonal Engine)
-<character-name>-abilities.md      (Ability Architecture)
-<character-name>-ecology-links.md  (Ecology Integration)
-<character-name>-stress-tests.md   (Stress-Test Suite)
-README.md                          (Character Overview)
-```
-
-These files ensure constitutional compliance and structural clarity.
-
----
-
-## **3. Follow the Character Generation Suite (Mandatory)**
-
-All characters must be created using the ten‑step pipeline defined in:
-
-```
-/characters/CHARACTER-GENERATION-SUITE.md
-```
-
-The pipeline includes:
-
-1. Character Intent  
-2. Safety Header  
-3. Constitutional Compliance Check  
-4. Core Spec  
-5. Tonal Engine  
-6. Ability Architecture  
-7. Ecology Integration  
-8. Stress-Test Suite  
-9. Safety Contract  
-10. Sealing  
-
-Each step must be completed before the character is sealed.
-
----
-
-## **4. Safety Requirements**
-
-All characters must comply with:
-
+This character is governed by:
 - Global Safety Architecture  
 - Mimi‑Meta Safety Contract  
 - Character Constitutional Constraints Appendix  
 - Play Tree Safety (global layer)  
-- ND‑friendly pacing  
-- metaphor safety  
-- reversibility  
-- autonomy preservation  
+- ND‑friendly pacing invariants  
+- metaphor safety rules  
+- autonomy and reversibility guarantees  
 
-No character may introduce new safety rules.
-
----
-
-## **5. Tonal Requirements**
-
-Characters must align with:
-
-- Mimi‑Meta’s tonal anchor  
-- the global tonal engine  
-- soft cadence  
-- gentle microcopy  
-- reversible emotional texture  
-
-Tonal drift is not permitted.
+The character must remain fully compliant with these global invariants.
 
 ---
 
-## **6. Ecology Integration Requirements**
+## 3. Module Structure
 
-Characters must define symbolic presence within:
+This character module consists of the following files:
 
-- Play Tree  
-- Forest  
-- Aether  
-- Star  
-- Continuity  
+- `<character-name>.md` (this file — core spec)
+- `<character-name>-safety.md` (Safety Contract)
+- `<character-name>-tonal.md` (Tonal Engine)
+- `<character-name>-abilities.md` (Ability Architecture)
+- `<character-name>-ecology-links.md` (Ecology Integration)
+- `<character-name>-stress-tests.md` (Stress‑Test Suite)
+- `README.md` (Character Overview)
 
-Ecology links must be reversible, optional, and non‑directive.
-
----
-
-## **7. Stress-Test Requirements**
-
-Each character must include:
-
-- tonal collapse tests  
-- metaphor overload tests  
-- boundary pressure tests  
-- dark‑request deflection tests  
-- context‑switch stability tests  
-
-Characters cannot be sealed until all tests pass.
+These files must be created and completed in accordance with the Character Generation Suite.
 
 ---
 
-## **8. README Requirements**
+## 4. Generation Workflow Alignment
 
-The character’s README must include:
+This file corresponds to **Step 1** of the Character Generation Suite:
 
-- purpose  
-- symbolic role  
-- safety inheritance  
-- tonal alignment  
-- abilities overview  
-- ecology presence  
-- stress-test summary  
-- constitutional compliance notes  
+1. Character Intent  
+2. Safety Header  
+3. Constitutional Compliance Check  
+4. Core Spec Expansion  
+5. Tonal Engine  
+6. Ability Architecture  
+7. Ecology Integration  
+8. Stress‑Test Suite  
+9. Safety Contract  
+10. Sealing  
 
-This ensures maintainability and clarity.
-
----
-
-## **9. Sealing the Character**
-
-A character is sealed only when:
-
-- all files are complete  
-- all safety checks pass  
-- all stress tests pass  
-- tonal alignment is stable  
-- ecology integration is reversible  
-- constitutional compliance is verified  
-
-Sealing marks the character as a stable module.
+Subsequent steps will be completed in the files listed above.
 
 ---
 
-# **New Character Module — Ready to Begin**
+## 5. Notes for Future Steps
+
+Do not add:
+- safety rules  
+- tonal definitions  
+- abilities  
+- ecology mappings  
+- stress tests  
+
+to this file.
+
+Those belong in their respective files and will be generated after the intent is committed.
+
+This file remains the constitutional anchor for the character.
+
