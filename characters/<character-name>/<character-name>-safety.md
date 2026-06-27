@@ -22,6 +22,8 @@ This character must not:
 
 This file defines the character’s constitutional safety boundaries and anchors all subsequent safety‑related sections.
 
+---
+
 ## Constitutional Compliance Check
 
 This section verifies that the character complies with all governing constitutional documents in UMA‑Universal.
