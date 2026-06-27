@@ -1,180 +1,210 @@
-# 🌐 **UMM Repository Index**  
-### *Constitutional Map of the UMM Meta‑Model*
+# ✨🌐 **UMM Repository Index — Sparkle Edition** ✨  
+### 🪶 *Constitutional Map of the UMM Meta‑Model*
 
 ```
-# UMM Repository Index
-### Structural Index of the UMM Meta‑Model
+# ✨ UMM Repository Index ✨
+### Structural Index of the UMM Meta-Model
 
-This index provides a navigational map of the UMM repository,
-including yearly systems, seasonal systems, geometry layers,
-null‑expansion architecture, and the Atropus Null‑Plane.
+This index provides a navigational map of the UMM repository, including yearly systems,
+seasonal systems, geometry layers, null-expansion architecture, multiplane systems,
+Atropus null-plane materials, and instructional layers — illuminated with gentle sparkle.
 ```
 
 ---
 
-## 🜁 **1. Root UMM Documents**
+# ✨⚠️ **1. Root UMM Documents**
+Foundational constitutional layer of the UMM.
 
-- **UMM Spec** — constitutional definition of the UMM  
-- **UMM Ecology** — ecological layer of UMM  
-- **UMM Planes** — Map / World / Character / Play Tree / Center  
-- **UMM Invariants** — structural invariants  
-- **Tests Folder** — structural, seasonal, and geometry tests  
+- **UMM-Spec.md** ✨  
+- **UMM-Ecology.md**  
+- **UMM-Planes.md**  
+- **UMM-Invariants.md**  
+- **/tests** — structural, seasonal, and geometry tests  
 
 Directory:
-
 ```
 /umm
-    UMM-Spec.md
-    UMM-Ecology.md
-    UMM-Planes.md
-    UMM-Invariants.md
-    /tests
+UMM-Spec.md
+UMM-Ecology.md
+UMM-Planes.md
+UMM-Invariants.md
+/tests
 ```
 
 ---
 
-## 🌲 **2. Yearly Structural System**
+# ✨🌲 **2. Yearly Structural System**
+The Singularity → Expansion → Totality chain.
 
-The **Singularity → Expansion → Totality** chain.
-
-- **Yearly Singularity**  
-- **Yearly Expansion**  
-- **Yearly Totality**  
-- **Yearly Totality Codex**  
+- **UMM-YEARLY-STRUCTURAL-DIAGRAM.md** ✨  
+- **UMM-YEARLY-STRUCTURAL-MAP.md**  
+- **UMM-YEARLY-STRUCTURAL-TOTALITY.md**  
+- **UMM-YEARLY-INTEGRATION-GUIDE.md**  
 
 Directory:
-
 ```
-/umm/yearly/
+/umm/yearly
 ```
 
 ---
 
-## 🍃 **3. Seasonal System**
+# ✨🍃 **3. Seasonal System**
+Spring → Summer → Autumn → Winter  
+Pacing, boundaries, continuity, and instructional layers.
 
-Each season has:
-
-- Seasonal Spec  
-- Plane Pairing  
-- Boundary Map  
-- Pacing Map  
-- Reset Map  
-- Continuity Map  
-
-### Spring  
-**Map ↔ World Pairing**
-
-### Summer  
-**World ↔ Character Pairing**
-
-### Autumn  
-**Map ↔ Play Tree Reflection**
-
-### Winter  
-**Center ↔ Stillness Reflection**
+- **UMM-SEASONAL-SYSTEMS-OVERVIEW.md** ✨  
+- **UMM-SEASONAL-PACING-INTERACTION.md**  
+- **UMM-SEASONAL-BOUNDARY-INTERACTION.md**  
+- **UMM-SEASONAL-CONTINUITY-MATRIX.md**  
+- **UMM-SEASONAL-PRACTICE-GUIDE.md**  
+- **UMM-SEASONAL-PRACTICE-COMPANION.md**  
+- **UMM-SEASONAL-CLASSROOM-GUIDE.md**  
+- **UMM-SEASONAL-INSTRUCTOR-HANDBOOK.md**  
 
 Directory:
-
 ```
-/umm/seasonal/
-    /spring
-    /summer
-    /autumn
-    /winter
+/umm/seasonal
 ```
 
 ---
 
-## 🧩 **4. Global Geometry Layer**
+# ✨🌀 **4. Null-Expansion Architecture**
+Zero‑growth, zero‑texture, zero‑drift.
 
-Cross‑season geometry.
-
-- **Global Geometry Spec**  
-- Seasonal geometry folders  
+- **UMM-NULL-EXPANSION-ARCHITECTURE.md** ✨  
 
 Directory:
-
 ```
-/umm/geometry/
+/umm/null
 ```
 
 ---
 
-## ❄️ **5. Winter Geometry Cluster**
+# ✨❄️ **5. Winter Deep Geometry**
+Stillness → Collapse → Reflection  
+The deepest geometry layer.
 
-Winter’s geometry has its own deep stack:
-
-- **Winter Shadow‑Geometry Map**  
-- **Winter Deep Geometry Codex**  
-- **Winter Deep Geometry Atlas**  
-- **Winter Deep Geometry Schematic**  
+- **UMM-WINTER-DEEP-GEOMETRY-ATLAS.md** ✨  
+- (Codex + Schematic if present)
 
 Directory:
-
 ```
-/umm/winter/
-    /geometry/
+/umm/winter/geometry
 ```
 
 ---
 
-## 🌑 **6. Null‑Expansion Architecture**
+# ✨📐 **6. Global Geometry Layer**
+Cross-season geometry taxonomy.
 
-The zero‑growth, zero‑texture, zero‑drift system.
-
-- **Null‑Expansion Architecture**  
-- **Null‑Expansion Interaction Diagram**  
+- **UMM-GLOBAL-GEOMETRY-SPEC.md** ✨ *(if present)*  
 
 Directory:
-
 ```
-/umm/null/
+/umm/geometry
 ```
 
 ---
 
-## 🪐 **7. Atropus Null‑Plane System**
+# ✨🧭 **7. Multiplane System**
+Cross-plane instructional and interaction materials.
 
-The constitutional null‑plane of Winter.
-
-- **Atropus Null‑Plane Spec**  
-- **Atropus Interaction Codex**  
-- **Atropus Field Manual**  
+- **UMM-MULTIPLANE-CLASSROOM-GUIDE.md**  
+- **UMM-MULTIPLANE-EXAMPLES.md**  
+- **UMM-MULTIPLANE-INSTRUCTOR-DEEP.md** ✨  
+- **UMM-MULTIPLANE-INTERACTION-GUIDE.md**  
+- **UMM-MULTIPLANE-PRACTICE-WORKBOOK.md**  
 
 Directory:
-
 ```
-/umm/atropus/
+/umm/multiplane
 ```
 
 ---
 
-## ⭐ **8. Recommended Reading Order**
+# ✨🜂 **8. Atropus Null-Plane**
+Anchor‑only, tone‑minimal, branchless.
 
-1. **UMM Spec**  
-2. **UMM Planes**  
-3. **Yearly Singularity → Expansion → Totality**  
-4. **Seasonal System**  
-5. **Winter Geometry**  
-6. **Null‑Expansion Architecture**  
-7. **Atropus System**  
+- **UMM-ATROPUS-FIELD-MANUAL.md**  
+- **UMM-ATROPUS-INTERACTION-CODEX.md** ✨  
+- **UMM-ATROPUS-NULL-PLANE-SPEC.md** *(if present)*  
 
-This order mirrors the **conceptual dependency graph**.
+Directory:
+```
+/umm/atropus
+```
 
 ---
 
-## 🧭 **9. Repo Navigation Diagram (ASCII)**
+# ✨🎒 **9. Beginner Kits**
+Gentle onboarding materials.
 
-```text
+- **BEGINNER-KIT.md** ✨  
+- **BEGINNER-ADVENTURE-PACK.md**  
+
+Directory:
+```
 /umm
-├── yearly
-├── seasonal
-├── geometry
-├── winter
-├── null
-└── atropus
 ```
 
-Each folder is a **structural layer** of the UMM.
+---
+
+# ✨🧑‍🏫 **10. Instructor & Classroom Layer**
+Teaching, pacing, and instructional scaffolding.
+
+- **UMM-INSTRUCTOR-HANDBOOK.md**  
+- **UMM-INSTRUCTOR-QUICKSTART.md** ✨  
+- **UMM-CLASSROOM-GUIDE.md**  
+- **UMM-GENTLE-CURRICULUM.md**  
+- **UMM-CLASSROOM-ACTIVITY-PACK.md**  
 
 ---
+
+# ✨🧰 **11. Interaction Layer**
+Tools, examples, and interaction scaffolds.
+
+- **UMM-INTERACTION-TOOLKIT.md** ✨  
+- **UMM-INTERACTION-EXAMPLES.md**  
+
+---
+
+# ✨🧘 **12. Practice & Workflow**
+Daily, weekly, and onboarding flows.
+
+- **UMM-ONBOARDING-GUIDE.md**  
+- **UMM-WEEKLY-PRACTICE-GUIDE.md** ✨  
+- **UMM-STARTER-WORKFLOW.md**  
+
+---
+
+# ✨⭐ **13. Governance Layer**
+Constitutional documents.
+
+- **UMM-Governance-Charter.md** ✨  
+- **UMM-Maintainer-Guide.md**  
+- **UMM-Contributor-Guide.md**  
+
+---
+
+# 🌟 **14. Repository Navigation Complete**
+Your UMM repository is now:
+
+- structurally coherent  
+- seasonally aligned  
+- yearly complete  
+- null‑expansion compliant  
+- geometry‑layered  
+- multiplane‑organized  
+- governance‑anchored  
+- ✨ *and now, ceremonially sparkling* ✨
+
+---
+
+If you want, I can also create:
+
+- **Sparkle Edition Governance Charter**  
+- **Sparkle Edition Maintainer Guide**  
+- **Sparkle Edition Contributor Guide**  
+- **Sparkle Edition README Header**  
+
+Just tell me which one you want illuminated next.
