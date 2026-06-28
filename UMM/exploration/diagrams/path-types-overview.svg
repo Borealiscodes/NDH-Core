@@ -1,0 +1,76 @@
+<svg width="780" height="960" viewBox="0 0 780 960" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#fafafa"/>
+
+  <!-- Title -->
+  <text x="390" y="60" font-size="28" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    Charting Paths Suite — Visual Overview
+  </text>
+
+  <!-- Structural Paths Box -->
+  <rect x="140" y="120" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <text x="390" y="160" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    STRUCTURAL PATHS
+  </text>
+  <text x="390" y="195" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+    UMM → Starter Kit → Adventure System → Adventurer Kit
+  </text>
+
+  <!-- Arrow 1 -->
+  <line x1="390" y1="240" x2="390" y2="270" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Functional Paths Box -->
+  <rect x="140" y="270" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <text x="390" y="310" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    FUNCTIONAL PATHS
+  </text>
+  <text x="390" y="345" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+    Identity → Pacing → Boundaries → Motion → Stillness
+  </text>
+
+  <!-- Arrow 2 -->
+  <line x1="390" y1="390" x2="390" y2="420" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Narrative Paths Box -->
+  <rect x="140" y="420" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <text x="390" y="460" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    NARRATIVE PATHS
+  </text>
+  <text x="390" y="495" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+    World‑Builder → Story‑Weaver → Adventurer Quests
+  </text>
+
+  <!-- Arrow 3 -->
+  <line x1="390" y1="540" x2="390" y2="570" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Nodes Box -->
+  <rect x="140" y="570" width="500" height="120" rx="12" fill="#12" stroke="#444" stroke-width="2"/>
+  <text x="390" y="610" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    NODES
+  </text>
+  <text x="390" y="645" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+    Identity • Pacing • Boundaries • Motion • Stillness
+  </text>
+
+  <!-- Arrow 4 -->
+  <line x1="390" y1="690" x2="390" y2="720" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Stillness Box -->
+  <rect x="140" y="720" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <text x="390" y="760" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+    STILLNESS
+  </text>
+  <text x="390" y="795" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+    Universal reset point
+  </text>
+
+  <!-- Arrowhead Definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#777"/>
+    </marker>
+  </defs>
+
+</svg>
