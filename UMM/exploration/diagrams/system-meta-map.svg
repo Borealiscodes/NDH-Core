@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650">
+  <style>
+    .title { font: 700 24px sans-serif; fill: #111; }
+    .subtitle { font: 400 16px sans-serif; fill: #333; }
+    .label { font: 400 14px sans-serif; fill: #222; }
+    .small { font: 400 12px sans-serif; fill: #444; }
+    .box { fill: #f7f7fb; stroke: #444; stroke-width: 1.5; rx: 8; }
+    .node { fill: #ffffff; stroke: #555; stroke-width: 1.5; rx: 6; }
+    .anchor { fill: #eef3ff; stroke: #334; stroke-width: 1.5; rx: 10; }
+    .govern { fill: #eaf7ff; stroke: #336; stroke-width: 1.5; rx: 10; }
+    .line { stroke: #555; stroke-width: 1.5; marker-end: url(#arrow); }
+    .dashed { stroke-dasharray: 5 4; }
+    .stillness { fill: #fff7e6; stroke: #aa7a2b; stroke-width: 1.8; rx: 14; }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#555" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="40" y="50" class="title">System Meta Map — Exploration Quadrant</text>
+  <text x="40" y="78" class="subtitle">
+    Constitutional Meta-Layer for Navigation, Override, Coherence, and Stillness
+  </text>
+
+  <!-- Meta-Layer -->
+  <rect x="60" y="110" width="780" height="100" class="anchor" />
+  <text x="80" y="140" class="label">META-LAYER</text>
+  <text x="80" y="165" class="small">
+    UMM Constitution • Quadrant Architecture • Visual Grammar • Protocol System
+  </text>
+
+  <!-- Meta boxes -->
+  <rect x="80" y="180" width="180" height="40" class="box" />
+  <text x="95" y="205" class="small">UMM Constitution</text>
+
+  <rect x="300" y="180" width="180" height="40" class="box" />
+  <text x="315" y="205" class="small">Quadrant Architecture</text>
+
+  <rect x="520" y="180" width="180" height="40" class="box" />
+  <text x="535" y="205" class="small">Visual Grammar</text>
+
+  <!-- Arrows -->
+  <line x1="260" y1="200" x2="300" y2="200" class="line" />
+  <line x1="480" y1="200" x2="520" y2="200" class="line" />
+
+  <!-- Governance Layer -->
+  <rect x="60" y="240" width="780" height="110" class="govern" />
+  <text x="80" y="270" class="label">GOVERNANCE LAYER</text>
+  <text x="80" y="295" class="small">
+    Charting Paths • Non-Linear Override • Protocol Integration • Coherence & Integrity
+  </text>
+
+  <!-- Governance boxes -->
+  <rect x="80" y="310" width="160" height="40" class="box" />
+  <text x="95" y="335" class="small">Charting Paths Protocol</text>
+
+  <rect x="260" y="310" width="160" height="40" class="box" />
+  <text x="275" y="335" class="small">Override Protocol</text>
+
+  <rect x="440" y="310" width="160" height="40" class="box" />
+  <text x="455" y="335" class="small">Integration Protocol</text>
+
+  <rect x="620" y="310" width="160" height="40" class="box" />
+  <text x="635" y="335" class="small">Coherence & Integrity</text>
+
+  <!-- Arrows -->
+  <line x1="240" y1="330" x2="260" y2="330" class="line" />
+  <line x1="420" y1="330" x2="440" y2="330" class="line" />
+  <line x1="600" y1="330" x2="620" y2="330" class="line" />
+
+  <!-- Navigation Layer -->
+  <rect x="60" y="360" width="780" height="110" class="anchor" />
+  <text x="80" y="390" class="label">NAVIGATION LAYER</text>
+  <text x="80" y="415" class="small">
+    Structural • Functional • Narrative • Node System • CrossMaps
+  </text>
+
+  <!-- Navigation boxes -->
+  <rect x="80" y="430" width="160" height="40" class="node" />
+  <text x="95" y="455" class="small">Structural Paths</text>
+
+  <rect x="260" y="430" width="160" height="40" class="node" />
+  <text x="275" y="455" class="small">Functional Paths</text>
+
+  <rect x="440" y="430" width="160" height="40" class="node" />
+  <text x="455" y="455" class="small">Narrative Paths</text>
+
+  <rect x="620" y="430" width="160" height="40" class="node" />
+  <text x="635" y="455" class="small">Node System</text>
+
+  <!-- Arrows -->
+  <line x1="240" y1="450" x2="260" y2="450" class="line" />
+  <line x1="420" y1="450" x2="440" y2="450" class="line" />
+  <line x1="600" y1="450" x2="620" y2="450" class="line" />
+
+  <!-- Stillness -->
+  <rect x="360" y="540" width="180" height="40" class="stillness" />
+  <text x="385" y="565" class="label">STILLNESS</text>
+  <text x="385" y="582" class="small">Universal reset point</text>
+
+  <!-- Lines to Stillness -->
+  <line x1="700" y1="450" x2="450" y2="540" class="line dashed" />
+  <line x1="690" y1="330" x2="450" y2="540" class="line dashed" />
+</svg>
