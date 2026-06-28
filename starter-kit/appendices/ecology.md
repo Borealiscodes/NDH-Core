@@ -117,3 +117,34 @@ Regeneration keeps the project alive.
 ## 10. Example Ecological Map (Textual)
 A simple, gentle map of the ecosystem:
 
+Core ↔ Workflow ↔ Stability
+↘        ↘         ↘
+Meta ↔ Documentation ↔ Appendices
+↘         ↘
+Boundaries
+
+
+
+Everything supports everything.
+
+---
+
+## 11. Soft Failure Modes
+If the ecology becomes unstable, failure should be gentle.
+
+Examples:
+- pause  
+- simplify  
+- remove one dependency  
+- return to stillness  
+- reintroduce components slowly  
+
+Soft failure prevents collapse.
+
+---
+
+## 12. Summary
+The Ecology describes the living environment of your project.  
+It keeps growth gentle, interactions breathable, and stability intact.
+
+Version: 1.0 (Starter Kit)
