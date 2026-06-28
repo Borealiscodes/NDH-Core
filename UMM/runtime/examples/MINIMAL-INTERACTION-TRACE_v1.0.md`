@@ -1,0 +1,54 @@
+# **Minimal Example Interaction Trace**  
+`/UMM/runtime/examples/MINIMAL-INTERACTION-TRACE_v1.0.md`
+
+```text
+User Event:
+    User requests a complex transition ("jump to Step state").
+
+Mimi Module:
+    - Reads user tone and cognitive load.
+    - Flags: "transition may be too sharp".
+    - Sends event + user_state to Compassion Runtime Engine.
+
+Compassion Runtime Engine:
+    - Reads current_tonal_state = "Widening".
+    - Infers next_tonal_state = "Step".
+
+    // 1. Load check
+    load_result = compassion_check_load(user_state.cognitive_load, user_state.profile)
+        → returns WARN
+        → Runtime Engine applies softening measures.
+        → Mimi displays gentle pacing prompt.
+
+    // 2. Transition check
+    transition_result = compassion_check_transition("Widening", "Step", context)
+        → returns SOFTEN
+        → Runtime Engine adjusts next_tonal_state to "Convergence".
+        → Mimi communicates softened transition.
+
+    // 3. Identity & boundary checks
+    identity_result = compassion_check_identity(event.operation, user_state.identity)
+        → SAFE
+
+    boundary_result = compassion_check_boundary(event.access_request, user_state)
+        → PERMIT
+
+    // 4. Commit via core engines
+    dispatch_to_core_engines(event, next_tonal_state="Convergence", context)
+
+Core Engines:
+    - Boundary Engine validates access.
+    - Continuity Engine commits tonal shift to "Convergence".
+    - Identity Engine preserves user identity state.
+    - Epoch Engine logs transition.
+
+Compassion Runtime Engine:
+    - Logs compassion decisions to /UMM/runtime/logs/compassion-runtime/
+    - Returns final state to Mimi.
+
+Mimi:
+    - Presents the gentle, softened transition to the user.
+```
+
+---
+
