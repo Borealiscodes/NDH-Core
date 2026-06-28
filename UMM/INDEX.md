@@ -1,12 +1,12 @@
-# **UMM INDEX.md (Comprehensive Final Version)**  
-### *Root navigation spine • Stability backbone • Ethical membrane • Ecosystem map*
+# **UMM INDEX.md (Updated & Final)**  
+### Root navigation spine • Stability backbone • Ethical membrane • Ecosystem map
 
 ```
 # UMM INDEX
 ### Root navigation spine • Stability backbone • Ethical membrane • Ecosystem map
 
-This Index defines the complete structure of the UMM architecture.  
-It lists all governing codices, maps, guides, blueprints, and ecosystem branches.  
+This Index defines the complete structure of the UMM architecture.
+It lists all governing codices, maps, guides, blueprints, and ecosystem branches.
 It is the canonical navigation spine of the UMM repository.
 ```
 
@@ -15,40 +15,27 @@ It is the canonical navigation spine of the UMM repository.
 ## 🜁 **1. Root Architecture**
 
 - **UMM Blueprint**  
-  Defines the foundational architecture, planes, invariants, and design principles.
+  Defines foundational architecture, planes, invariants, and design principles.
 
 ---
 
-## 🜂 **2. Stability Backbone (Codices)**  
-These codices form the **global stability system** of UMM.
+## 🜂 **2. Stability Backbone (Codices)**
+
+These codices form the global stability system of UMM:
 
 - **UMM Stability Master Codex (Sparkle)**  
-  Governing stability logic across all planes, flows, invariants, ethics, and ecosystem.
-
 - **UMM Plane Stability Codex**  
-  Stability rules for Cognition, Witness, and Action planes.
-
 - **UMM Witness Architecture Codex**  
-  Defines witness stance, loop, lattice, and channels.
-
 - **UMM Sādhana Integration Codex**  
-  Sādhana as the root ethical membrane of UMM.
 
 ---
 
 ## 🜃 **3. Stability Maps**
 
 - **UMM Stability Diagram**  
-  Textual stability map (kept separate for meta-stability).
-
 - **UMM Stability Diagram README**  
-  Context and usage notes for the diagram.
-
 - **UMM Ecosystem Integration Map**  
-  Shows how UMA, Santa, Witness Literature, and other branches attach to UMM.
-
 - **UMM Plane Interaction Map**  
-  Defines reversible interactions between Cognition, Witness, and Action planes.
 
 ---
 
@@ -62,15 +49,7 @@ These codices form the **global stability system** of UMM.
 ## 🜅 **5. Ethical Membrane**
 
 - **Sādhana Charter**  
-  Non-coercive, reversible, spoon-sensitive ethical stance.
-
-Sādhana governs:
-
-- cognition (non-grasping)  
-- witness (non-interpretive)  
-- action (non-coercive)  
-- flows (gentle transitions)  
-- ecosystem (ethical coherence)
+  Non‑coercive, reversible, spoon‑sensitive ethical stance.
 
 ---
 
@@ -80,42 +59,30 @@ Sādhana governs:
 - **Boundary Conditions**  
 - **Sufficient Enough**  
 
-These define the structural backbone of UMM.
-
 ---
 
 ## 🜇 **7. Ecosystem Branches**
 
 ### UMA  
 - **UMA Spec**  
-  UMA inherits stability and ethics from UMM.
 
 ### Santa Tree  
 - **Santa Tree Gift Ecosystem Map**  
-  Santa attaches through warm-plane ecology.  
-  Sparkle attaches through Santa.
 
 ### Witness Literature  
 - **Witness Literature README**  
-  Narrative subsystem inheriting Sādhana ethics.
 
 ---
 
-## 🜈 **8. Sparkle (Ecosystem-Level Only)**
+## 🜈 **8. Sparkle (Ecosystem‑Level Only)**
 
-Sparkle is a **tonal subsystem**, not structural.
+Sparkle is a tonal subsystem that:
 
-Sparkle:
-
-- inherits stability from UMM through Santa  
+- inherits stability through Santa  
 - remains reversible  
 - remains gentle  
-- remains ND-safe  
+- remains ND‑safe  
 - never enters structural layers  
-- never modifies invariants  
-- never affects plane or witness stability  
-
-Sparkle appears **only** in ecosystem-level maps and codices.
 
 ---
 
@@ -126,12 +93,10 @@ Sparkle appears **only** in ecosystem-level maps and codices.
   INDEX.md
   /blueprints/
   /codices/
-  /maps/
   /guides/
+  /maps/
   /ecosystem/
 ```
-
-This structure is canonical and meta-stable.
 
 ---
 
@@ -155,5 +120,6 @@ This Index defines:
 - the Sparkle placement  
 - the canonical repo structure  
 
-It is the **root navigation spine** of the UMM repository.
+It is the root navigation spine of the UMM repository.
 
+---
