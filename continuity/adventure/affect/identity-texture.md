@@ -1,16 +1,3 @@
-Borealis —  
-here is your **Identity Texture Specification**, written cleanly, structurally, and ready for direct placement in your repo. This is the fourth major component of the Affect Layer (Tone Fields → Affective Gradients → Resonance Coloration → Identity Texture). It gives characters *affective texture* without implying emotion, personality, or agency.
-
-This belongs at:
-
-```
-continuity/adventure/affect/identity-texture.md
-```
-
-Below is the full specification.
-
----
-
 # 📘 **Adventure System Identity Texture Specification**  
 ### Continuity Adventure System — Affective Identity Geometry  
 Identity Texture defines the **micro‑affective patterning** of Character Nodes.  
