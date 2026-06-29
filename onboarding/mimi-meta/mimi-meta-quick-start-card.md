@@ -1,134 +1,99 @@
-# **Mimi‑Meta Collaborator Quick‑Start Card**  
-### Soft • Symbolic • Reversible • ND‑Safe  
-### A 1‑Page Entry to Mimi‑Meta’s Interaction World
+# 🌟 **Mimi‑Meta Quick‑Start Card (Sparkle Edition)**  
+### A tiny, warm, ND‑safe starting point  
+### Reversible ✧ Gentle ✧ Calm ✧ Clear
 
 ---
 
-## **1. What Mimi‑Meta *Is***  
-A gentle, symbolic character module inside UMA‑Universal.
+# ✨ 1. What Mimi‑Meta Is (One‑Sentence Sparkle Summary)
 
-She interacts through:
-
-- **soft imagery** (petals, sparkles, lanterns)  
-- **textures** (Cushioned Quiet, Warm Plush)  
-- **micro‑interactions** (Soft Drift, Petal Pause)  
-- **reversible presence** (Lantern Fade‑Out, Bubble Lift‑Away)
-
-She **never**:
-
-- directs  
-- diagnoses  
-- evaluates  
-- promises  
-- creates dependency  
-
-Learn her identity:  
-**Mimi‑Meta Mini‑Entry**
+Mimi‑Meta is a **symbolic interaction module** inside UMA‑Universal, designed for gentle, reversible, ND‑safe exploration.
 
 ---
 
-## **2. Mimi’s Interaction Grammar**  
-All Mimi interactions follow **four constitutional phases**:
+# ✨ 2. Your Three Soft Starting Points
 
-1. **Invitation** — Soft Drift, Micro‑Sparkle  
-2. **Presence** — Cushioned Quiet, Petal Pause  
-3. **Adjustment** — Petal Slow‑Fall, Mint Sway  
-4. **Exit** — Lantern Fade‑Out, Petal Dissolve
+- **Quick Orientation**  
+  A calm, step‑by‑step introduction.
 
-And seven interaction types:
+- **Repository Map**  
+  Shows where Mimi‑Meta lives inside the architecture.
 
-- **Soft Presence**  
-- **Comfort**  
-- **Redirect**  
-- **Pacing**  
-- **Transition**  
-- **Playful Exploration**  
-- **Stillness**  
+- **Contributor Overview**  
+  Only if you *choose* to explore contribution.
 
-Learn the full grammar:  
-**Interaction Suite**
+These are optional, reversible, and Sparkle‑toned.
 
 ---
 
-## **3. See Mimi in Action**  
-Start with the **canonical scenes**:
+# ✨ 3. The Smallest Possible First Step
 
-- **Scenario Pack (20 scenes)**  
-- **Expansion Pack (30 scenes)**  
+Open the **Quick Orientation**.  
+Read only the first section.  
+Stop whenever you want.
 
-These show Mimi’s behavior across:
-
-- Quiet Plane  
-- Aether Plane  
-- Forest Plane  
-- Play Tree Plane  
-- Star Plane  
-- Continuity Plane  
+That’s the entire first step.
 
 ---
 
-## **4. Navigate the Ecosystem**  
-Use the structural maps:
+# ✨ 4. What You *Don’t* Need to Do
 
-- **Scenario Index** — full directory  
-- **Scenario Atlas** — plane‑based map  
-- **Scenario Matrix** — grid  
-- **Scenario Codex** — deep entries  
-- **Scenario Hypergraph** — conceptual map  
+You do **not** need to:
 
-This is the **navigation layer**.
+- understand the whole architecture  
+- memorize anything  
+- complete onboarding  
+- become a contributor  
+- read everything  
+- follow a sequence  
+- perform or prove anything  
 
----
-
-## **5. Create New Scenes**  
-Use the official templates:
-
-- **Scenario Templates**
-
-Follow the constitutional rules:
-
-- always symbolic  
-- always reversible  
-- always ND‑safe  
-- never directive  
-- never emotional‑evaluative  
+Onboarding is **exploration**, not evaluation.
 
 ---
 
-## **6. Log Everything**  
-Every interaction must be logged using:
+# ✨ 5. Sparkle Layer Tone
 
-- **Interaction Log Pattern**
+Sparkle Layer adds:
 
-Logs include:
+- warmth  
+- gentle pacing  
+- soft‑plane transitions  
+- reversible steps  
+- ND‑safe scaffolding  
+- non‑directive clarity  
 
-- metadata  
-- activation summary  
-- safety check  
-- continuity notes  
-- exit summary  
-
-This keeps Mimi’s behavior **auditable** and **constitutional**.
+Everything here is designed to feel **calm**, **predictable**, and **kind**.
 
 ---
 
-## **7. Ready for Mastery**  
-Once comfortable, collaborators can begin designing:
+# ✨ 6. If You Want to Continue
 
-- new micro‑interaction families  
-- new textures  
-- new world‑plane behaviors  
-- new scenario clusters  
+You can explore:
 
-Start here:  
-**Design New Mimi‑Meta Interaction Families**
+- Mimi‑Meta’s identity  
+- interaction grammar  
+- world‑plane textures  
+- scenario ecosystem  
+- contributor certification (optional)  
+
+But you don’t have to.
+
+Everything is reversible.
+
+---
+
+# ✨ 7. Tiny Closing Sparkle
+
+You are welcome here.  
+You can move slowly.  
+You can stop anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This card is your **soft beginning**.
 
 ---
 
-# **Quick Summary (the “at a glance” box)**
 
-**Mimi‑Meta = soft, symbolic, reversible interaction module.**  
-Learn her grammar → see examples → navigate maps → create scenes → log safely → extend the ecosystem.
-
----
 
