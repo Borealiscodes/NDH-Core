@@ -1,132 +1,182 @@
-# **Mimi‑Meta Contributor Progress Tracker**  
-### Personal Advancement Sheet for Mimi‑Meta Authors  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Contributor Progress Tracker (Sparkle Edition)**  
+### Gentle • Reversible • ND‑Safe • Warm‑Plane  
+### A calm way to track your Mimi‑Meta contributor journey
 
 ---
 
-# **Contributor Information**
+# ✨ 1. Soft Opening
 
-**Contributor Name:**  
-**Start Date:**  
-**Reviewer (optional):**  
-**Current Status:**  
+This tracker is **not** a checklist.  
+It is **not** a requirement.  
+It is **not** a measure of performance.
+
+It is simply a **warm‑plane reflection tool** that helps you see where you are, softly.
+
+You can:
+
+- mark steps lightly  
+- skip steps  
+- pause anytime  
+- return anytime  
+
+Everything is reversible.
 
 ---
 
-# **Progress Overview**
+# ✨ 2. Progress Overview (Warm‑Plane)
 
-This tracker mirrors the **7‑step Certification Path**.  
-Each step includes a checkbox, completion notes, and optional reviewer confirmation.
+Below is the Sparkle‑paced contributor journey, broken into gentle steps.
+
+Each item begins with a Guided Link so you can open it directly.
 
 ---
 
-## **1. Orientation — Mimi Identity**  
-**Goal:** Understand Mimi‑Meta’s symbolic nature and constitutional boundaries.  
-**Resources:**  
-- **Mimi‑Meta Mini‑Entry**  
-- **Activation README**  
+## **1. Orientation**  
+**Status:**  
+- Not yet  
+- Started  
+- Comfortable  
+- Complete  
+- I don’t know  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Soft reflections.)*
 
 ---
 
-## **2. Interaction Grammar Literacy**  
-**Goal:** Learn Mimi’s interaction architecture.  
-**Resources:**  
-- **Interaction Suite**  
+## **2. Repository Map**  
+**Status:**  
+- Not yet  
+- Viewed  
+- Understood lightly  
+- Comfortable  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Warm thoughts.)*
 
 ---
 
-## **3. Scenario Literacy**  
-**Goal:** Read and understand all 50 scenarios.  
-**Resources:**  
-- **Canonical Pack**  
-- **Expansion Pack**  
+## **3. Contributor Handbook**  
+**Status:**  
+- Not yet  
+- Skimmed  
+- Read  
+- Comfortable  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Gentle impressions.)*
 
 ---
 
-## **4. Ecosystem Navigation**  
-**Goal:** Learn how to navigate the structural maps.  
-**Resources:**  
-- **Scenario Index**  
-- **Scenario Atlas**  
-- **Scenario Matrix**  
-- **Scenario Codex**  
-- **Scenario Hypergraph**  
+## **4. Certification Package**  
+**Status:**  
+- Not yet  
+- Opened  
+- Understood lightly  
+- Comfortable  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Soft reflections.)*
 
 ---
 
-## **5. Scene Creation Practice**  
-**Goal:** Create at least one Mimi‑Meta interaction scene.  
-**Resources:**  
-- **Scenario Templates**  
+## **5. Certification Form**  
+**Status:**  
+- Not yet  
+- Started  
+- In progress  
+- Submitted  
+- Revised  
+- Complete  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Calm thoughts.)*
 
 ---
 
-## **6. Logging & Auditing Practice**  
-**Goal:** Produce a log using the Interaction Log Pattern.  
-**Resources:**  
-- **Interaction Log Pattern**  
+## **6. Certification Rubric**  
+**Status:**  
+- Not yet  
+- Viewed  
+- Understood lightly  
+- Comfortable  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Complete  
 **Notes:**  
+*(Warm reflections.)*
 
 ---
 
-## **7. Certification Review**  
-**Goal:** Submit work for review and receive certification.  
-**Resources:**  
-- **Certification Rubric**  
-- **Certification Form**  
-- **Review Workflow**  
+## **7. Review Workflow**  
+**Status:**  
+- Not yet  
+- In review  
+- Revision loop  
+- Warm‑plane completion  
 
-**Status:** ☐ Not Started ☐ In Progress ☐ Certified  
-**Reviewer Notes:**  
-
----
-
-# **Progress Summary**
-
-| Step | Status | Reviewer Initials |
-|------|--------|-------------------|
-| Orientation | ☐ | |
-| Grammar Literacy | ☐ | |
-| Scenario Literacy | ☐ | |
-| Navigation | ☐ | |
-| Creation | ☐ | |
-| Logging | ☐ | |
-| Certification | ☐ | |
+**Notes:**  
+*(Gentle impressions.)*
 
 ---
 
-# **Completion & Certification**
+## **8. Badge Set**  
+**Status:**  
+- Not yet  
+- Earned one  
+- Earned several  
+- Full set  
 
-**Certification Level:**  
-☐ Certified Mimi‑Meta Contributor  
-☐ Provisional Certification  
-☐ Needs Revision  
-
-**Reviewer Signature:**  
-**Date:**  
+**Notes:**  
+*(Sparkle joy.)*
 
 ---
 
-# **Closing Note**
+# ✨ 3. Soft‑Plane Reflection Section
 
-This tracker is a gentle, predictable way for collaborators to see their progress through the Mimi‑Meta ecosystem.  
-It completes the certification bundle and makes onboarding fully self‑contained.
+You may write anything here:
+
+- feelings  
+- comfort levels  
+- pacing notes  
+- Sparkle tone reflections  
+- ND‑safe needs  
+- pauses  
+- intentions  
+
+This section is **for you**, not for reviewers.
+
+---
+
+# ✨ 4. Reviewer Notes (Optional)
+
+Reviewers may add gentle reflections:
+
+**Warm‑Plane Notes:**  
+*(Supportive, calm.)*
+
+**Alignment Notes:**  
+*(Soft observations.)*
+
+**Safety Notes:**  
+*(ND‑safe reflections.)*
+
+**Continuity Notes:**  
+*(Gentle suggestions.)*
+
+**Sparkle Tone Notes:**  
+*(Warm‑plane tonal feedback.)*
+
+---
+
+# ✨ 5. Tiny Closing Sparkle
+
+You are welcome here.  
+You can move gently.  
+You can pause anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This tracker is your **calm, supportive companion** through the Mimi‑Meta contributor journey.
+
+---
 
