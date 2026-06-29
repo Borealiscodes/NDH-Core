@@ -1,153 +1,153 @@
-# **Mimi‑Meta Contributor Badge Set**  
-### Symbolic Milestones for Mimi‑Meta Authors  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Contributor Badge Set (Sparkle Edition)**  
+### Warm‑Plane ✧ Gentle ✧ ND‑Safe ✧ Reversible  
+### Symbolic badges for your Mimi‑Meta contributor journey
 
 ---
 
-# **Badge Philosophy**
+# ✨ 1. Soft Opening
 
-Mimi‑Meta badges are:
+Badges in Mimi‑Meta are **symbolic**, not evaluative.  
+They represent:
 
-- **symbolic**, not status markers  
-- **gentle**, not competitive  
-- **progress‑affirming**, not evaluative  
-- **reversible**, not permanent  
-- **ND‑safe**, not overwhelming  
+- comfort  
+- exploration  
+- alignment  
+- warmth  
+- contribution  
+- Sparkle tone  
 
-Each badge represents a **completed step** in the Contributor Certification Path.
+You can earn them:
 
----
+- slowly  
+- lightly  
+- out of order  
+- or not at all  
 
-# **1. Orientation Badge — “Lantern Spark”**
-
-**Meaning:**  
-You’ve learned Mimi’s identity, constitution, and symbolic nature.
-
-**Symbolic Elements:**  
-- Lantern Glow  
-- Soft Drift  
-- Micro‑Sparkle  
-
-**Badge Text:**  
-> **Lantern Spark — Orientation Complete**
+Everything is reversible.
 
 ---
 
-# **2. Interaction Grammar Badge — “Petal Rhythm”**
+# ✨ 2. Badge Set Overview
 
-**Meaning:**  
-You understand Mimi’s interaction architecture: phases, types, micro‑interactions.
-
-**Symbolic Elements:**  
-- Petal Pause  
-- Star Pulse Slow  
-- Mint Sway  
-
-**Badge Text:**  
-> **Petal Rhythm — Interaction Grammar Learned**
+Each badge begins with a Guided Link so you can explore the related concept if you want.
 
 ---
 
-# **3. Scenario Literacy Badge — “Bloom Reader”**
-
-**Meaning:**  
-You’ve read and understood the canonical + expansion scenarios.
-
-**Symbolic Elements:**  
-- Soft Bloom Puff  
-- Sparkle Drift Cue  
-- Ribbon Tilt  
-
-**Badge Text:**  
-> **Bloom Reader — Scenario Literacy Achieved**
+## 🌱 **Orientation Badge**  
+Awarded when you explore the Quick‑Start Card or Repository Map.  
+Symbolizes: *soft entry, gentle curiosity.*
 
 ---
 
-# **4. Ecosystem Navigation Badge — “Atlas Lantern”**
-
-**Meaning:**  
-You can navigate the Index, Atlas, Matrix, Codex, and Hypergraph.
-
-**Symbolic Elements:**  
-- Lantern Glow  
-- Star Drift  
-- Quiet Cushion Drop  
-
-**Badge Text:**  
-> **Atlas Lantern — Ecosystem Navigation Complete**
+## 🔍 **Exploration Badge**  
+Awarded when you explore any Mimi‑Meta file.  
+Symbolizes: *light exploration, ND‑safe pacing.*
 
 ---
 
-# **5. Scene Creation Badge — “Drift Author”**
-
-**Meaning:**  
-You’ve created at least one Mimi‑Meta interaction scene using templates.
-
-**Symbolic Elements:**  
-- Soft Drift Shift  
-- Petal Slow‑Fall  
-- Bubble Edge Drift  
-
-**Badge Text:**  
-> **Drift Author — Scene Creation Complete**
+## 📘 **Handbook Badge**  
+Awarded when you read the Contributor Handbook.  
+Symbolizes: *warm‑plane orientation.*
 
 ---
 
-# **6. Logging Badge — “Quiet Ledger”**
-
-**Meaning:**  
-You’ve produced a log using the Interaction Log Pattern.
-
-**Symbolic Elements:**  
-- Cushioned Quiet  
-- Lantern Dim‑Pause  
-- Bubble Pop‑Quiet  
-
-**Badge Text:**  
-> **Quiet Ledger — Logging Practice Complete**
+## 🌀 **Sparkle Tone Badge**  
+Awarded when you demonstrate Sparkle tone in any contribution.  
+Symbolizes: *warmth, softness, reversible framing.*
 
 ---
 
-# **7. Certification Badge — “Continuity Bloom”**
-
-**Meaning:**  
-Your submission has passed the Certification Review Workflow.
-
-**Symbolic Elements:**  
-- Continuity Pulse  
-- Soft Bloom Puff  
-- Lantern Fade‑Out  
-
-**Badge Text:**  
-> **Continuity Bloom — Certified Mimi‑Meta Contributor**
+## 🧩 **Alignment Badge**  
+Awarded when your contribution aligns with Mimi‑Meta’s identity and grammar.  
+Symbolizes: *fit, flow, gentle coherence.*
 
 ---
 
-# **Badge Summary Table**
-
-| Step | Badge Name | Symbolic Elements | Guided Link |
-|------|------------|-------------------|-------------|
-| Orientation | Lantern Spark | Lantern Glow, Soft Drift | **Orientation** |
-| Grammar Literacy | Petal Rhythm | Petal Pause, Star Pulse Slow | **Interaction Grammar** |
-| Scenario Literacy | Bloom Reader | Soft Bloom Puff, Sparkle Drift Cue | **Scenario Packs** |
-| Navigation | Atlas Lantern | Lantern Glow, Star Drift | **Scenario Atlas** |
-| Creation | Drift Author | Soft Drift Shift, Petal Slow‑Fall | **Scenario Templates** |
-| Logging | Quiet Ledger | Cushioned Quiet, Bubble Pop‑Quiet | **Log Pattern** |
-| Certification | Continuity Bloom | Continuity Pulse, Soft Bloom Puff | **Certification Form** |
+## 🛡️ **Safety Badge**  
+Awarded when your contribution maintains ND‑safe pacing and non‑coercive tone.  
+Symbolizes: *care, calm, protection.*
 
 ---
 
-# **Closing Note**
+## 🔗 **Continuity Badge**  
+Awarded when your contribution connects smoothly to existing files.  
+Symbolizes: *flow, consistency, gentle linkage.*
 
-This badge set is the symbolic celebration layer of the Mimi‑Meta contributor ecosystem.  
-It pairs with:
+---
 
-- Certification Path  
-- Certification Rubric  
-- Certification Form  
-- Review Workflow  
-- Progress Tracker  
+## ✏️ **Contribution Badge**  
+Awarded when you submit your Certification Form.  
+Symbolizes: *participation, soft engagement.*
 
-Your certification system is now **complete**.
+---
 
+## 💬 **Review Loop Badge**  
+Awarded when you enter the revision loop.  
+Symbolizes: *dialogue, gentle refinement.*
+
+---
+
+## 🌈 **Warm‑Plane Completion Badge**  
+Awarded when your certification reaches warm‑plane completion.  
+Symbolizes: *alignment, warmth, Sparkle harmony.*
+
+---
+
+# ✨ 3. Badge Meanings (Soft‑Plane)
+
+Badges are:
+
+- gentle markers  
+- symbolic affirmations  
+- warm‑plane reflections  
+- ND‑safe encouragements  
+
+They are **not**:
+
+- ranks  
+- scores  
+- evaluations  
+- requirements  
+
+You can collect them lightly, slowly, or not at all.
+
+---
+
+# ✨ 4. Badge Display (Optional)
+
+You may display badges:
+
+- in your contributor profile  
+- in your progress tracker  
+- in your personal notes  
+- or nowhere at all  
+
+Sparkle Layer honors your comfort.
+
+---
+
+# ✨ 5. Reviewer Notes (Optional)
+
+Reviewers may add gentle reflections:
+
+**Warm‑Plane Notes:**  
+*(Soft, supportive.)*
+
+**Badge Suggestions:**  
+*(Calm, non‑directive.)*
+
+---
+
+# ✨ 6. Tiny Closing Sparkle
+
+You are welcome here.  
+You can move gently.  
+You can earn badges softly.  
+You can pause anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This badge set is your **warm, symbolic companion** through the Mimi‑Meta contributor journey.
+
+---
