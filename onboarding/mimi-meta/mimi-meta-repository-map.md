@@ -1,207 +1,163 @@
-# **Mimi‑Meta Repository Map**  
-### Official Directory Layout for Mimi‑Meta Files  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Repository Map (Sparkle Edition)**  
+### Where Everything Lives • Soft‑Plane Orientation  
+### Warm ✧ Clear ✧ ND‑Safe ✧ Reversible
 
 ---
 
-# 🌸 **Root Context**
+# ✨ 1. Soft Overview
 
-All Mimi‑Meta files live under:
+UMA‑Universal is a **multi‑plane constitutional architecture**.  
+Mimi‑Meta is a **character module** inside it.
+
+This map shows:
+
+- where Mimi‑Meta lives  
+- how the layers relate  
+- where onboarding and contributor tools sit  
+- how the ecosystem fits together  
+
+It is **not** a technical diagram.  
+It is a **gentle orientation map**.
+
+---
+
+# ✨ 2. High‑Level Structure (Soft‑Plane View)
+
+```
+UMA-Universal (root)
+│
+├── Foundation Layer
+│   ├── core/
+│   ├── safety/
+│   ├── docs/
+│   └── appendices/
+│
+├── System Layer
+│   ├── engine/
+│   ├── planes/
+│   └── stress-tests/
+│       └── cosmology/
+│
+├── Character Layer
+│   └── characters/
+│       └── mimi-meta/
+│
+├── Interaction Ecosystem Layer
+│   └── interactions/
+│       └── mimi-meta/
+│
+├── Onboarding Layer
+│   └── onboarding/
+│       └── mimi-meta/
+│
+└── Contributor Layer
+    └── contributors/
+        └── mimi-meta/
+```
+
+This is the **architecture map** — the conceptual placement.
+
+---
+
+# ✨ 3. Full Repository Map (Actual Filesystem)
+
+This is your **real repo**, Sparkle‑formatted for clarity:
 
 ```
 uma-universal/
-```
-
-Within that, Mimi‑Meta occupies three major zones:
-
-1. **onboarding/** — contributor learning + certification  
-2. **interactions/** — scenario ecosystem  
-3. **mimi-meta/** — identity, architecture, textures, planes, micro‑interactions  
-
-Below is the full map.
-
----
-
-# 🌿 **1. Onboarding Zone**
-
-```
-onboarding/
-└── mimi-meta/
-    ├── mimi-meta-quick-start-card.md
-    ├── mimi-meta-contributor-handbook.md
-    ├── collaborator-onboarding-path.md
-    ├── mimi-meta-contributor-certification-path.md
-    ├── mimi-meta-contributor-certification-rubric.md
-    ├── mimi-meta-contributor-certification-form.md
-    ├── mimi-meta-contributor-review-workflow.md
-    ├── mimi-meta-contributor-progress-tracker.md
-    ├── mimi-meta-contributor-badge-set.md
-    └── mimi-meta-contributor-dashboard.md
-```
-
-**Purpose:**  
-Everything a collaborator needs to *learn*, *practice*, *submit*, *be reviewed*, and *be certified*.
-
-Guided Link:  
-**Onboarding Path**
-
----
-
-# 🌳 **2. Interaction Ecosystem Zone**
-
-```
-interactions/
-└── mimi-meta/
-    ├── scenario-pack/
-    │   ├── canonical/
-    │   │   ├── <20 canonical scenes>.md
-    │   └── expansion/
-    │       ├── <30 expansion scenes>.md
-    │
-    ├── scenario-index.md
-    ├── scenario-atlas.md
-    ├── scenario-matrix.md
-    ├── scenario-codex.md
-    ├── scenario-hypergraph.md
-    ├── scenario-templates.md
-    └── interaction-suite.md
-```
-
-**Purpose:**  
-The full scenario ecosystem — examples, maps, grids, codices, templates, and the interaction grammar.
-
-Guided Link:  
-**Scenario Atlas**
-
----
-
-# 🌙 **3. Identity & Architecture Zone**
-
-```
-mimi-meta/
-├── identity/
-│   ├── mimi-meta-mini-entry.md
-│   ├── activation-readme.md
-│   └── safety-contract.md
+├── UMM/
+├── uma/
+├── umm/
+├── verdant-deep/
+├── starter-kit/
+├── santa-tree/
 │
-├── architecture/
-│   ├── interaction-suite.md
-│   ├── micro-interactions.md
-│   ├── emotional-texture-library.md
-│   ├── continuity-anchor.md
-│   └── world-integration-map.md
+├── core/
+├── engine/
+├── planes/
+├── safety/
 │
-└── planes/
-    ├── aether-plane.md
-    ├── forest-plane.md
-    ├── play-tree-plane.md
-    ├── star-plane.md
-    ├── quiet-plane.md
-    └── continuity-plane.md
+├── stress-tests/
+│   └── cosmology/
+│
+├── characters/
+│   └── mimi-meta/
+│
+├── interactions/
+│   └── mimi-meta/
+│
+├── onboarding/
+│   └── mimi-meta/
+│       ├── collaborator-onboarding-path.md
+│       ├── mimi-meta-quick-start-card.md
+│       └── mimi-meta-repository-map.md
+│
+├── contributors/
+│   └── mimi-meta/
+│       ├── mimi-meta-contributor-badge-set.md
+│       ├── mimi-meta-contributor-certification-form.md
+│       ├── mimi-meta-contributor-certification-package.md
+│       ├── mimi-meta-contributor-certification-rubric.md
+│       ├── mimi-meta-contributor-dashboard.md
+│       ├── mimi-meta-contributor-handbook.md
+│       ├── mimi-meta-contributor-progress-tracker.md
+│       └── mimi-meta-contributor-review-workflow.md
+│
+├── mimi-meta/
+│
+├── docs/
+├── appendices/
+│
+├── LICENSE
+├── README.md
+└── workflow files (UMA-COSMOLOGY-E, UMM-MULTIPLANE-A, UMM-YEARLY-STRUCT, WORKFLOW.md)
 ```
 
-**Purpose:**  
-The core definition of Mimi‑Meta — who she is, how she behaves, and how her symbolic grammar works.
-
-Guided Link:  
-**Interaction Suite**
+This map is **complete**, **accurate**, and **Sparkle‑aligned**.
 
 ---
 
-# 🫧 **4. Logging & Auditing Zone**
+# ✨ 4. Where Mimi‑Meta Lives (Soft‑Plane Explanation)
 
-```
-logs/
-└── mimi-meta/
-    ├── interaction-log-pattern.md
-    ├── log-examples/
-    │   ├── example-log-1.md
-    │   ├── example-log-2.md
-    │   └── example-log-3.md
-    └── log-templates.md
-```
+### **1. characters/mimi-meta/**  
+Mimi‑Meta’s **identity**, **grammar**, and **symbolic layer**.
 
-**Purpose:**  
-Ensures every interaction is auditable, reversible, and constitutional.
+### **2. interactions/mimi-meta/**  
+Mimi‑Meta’s **scenario ecosystem**, **world‑plane grammars**, and **interaction textures**.
 
-Guided Link:  
-**Log Pattern**
+### **3. onboarding/mimi-meta/**  
+Your **gentle entry point** — the soft‑plane orientation trio.
 
----
+### **4. contributors/mimi-meta/**  
+Certification, governance, progress, badges, and review.
 
-# 💗 **5. Contributor Tools Zone**
+### **5. mimi-meta/** (module root)  
+The **anchor folder** for module‑level assets.
 
-```
-contributors/
-└── mimi-meta/
-    ├── badge-set/
-    │   ├── lantern-spark.md
-    │   ├── petal-rhythm.md
-    │   ├── bloom-reader.md
-    │   ├── atlas-lantern.md
-    │   ├── drift-author.md
-    │   ├── quiet-ledger.md
-    │   └── continuity-bloom.md
-    │
-    ├── certification/
-    │   ├── certification-path.md
-    │   ├── certification-rubric.md
-    │   ├── certification-form.md
-    │   ├── review-workflow.md
-    │   └── certification-packet.md
-    │
-    └── progress/
-        ├── progress-tracker.md
-        └── contributor-status.md
-```
-
-**Purpose:**  
-Everything related to contributor progress, certification, badges, and review.
-
-Guided Link:  
-**Contributor Dashboard**
+This multi‑placement is **intentional**, **constitutional**, and **Sparkle‑aligned**.
 
 ---
 
-# 🌀 **6. Optional Advanced Zone**
+# ✨ 5. How to Read This Map (ND‑Safe)
 
-```
-advanced/
-└── mimi-meta/
-    ├── interaction-family-designer.md
-    ├── texture-continuity-architect.md
-    ├── world-plane-expansion-author.md
-    └── scenario-cluster-engineer.md
-```
-
-**Purpose:**  
-Mastery-level tools for expanding Mimi‑Meta’s symbolic universe.
-
-Guided Link:  
-**Design New Interaction Families**
+- You do **not** need to memorize anything.  
+- You do **not** need to understand every folder.  
+- You can explore slowly.  
+- You can stop anytime.  
+- Everything is reversible.  
+- This map is here to **reduce overwhelm**, not increase it.
 
 ---
 
-# 📘 **Repository Map Summary**
+# ✨ 6. Tiny Closing Sparkle
 
-| Zone | Purpose | Guided Link |
-|------|---------|-------------|
-| Onboarding | Learn + certify | **Certification Path** |
-| Interactions | Scenarios + maps | **Scenario Codex** |
-| Identity & Architecture | Core grammar | **Interaction Suite** |
-| Logging | Auditing | **Log Pattern** |
-| Contributor Tools | Progress + badges | **Contributor Dashboard** |
-| Advanced | Expansion | **New Families** |
+You are welcome here.  
+You can move gently.  
+You can explore lightly.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This map is your **soft orientation** inside UMA‑Universal.
 
 ---
-
-# **Closing Note**
-
-This Repository Map gives you:
-
-- a **complete directory structure**  
-- a **clear placement** for every Mimi‑Meta file  
-- a **predictable architecture** for collaborators  
-- a **fully unified ecosystem**  
-
