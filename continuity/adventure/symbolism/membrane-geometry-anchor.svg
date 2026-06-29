@@ -1,0 +1,61 @@
+<svg width="720" height="720" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#fdfdfd"/>
+
+  <!-- Center Stillness (Stability Core) -->
+  <circle cx="360" cy="360" r="8" fill="#333" />
+  <text x="372" y="360" font-size="16" fill="#333">Stillness Core</text>
+
+  <!-- Pacing Membrane (Wave + Curve) -->
+  <!-- Wave (Lateral Pacing) -->
+  <path d="M140 260
+           q 50 -40 100 0
+           t 100 0
+           t 100 0
+           t 100 0"
+        stroke="#2ecc71" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- Softening Curve (Downward) -->
+  <path d="M360 260 Q 360 300 360 340"
+        stroke="#2ecc71" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="140" y="240" font-size="16" fill="#2ecc71">Pacing Membrane</text>
+
+  <!-- Hazard Membrane (Spiral + Curve) -->
+  <!-- Inward Spiral (Stabilization) -->
+  <path d="M360 360
+           m 80 0
+           a 80 80 0 1 0 -160 0
+           a 60 60 0 1 0 120 0
+           a 40 40 0 1 0 -80 0"
+        stroke="#e74c3c" stroke-width="4" fill="none"/>
+  <!-- Grounding Curve -->
+  <path d="M360 460 Q 360 520 360 560"
+        stroke="#e74c3c" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="420" y="520" font-size="16" fill="#e74c3c">Hazard Membrane</text>
+
+  <!-- Stability Membrane (Point + Curve) -->
+  <!-- Center Point already drawn as Stillness Core -->
+  <!-- Grounding Curve -->
+  <path d="M260 360 Q 260 420 260 480"
+        stroke="#7f8c8d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="220" y="500" font-size="16" fill="#7f8c8d">Stability Membrane</text>
+
+  <!-- Cosmology Membrane (Ray + Spiral + Wave) -->
+  <!-- Ray (Upward Clarity) -->
+  <line x1="360" y1="360" x2="360" y2="140"
+        stroke="#3498db" stroke-width="6" stroke-linecap="round"/>
+  <!-- Small Spiral (Reflection) -->
+  <path d="M360 360
+           m -20 0
+           a 20 20 0 1 1 40 0
+           a 30 30 0 1 1 -60 0"
+        stroke="#3498db" stroke-width="3" fill="none"/>
+  <!-- Wave (Drift Alignment) -->
+  <path d="M180 160
+           q 40 -30 80 0
+           t 80 0
+           t 80 0"
+        stroke="#3498db" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="400" y="180" font-size="16" fill="#3498db">Cosmology Membrane</text>
+
+</svg>
