@@ -219,3 +219,13 @@ It provides:
 
 It is now **complete**, **aligned**, and **ready for collaborators**.
 
+## Technical Appendices
+
+- UMA + UMM Technical Overview  
+  (continuity/mimi-meta/mimi-meta-uma-umm-technical-overview.md)
+
+- Santa Tree Technical Explanation  
+- Sparkle Plane Technical Explanation  
+- Santa Tree + Sparkle Plane Combined Architecture Overview
+
+
