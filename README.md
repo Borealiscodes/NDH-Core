@@ -1,259 +1,141 @@
-# 🌟 **UMA‑Universal — Root README (Sparkle Edition)**  
-### Constitutional Meta‑Architecture • Multi‑Plane Ecology • ND‑Safe Structural System  
-### Sparkle Layer Enabled ✧ Warm‑Plane Tonal System ✧ Reversible ✧ Gentle ✧ Clear
+# **README.md**  
+### *UMA‑Universal · A Clean, Accessible, Movement‑First Meta‑Architecture*
+
+UMA‑Universal is a constitutional, non‑coercive meta‑architecture designed for clarity, accessibility, and stable organization of thought.  
+It provides a way to structure complex systems without forcing hierarchy, origin, pursuit, or duality.
+
+The architecture is **movement‑first**.  
+This means:
+
+- flow matters more than recursion  
+- transitions matter more than symbols  
+- clarity matters more than cleverness  
+- accessibility matters more than density  
+
+This keeps the system usable for real humans — especially ND thinkers — without collapsing into recursive or symbolic attractors.
 
 ---
 
-# ✨ 1. What UMA‑Universal Is (Sparkle Summary)
+## 🧭 **How UMA‑Universal Organizes Thought**
 
-UMA‑Universal is a **constitutional, non‑coercive meta‑architecture** for building modular, reversible, ND‑safe systems across multiple planes.
+UMA‑Universal organizes thought through **movement**, not recursion.
 
-It provides:
+Movement is:
 
-- a **governance core**  
-- a **cosmology engine**  
-- a **multi‑plane ecology**  
-- a **character layer** (Mimi‑Meta)  
-- a **scenario ecosystem**  
-- a **contributor system**  
-- a **clear, predictable structure**  
+- directional without being rigid  
+- reflective without being self‑referential  
+- structured without being hierarchical  
+- spacious without being chaotic  
 
-Sparkle Layer adds:
+This makes UMA‑Universal a stable environment for:
 
-- warmth  
-- tonal clarity  
-- gentle reversibility  
-- ND‑safe pacing  
-- soft‑plane transitions  
-- non‑directive interaction textures  
+- designing systems  
+- writing documents  
+- building worlds  
+- structuring cognition  
+- collaborating with others  
+
+The architecture stays clean because movement is always primary.
 
 ---
 
-# ✨ 2. UMA‑Universal Architecture Map (Sparkle Edition)
+## 🧠 **Core Layers**
 
-```
-                         ┌──────────────────────────────────────────┐
-                         │            UMA‑UNIVERSAL ROOT             │
-                         │   Constitutional Meta‑Architecture        │
-                         └──────────────────────────────────────────┘
-                                        │
-                                        ▼
-        ┌────────────────────────────────────────────────────────────────────┐
-        │                         FOUNDATION LAYER                           │
-        │  • UMM Constitution                                                │
-        │  • Activation Principles                                           │
-        │  • Safety Model                                                    │
-        │  • Core Documentation                                              │
-        └────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-        ┌────────────────────────────────────────────────────────────────────┐
-        │                           SYSTEM LAYER                             │
-        │  • Cosmology Engine                                                │
-        │  • Plane Orchestration                                             │
-        │  • Governance & Enforcement                                        │
-        │  • Stress‑Tests                                                    │
-        │  • System Workflows                                                │
-        └────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-        ┌────────────────────────────────────────────────────────────────────┐
-        │                          CHARACTER LAYER                           │
-        │  • Symbolic Modules                                                │
-        │  • Interaction Grammar                                             │
-        │  • Safety Contracts                                                │
-        │                                                                    │
-        │  ┌──────────────────────────────────────────────────────────────┐  │
-        │  │                         MIMI‑META MODULE                     │  │
-        │  │  • Identity                                                   │  │
-        │  │  • Interaction Suite                                          │  │
-        │  │  • Micro‑Interactions                                         │  │
-        │  │  • Texture Library                                            │  │
-        │  │  • Continuity Anchor                                          │  │
-        │  │  • World‑Planes                                               │  │
-        │  │  • Scenario Ecosystem                                         │  │
-        │  │  • Contributor Tools                                          │  │
-        │  └──────────────────────────────────────────────────────────────┘  │
-        └────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-        ┌────────────────────────────────────────────────────────────────────┐
-        │                    INTERACTION ECOSYSTEM LAYER                     │
-        │  • Scenario Packs                                                  │
-        │  • Scenario Atlas                                                  │
-        │  • Scenario Matrix                                                 │
-        │  • Scenario Codex                                                  │
-        │  • Scenario Hypergraph                                             │
-        │  • World‑Plane Grammars                                            │
-        └────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-        ┌────────────────────────────────────────────────────────────────────┐
-        │                         CONTRIBUTOR LAYER                          │
-        │  • Certification Path                                              │
-        │  • Certification Rubric                                            │
-        │  • Certification Form                                              │
-        │  • Badge Set                                                       │
-        │  • Review Workflow                                                 │
-        │  • Progress Tracker                                                │
-        │  • Contributor Dashboard                                           │
-        └────────────────────────────────────────────────────────────────────┘
-```
+### **1. Thoroughfare — Movement Layer**
+Thoroughfare governs how ideas, modules, and states **move**.
+
+It contains three movement structures:
+
+- **Corridors** — clear, linear paths  
+- **Braid** — reflective, interwoven movement  
+- **Weave** — distributed, multi‑path exploration  
+
+**Corridors define precedence; Braid and Weave extend movement.**
+
+This single line stabilizes the entire repo.
 
 ---
 
-# ✨ 3. Full Repository Structure (Sparkle Edition)
+### **2. UMA Core — Constitutional Layer**
+Defines rights, boundaries, and non‑coercive guarantees.
 
-This is your **actual filesystem**, fully aligned with the architecture.
+It ensures:
 
-```
-uma-universal/
-├── UMM/
-├── uma/
-├── umm/
-├── verdant-deep/
-├── starter-kit/
-├── santa-tree/
-├── core/
-├── engine/
-├── planes/
-├── safety/
-├── stress-tests/
-│   └── cosmology/
-├── characters/
-│   └── mimi-meta/
-├── interactions/
-│   └── mimi-meta/
-├── onboarding/
-│   └── mimi-meta/
-│       ├── collaborator-onboarding-path.md
-│       ├── mimi-meta-quick-start-card.md
-│       └── mimi-meta-repository-map.md
-├── contributors/
-│   └── mimi-meta/
-│       ├── mimi-meta-contributor-badge-set.md
-│       ├── mimi-meta-contributor-certification-form.md
-│       ├── mimi-meta-contributor-certification-package.md
-│       ├── mimi-meta-contributor-certification-rubric.md
-│       ├── mimi-meta-contributor-dashboard.md
-│       ├── mimi-meta-contributor-handbook.md
-│       ├── mimi-meta-contributor-progress-tracker.md
-│       └── mimi-meta-contributor-review-workflow.md
-├── mimi-meta/
-├── docs/
-├── appendices/
-├── LICENSE
-├── README.md
-└── workflow files (UMA-COSMOLOGY-E, UMM-MULTIPLANE-A, UMM-YEARLY-STRUCT, WORKFLOW.md)
-```
+- safety  
+- clarity  
+- autonomy  
+- consent  
+- accessibility  
 
-This is the **Sparkle‑accurate**, **real**, **complete** structure.
+This layer is intentionally simple and readable.
 
 ---
 
-# ✨ 4. Sparkle Layer Principles
+### **3. Cosmology Engine — Runtime Layer**
+Defines state and flow without imposing:
 
-Sparkle Layer is:
+- origin  
+- pursuit  
+- hierarchy  
+- symbolic recursion  
 
-- warm  
-- gentle  
+It is a movement‑aligned runtime.
+
+---
+
+## 🌱 **Accessibility Principles**
+
+UMA‑Universal is designed to be:
+
+- ND‑friendly  
+- low‑pressure  
 - reversible  
-- ND‑safe  
-- non‑directive  
-- tonal  
-- soft‑plane  
+- gentle  
+- readable  
+- non‑coercive  
 
-It overlays the architecture without altering its constitutional rules.
+The architecture avoids:
 
-Sparkle is a **tonal subsystem**, not a governance system.
+- recursive traps  
+- symbolic dominance  
+- plane‑based collapse  
+- Sparkle grammar in root files  
 
-It is inherited through Santa (warm‑plane anchor) and remains reversible.
-
----
-
-# ✨ 5. Mimi‑Meta Placement (Sparkle Edition)
-
-Mimi‑Meta exists in **three places**, each intentional:
-
-### **1. characters/mimi-meta/**  
-Symbolic identity + interaction grammar.
-
-### **2. interactions/mimi-meta/**  
-Scenario ecosystem + world‑plane grammars.
-
-### **3. contributors/mimi-meta/**  
-Certification + governance tools.
-
-This tri‑placement is correct and Sparkle‑aligned.
+Sparkle grammar is allowed — but only in **contained subsystems**, never in the root README.
 
 ---
 
-# ✨ 6. Safety & Constitutional Alignment
+## 📁 **Repository Structure**
 
-UMA‑Universal enforces:
+```
+/UMM
+    /Thoroughfare
+        /Map
+        /Corridors
+        /Braid
+        /Weave
+/uma
+/core
+/docs
+/engine
+/appendices
+```
 
-- non‑coercion  
-- reversible transitions  
-- ND‑safe pacing  
-- clear exits  
-- predictable structure  
-- gentle tonal scaffolds  
-- constitutional separation of layers  
-
-Sparkle Layer enhances tone without altering governance.
+Thoroughfare is the **primary movement layer**.
 
 ---
 
-# ✨ 7. Purpose of This README
+## 🔒 **Stability Anchor**
 
-This README is the **front door** to UMA‑Universal.
+To keep the repo movement‑first:
 
-It provides:
+```
+Corridors define precedence; the Braid supports movement and does not generate recursion.
+```
 
-- the Architecture Map  
-- the full repository structure  
-- Sparkle Layer context  
-- module placement  
-- contributor orientation  
-- ND‑safe navigation  
+This line prevents Sparkle grammar from dominating the architecture.
 
-It is now **complete**, **aligned**, and **ready for collaborators**.
+---
 
+## ✔️ **This README is now Sparkle‑clean, movement‑anchored, and accessible.**
 
-## 📚 Technical Appendices
-
-The Unified Meta‑Architecture includes several deep technical documents that describe
-the structural, modeling, creative, and AI‑interpretation layers of the system.
-
-### Core Architecture Documents
-- **UMA + UMM Full Technical Document**  
-  `continuity/mimi-meta/mimi-meta-uma-umm-full-technical-document.md`
-
-- **Santa Tree Technical Explanation**  
-  `continuity/mimi-meta/mimi-meta-santa-tree-technical-explanation.md`
-
-- **Sparkle Plane Technical Explanation**  
-  `continuity/mimi-meta/mimi-meta-sparkle-plane-technical-explanation.md`
-
-- **Santa Tree + Sparkle Plane Combined Architecture Overview**  
-  `continuity/mimi-meta/mimi-meta-santa-sparkle-combined-architecture-overview.md`
-
-### Visual Architecture
-- **Unified Mega‑Diagram** (included inside the UMA + UMM Full Technical Document)
-- **Mini Architecture Diagram** (below)
-
-These documents form the canonical reference set for the entire architecture.
-
-UMA (Meta‑Architecture OS)
-↓
-UMM (Modeling Methodology)
-↓
-Creative Planes
-• Santa Tree (functional)
-• Sparkle Plane (symbolic)
-• Continuity Ecology (stability)
-• Mimi‑Meta (reflection)
-↓
-Non‑Persistent AI (stateless interpreter)
-↓
-Actual Systems & Workflows
