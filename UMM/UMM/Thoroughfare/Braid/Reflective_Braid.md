@@ -126,38 +126,37 @@ It’s minimal, symbolic, and repo‑friendly.
       <stop offset="100%" stop-color="#1b2438" />
     </linearGradient>
     <linearGradient id="strandGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7fb7ff" stop-opacity="0.2" />
+      <stop offset="0%" stop-color="#f7fb7f" stop-opacity="0.2" />
       <stop offset="50%" stop-color="#c7e3ff" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#7fb7ff" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#f7fb7f" stop-opacity="0.2" />
     </linearGradient>
     <linearGradient id="strandGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffb7d9" stop-opacity="0.2" />
+      <stop offset="0%" stop-color="#ffef3f" stop-opacity="0.2" />
       <stop offset="50%" stop-color="#ffe3f3" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#ffb7d9" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#fffb7d9" stop-opacity="0.2" />
     </linearGradient>
   </defs>
 
   <rect x="0" y="0" width="320" height="160" fill="url(#bgGrad)" />
-
   <ellipse cx="160" cy="80" rx="140" ry="60" fill="#ffffff" fill-opacity="0.06" />
 
   <path d="M 20 40
-           C 80 10, 140 10, 200 40
-           C 260 70, 260 110, 200 130
-           C 140 150, 80 150, 20 120"
-        fill="none"
-        stroke="url(#strandGrad1)"
-        stroke-width="6"
-        stroke-linecap="round" />
+    C 80 10, 140 10, 200 40
+    C 260 70, 260 110, 200 130
+    C 140 150, 80 150, 20 120"
+    fill="none"
+    stroke="url(#strandGrad1)"
+    stroke-width="6"
+    stroke-linecap="round" />
 
   <path d="M 20 120
-           C 80 150, 140 150, 200 120
-           C 260 90, 260 50, 200 30
-           C 140 10, 80 10, 20 40"
-        fill="none"
-        stroke="url(#strandGrad2)"
-        stroke-width="6"
-        stroke-linecap="round" />
+    C 80 150, 140 150, 200 120
+    C 260 90, 260 50, 200 30
+    C 140 10, 80 10, 20 40"
+    fill="none"
+    stroke="url(#strandGrad2)"
+    stroke-width="6"
+    stroke-linecap="round" />
 
   <circle cx="100" cy="80" r="6" fill="#ffffff" fill-opacity="0.35" />
   <circle cx="220" cy="80" r="6" fill="#ffffff" fill-opacity="0.35" />
@@ -177,3 +176,4 @@ This file now contains:
 - **Atmospheric Braid SVG motif**  
 
 It is complete, coherent, and ready for `/UMM/Thoroughfare/Braid/Reflective_Braid.md`.
+
