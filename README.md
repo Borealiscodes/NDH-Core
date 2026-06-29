@@ -219,13 +219,41 @@ It provides:
 
 It is now **complete**, **aligned**, and **ready for collaborators**.
 
-## Technical Appendices
 
-- UMA + UMM Technical Overview  
-  (continuity/mimi-meta/mimi-meta-uma-umm-technical-overview.md)
+## 📚 Technical Appendices
 
-- Santa Tree Technical Explanation  
-- Sparkle Plane Technical Explanation  
-- Santa Tree + Sparkle Plane Combined Architecture Overview
+The Unified Meta‑Architecture includes several deep technical documents that describe
+the structural, modeling, creative, and AI‑interpretation layers of the system.
 
+### Core Architecture Documents
+- **UMA + UMM Full Technical Document**  
+  `continuity/mimi-meta/mimi-meta-uma-umm-full-technical-document.md`
 
+- **Santa Tree Technical Explanation**  
+  `continuity/mimi-meta/mimi-meta-santa-tree-technical-explanation.md`
+
+- **Sparkle Plane Technical Explanation**  
+  `continuity/mimi-meta/mimi-meta-sparkle-plane-technical-explanation.md`
+
+- **Santa Tree + Sparkle Plane Combined Architecture Overview**  
+  `continuity/mimi-meta/mimi-meta-santa-sparkle-combined-architecture-overview.md`
+
+### Visual Architecture
+- **Unified Mega‑Diagram** (included inside the UMA + UMM Full Technical Document)
+- **Mini Architecture Diagram** (below)
+
+These documents form the canonical reference set for the entire architecture.
+
+UMA (Meta‑Architecture OS)
+↓
+UMM (Modeling Methodology)
+↓
+Creative Planes
+• Santa Tree (functional)
+• Sparkle Plane (symbolic)
+• Continuity Ecology (stability)
+• Mimi‑Meta (reflection)
+↓
+Non‑Persistent AI (stateless interpreter)
+↓
+Actual Systems & Workflows
