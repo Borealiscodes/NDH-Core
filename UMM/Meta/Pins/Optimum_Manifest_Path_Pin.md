@@ -21,4 +21,9 @@ Movement is primary. This subsystem does not define recursion, planes, or affect
    Write in clear, non-affective, non-symbolic, ND-accessible language describing what the system is and is not.
 
 7. Run Manifest Drift Check  
-   Ensure Manifest did not accidentally define movement
+   Ensure Manifest did not accidentally define movement, planes, recursion, affective grammar, or symbolic motifs.
+
+8. Add Human-Facing Entry Section  
+   Provide a gentle, low-pressure “How to read this system” section for usability without altering structural boundaries.
+
+Corridors define precedence; this subsystem follows movement and does not generate recursion.
