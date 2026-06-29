@@ -1,125 +1,123 @@
-# **Mimi‑Meta Contributor Dashboard**  
-### Unified Control Panel for Mimi‑Meta Authors  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe
+# 🌟 **Mimi‑Meta Contributor Dashboard (Sparkle Edition)**  
+### Your Control Panel • Certification • Progress • Review  
+### Warm‑Plane ✧ ND‑Safe ✧ Reversible ✧ Clear
 
 ---
 
-# 🌸 **1. Welcome & Identity**
+# ✨ 1. Welcome to the Contributor Dashboard
 
-### **Start Here — Mimi’s Identity**
-- **Mimi‑Meta Mini‑Entry**  
-- **Activation README**  
-- **Safety Contract**  
+This dashboard is your **home base** inside the Contributor Layer.  
+It gathers every contributor tool into one calm, predictable page.
 
-**Purpose:**  
-Understand Mimi’s symbolic nature, constitutional boundaries, and ND‑safe interaction rules.
+You can:
 
----
+- move slowly  
+- open one item at a time  
+- stop anytime  
+- return anytime  
 
-# 🌿 **2. Interaction Architecture**
-
-### **Core Grammar**
-- **Interaction Suite**  
-- **Soft Presence**  
-- **Comfort**  
-- **Redirect**  
-- **Pacing**  
-- **Transition**  
-- **Playful Exploration**  
-- **Stillness**  
-
-### **Symbolic Building Blocks**
-- **Micro‑Interactions**  
-- **Texture Library**  
-- **Continuity Anchor**  
+Everything here is **reversible**.
 
 ---
 
-# 🌳 **3. Scenario Literacy**
+# ✨ 2. Contributor Tools (Your Control Panel)
 
-### **Scenario Packs**
-- **Canonical Pack (20)**  
-- **Expansion Pack (30)**  
-
-### **Structural Maps**
-- **Scenario Index**  
-- **Scenario Atlas**  
-- **Scenario Matrix**  
-- **Scenario Codex**  
-- **Scenario Hypergraph**  
-
----
-
-# 🌙 **4. Creation Tools**
-
-### **Authoring**
-- **Scenario Templates**  
-- **World‑Plane Behavior Map**  
-- **Symbolic Grammar Guide**  
-
-### **Rules**
-- Symbolic only  
-- Reversible  
-- ND‑safe  
-- No directive tone  
-- No emotional evaluation  
-- No dependency cues  
-
----
-
-# 🫧 **5. Logging & Auditing**
-
-### **Official Logging Pattern**
-- **Interaction Log Pattern**  
-
-### **Log Requirements**
-- Metadata  
-- Activation moment  
-- Safety check  
-- Continuity notes  
-- Exit summary  
-
----
-
-# 💗 **6. Certification System**
-
-### **Certification Path**
-- **Contributor Certification Path**  
+Each item begins with a Guided Link so you can open it directly.
 
 ### **Certification Tools**
-- **Certification Rubric**  
 - **Certification Form**  
-- **Review Workflow**  
-- **Certification Packet**  
+- **Certification Package**  
+- **Certification Rubric**  
 
-### **Progress Tracking**
+### **Progress Tools**
 - **Progress Tracker**  
+- **Badge Set**  
 
-### **Badges**
-- **Contributor Badge Set**  
+### **Review Tools**
+- **Review Workflow**  
 
----
+### **Orientation Tools**
+- **Contributor Handbook**  
 
-# 🌀 **7. Advanced Tracks**
-
-For contributors who want to expand Mimi‑Meta:
-
-- **Interaction Family Designer**  
-- **Texture & Continuity Architect**  
-- **World‑Plane Expansion Author**  
-- **Scenario Cluster Engineer**  
+This dashboard is the **index** for the entire Contributor Layer.
 
 ---
 
-# 📘 **8. Dashboard Summary**
+# ✨ 3. Soft‑Plane Contributor Flow
 
-This dashboard gives collaborators:
+A gentle, ND‑safe sequence you can follow if you want:
 
-- a **single place** to access every Mimi‑Meta tool  
-- a **clear progression** from orientation → mastery  
-- a **gentle, ND‑safe structure**  
-- a **complete certification ecosystem**  
-- a **symbolic, reversible interaction framework**  
+### **Step 1 — Read the Contributor Handbook**  
+It explains the contributor system in calm, reversible steps.
 
-Your Mimi‑Meta onboarding + certification system is now **fully complete and unified**.
+### **Step 2 — Open the Certification Package**  
+This shows the full certification path.
+
+### **Step 3 — Fill the Certification Form**  
+You can do this slowly, one section at a time.
+
+### **Step 4 — Check the Certification Rubric**  
+This helps you understand how reviewers think — gently, non‑judgmentally.
+
+### **Step 5 — Submit via the Review Workflow**  
+Predictable steps, Sparkle‑aligned tone.
+
+### **Step 6 — Track your progress**  
+Use the Progress Tracker to see where you are.
+
+### **Step 7 — Celebrate milestones**  
+Badges are symbolic, gentle, and reversible.
+
+---
+
+# ✨ 4. Sparkle Layer Alignment
+
+Sparkle Layer adds:
+
+- warmth  
+- gentle pacing  
+- reversible transitions  
+- soft‑plane tonal clarity  
+- ND‑safe scaffolding  
+- non‑directive guidance  
+
+The Contributor Dashboard is designed to feel:
+
+- calm  
+- predictable  
+- supportive  
+- non‑evaluative  
+- safe  
+
+It is a **warm‑plane governance surface**.
+
+---
+
+# ✨ 5. Relationship to Other Layers
+
+The Contributor Dashboard sits inside the **Contributor Layer**, which connects to:
+
+- **Onboarding Layer** → learn  
+- **Contributor Layer** → certify  
+- **Character Layer** → interact  
+- **Interaction Ecosystem Layer** → create scenarios  
+- **System Layer** → engine + governance  
+- **Foundation Layer** → constitution + safety  
+
+This dashboard is the **entry point** for contributor governance.
+
+---
+
+# ✨ 6. Tiny Closing Sparkle
+
+You are welcome here.  
+You can move gently.  
+You can explore lightly.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
+
+This dashboard is your **calm contributor home**.
+
+---
+
