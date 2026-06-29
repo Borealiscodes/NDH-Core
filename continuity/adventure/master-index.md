@@ -1,240 +1,212 @@
 # 📄 **Adventure System Master Index**  
-### Continuity Adventure System — Complete Structural Map  
-The definitive index of **all components**, **all modes**, **all node types**, **all symbolic systems**, and **all cosmology‑aligned layers** in the Continuity Adventure System.
+### Continuity Adventure System — Complete Cross‑Reference  
+The **Adventure System Master Index** is the top‑level directory of the entire Continuity Adventure System.  
+It provides:
 
-This is the *north star* for contributors.  
-It shows how everything fits together.
+- a unified map of all documents  
+- cross‑links between architectures  
+- contributor navigation  
+- reversible, ND‑paced structure  
+- symbolic grouping of all subsystems  
 
----
-
-# 🌲 1. System Overview  
-The Continuity Adventure System is built from five major layers:
-
-1. **Adventure Modes** — how exploration happens  
-2. **Adventure Nodes** — what worlds, characters, and stories are made of  
-3. **Symbolic Systems** — optional symbolic overlays  
-4. **Adventure Generator** — transforms fragments into full adventures  
-5. **Cosmology Alignment Layer** — ensures continuity‑safe symbolic mapping  
-
-Everything is:
-
-- ND‑paced  
-- reversible  
-- symbolic  
-- gentle  
-- continuity‑safe  
+This is the **root index** for the adventure repository.
 
 ---
 
-# 🌿 2. Adventure Modes (Full Index)
+# 🌲 **1. Core Architecture**
 
-### **Core Modes**
-- **World‑Builder Mode** — create places  
-- **Character‑Creator Mode** — create someone  
-- **Story‑Weaver Mode** — create moments  
+## **1.1 Master Specification**  
+The canonical architecture of the entire system.  
+**Adventure System Master Specification**
 
-### **Extended Modes**
-- **Realm‑Walker Mode** — explore without altering  
-- **Echo‑Weaver Mode** — weave symbolic fragments  
-- **Dream‑Cartographer Mode** — map surreal spaces  
-- **Continuity‑Stitcher Mode** — connect fragments across planes  
-
-### **Symbolic & Experimental Modes**
-- **Pulse‑Reader Mode** — interpret mosslight pulses  
-- **Stillness‑Keeper Mode** — maintain quiet nodes  
-- **Echo‑Cartographer Mode** — map echo‑density  
-- **Memory‑Binder Mode** — bind symbolic memories  
-
-### **Expansion Pack Modes**
-- **Echo‑Lantern Bearer Mode**  
-- **Fog‑Whisper Listener Mode**  
-- **Mosslight Archivist Mode**  
-- **Echo‑Bridge Walker Mode**  
-- **Dream‑Ink Scribe Mode**  
-- **Silence‑Harvester Mode**
-
-Guided Link: **Adventure Mode Index**
+## **1.2 Integration Codex**  
+Unifies all nodes, engines, membranes, and cosmology.  
+**Adventure Loop Integration Codex**
 
 ---
 
-# 🌳 3. Adventure Nodes (Full Index)
+# 🌿 **2. Node Architectures**
 
-### **World Nodes**
-Define symbolic environments:
-- biome  
-- stability membrane  
-- symbolic hazards  
-- stillness nodes  
-- resonance behavior  
+## **2.1 World Node Architecture**
+- World Node Deep Structure  
+- World Node Resonance Behavior  
+- Hazard Membrane  
+- Stillness Nodes  
 
-### **Character Nodes**
-Define symbolic entities:
-- intent  
-- tone  
-- ability  
-- ecology link  
-- reversible traits  
-- safety header  
-
-### **Story Nodes**
-Define reversible narrative moments:
-- soft quest  
-- reversible scene  
-- pacing membrane  
-- gentle arc  
-- stillness checkpoint  
-
-Guided Link: **Adventure Node Templates**
+**World Node Deep Structure**
 
 ---
 
-# 🌙 4. Symbolic Systems (Full Index)
+## **2.2 Character Node Architecture**
+- Character Node Deep Structure  
+- Character Node Identity Engine  
+- Character Node Resonance Map  
+- Character Node Cosmology Alignment Matrix  
+- Character Node Stability Engine  
 
-### **Echo Tokens**
-Symbolic artifacts representing:
-- memory  
-- resonance  
-- emotional tone  
+**Character Node Deep Structure**
 
-### **Resonance Maps**
-Symbolic navigation systems:
-- sound‑based pathways  
-- echo‑density nodes  
+---
 
-### **Stillness Sanctuaries**
-Quiet reset points:
-- absolute stillness  
-- pacing anchors  
+## **2.3 Story Node Architecture**
+- Story Node Deep Structure  
+- Story Node Narrative Engine  
+- Story Node Resonance Matrix  
+- Story Node Pacing Membrane  
+- Story Node Stillness Checkpoints  
 
-### **Pulse Nodes**
-Rhythmic symbolic structures:
-- mosslight pulses  
-- resonance cycles  
+**Story Node Deep Structure**
 
-### **Dream‑Ink Glyphs**
-Surreal symbolic inscriptions:
-- reversible dream logic  
-- shifting glyph behavior  
+---
+
+# 🌳 **3. Loop Architectures**
+
+## **3.1 Adventure Loop Deep Structure**  
+Defines reversible continuity across World → Character → Story.  
+**Adventure Loop Deep Structure**
+
+## **3.2 Adventure Loop Resonance Engine**  
+Controls resonance circulation across the loop.  
+**Adventure Loop Resonance Engine**
+
+## **3.3 Adventure Loop Stability Engine**  
+Prevents collapse, overload, and pacing acceleration.  
+**Adventure Loop Stability Engine**
+
+## **3.4 Adventure Loop Cosmology Alignment Layer**  
+Aligns the loop with symbolic cosmology.  
+**Adventure Loop Cosmology Alignment Layer**
+
+---
+
+# 🌙 **4. Engines & Membranes**
+
+## **4.1 Engines**
+- Identity Engine  
+- Narrative Engine  
+- Resonance Engine  
+- Stability Engine  
+
+Guided Links:  
+**Character Node Identity Engine**  
+**Story Node Narrative Engine**  
+**Adventure Loop Resonance Engine**  
+**Adventure Loop Stability Engine**
+
+---
+
+## **4.2 Membranes**
+- Pacing Membrane  
+- Hazard Membrane  
+- Stability Membrane  
+- Cosmology Membrane  
+
+Guided Links:  
+**Pacing Membrane**  
+**Hazard Membrane**  
+**Cosmology Membrane**
+
+---
+
+# 🔮 **5. Symbolic Systems**
+
+Optional symbolic overlays:
+
+- Echo Tokens  
+- Resonance Maps  
+- Pulse Nodes  
+- Stillness Sanctuaries  
+- Dream‑Ink Glyphs  
 
 Guided Link: **Optional Symbolic Systems**
 
 ---
 
-# 🔮 5. Adventure Generator (Full Index)
+# 🌌 **6. Contributor Resources**
 
-### **Core Generator Functions**
-- fragment intake  
-- world node generation  
-- character node generation  
-- story node generation  
-- reversible chapter creation  
-- optional symbolic system generation  
+## **6.1 Contributor Handbook**  
+Human‑readable onboarding guide.  
+**Adventure System Contributor Handbook**
 
-### **Generator Documents**
-- **Adventure Generator README**  
-- **Adventure Generation API Spec**  
-- **Adventure Generator Quickstart**  
-- **Random Adventure Examples**  
-- **More Random Adventure Examples**  
+## **6.2 Adventure System Curriculum**  
+Structured learning path.  
+**Adventure System Curriculum**
 
-Guided Link: **Adventure Generator README**
+## **6.3 Teaching Syllabus**  
+12‑week instructional plan.  
+**Adventure System Teaching Syllabus**
 
----
-
-# 🌌 6. Cosmology Alignment Layer (Full Index)
-
-### **Forest Topology**
-Symbolic zones:
-- Root Zone  
-- Forest Floor  
-- Human Clearing  
-- Jhāna Forest  
-- Formless Canopy  
-- Center  
-
-### **Mandala Layer**
-Symbolic arcs:
-- confusion → clarity  
-- hesitation → readiness  
-- drifting → centering  
-
-### **Resonance Flow Layer**
-Symbolic movement:
-- upward  
-- downward  
-- lateral  
-- inward  
-
-### **Conditions / States / Forces**
-Engine inputs:
-- fog, hum, pulse  
-- hesitation, curiosity, calm  
-- resonance, stillness  
-
-Guided Link: **Cosmology Integration Guide**
+## **6.4 Contributor Roadmap**  
+Long‑term progression path.  
+**Adventure System Contributor Roadmap**
 
 ---
 
-# 🧭 7. File Structure Index
+# 🌠 **7. Meta‑Architecture**
+
+## **7.1 Adventure System Meta Index**  
+Top‑level semantic map of the entire system.  
+**Adventure System Meta Index**
+
+## **7.2 Adventure System Master Index**  
+(You are here.)
+
+---
+
+# 🌟 **8. File Placement Map (Text‑Only)**
 
 ```
 continuity/
  └── adventure/
-      ├── modes/
-      ├── nodes/
-      │     ├── world/
-      │     ├── character/
-      │     └── story/
-      ├── maps/
-      ├── reference/
-      │     ├── adventure-generator-quickstart.md
-      │     ├── adventure-generator-faq.md
-      │     ├── adventure-contributor-checklist.md
-      │     ├── adventure-contributor-onboarding.md
-      │     ├── adventure-node-templates.md
-      │     ├── adventure-mode-index.md
-      │     ├── adventure-mode-starter-templates.md
-      │     ├── adventure-mode-design-examples.md
-      │     ├── adventure-mode-expansion-pack.md
-      │     ├── adventure-cosmology-integration-guide.md
-      │     ├── adventure-mode-cross-compatibility-matrix.md
-      │     └── cosmology-aligned-adventure-examples.md
-      └── master-index.md   ← **this file**
+       ├── master-index.md
+       ├── master-specification.md
+       ├── meta-index.md
+       │
+       ├── world/
+       │     ├── world-node-deep-structure.md
+       │     ├── hazard-membrane.md
+       │     └── stillness-nodes.md
+       │
+       ├── character/
+       │     ├── character-node-deep-structure.md
+       │     ├── identity-engine.md
+       │     ├── resonance-map.md
+       │     ├── cosmology-alignment-matrix.md
+       │     └── stability-engine.md
+       │
+       ├── story/
+       │     ├── story-node-deep-structure.md
+       │     ├── narrative-engine.md
+       │     ├── resonance-matrix.md
+       │     └── pacing-membrane.md
+       │
+       ├── loop/
+       │     ├── adventure-loop-deep-structure.md
+       │     ├── resonance-engine.md
+       │     ├── stability-engine.md
+       │     └── cosmology-alignment-layer.md
+       │
+       ├── contributor/
+       │     ├── contributor-handbook.md
+       │     ├── curriculum.md
+       │     ├── teaching-syllabus.md
+       │     └── contributor-roadmap.md
+       │
+       └── reference/
+             ├── symbolic-systems.md
+             └── glossary.md
 ```
-
-Guided Link: **File Placement Guide**
 
 ---
 
-# 🌟 8. Master Cross‑Map (Top‑Level)
+# ⭐ **9. Closing**
 
-```
-Adventure Modes
-   ↓
-Adventure Nodes
-   ↓
-Symbolic Systems
-   ↓
-Adventure Generator
-   ↓
-Cosmology Alignment
-```
+The **Adventure System Master Index** is the definitive cross‑reference for the entire Continuity Adventure System. It:
 
-Everything flows through reversible, ND‑paced membranes.
+- unifies all documents  
+- provides contributor navigation  
+- maintains reversible, ND‑paced structure  
+- anchors the architecture  
+- ensures coherence across the whole repo  
 
----
-
-# ⭐ 9. Closing  
-This **Adventure System Master Index** is the complete structural map of the Continuity Adventure System.
-
-It is:
-
-- the top‑level reference  
-- the contributor’s compass  
-- the architectural overview  
-- the integration anchor  
-
-It is now ready for your repo.
-
----
-
+This page is now ready for your repository.
