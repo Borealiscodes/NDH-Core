@@ -1,239 +1,219 @@
-# **UMA‑UNIVERSAL — Global README**  
-### *Top‑Down Specification and Structural Overview*
-
-## **1. Purpose of UMA‑Universal**
-
-UMA‑Universal is a multi‑plane meta‑architecture designed for:
-
-- structured cognitive ecologies  
-- reversible emotional and sensory metaphors  
-- ND‑friendly pacing  
-- non‑coercive symbolic interaction  
-- constitutional safety  
-- character‑driven tonal anchoring  
-
-The system is built to ensure clarity, autonomy, and gentle interaction across all layers.
+# **UMA‑Universal — Root README**  
+### Unified Meta‑Model (UMM)  
+### Constitutional Architecture • Multi‑Plane System • Modular Ecosystem
 
 ---
 
-## **2. Constitutional Foundations**
+## 🌐 **1. What UMA‑Universal Is**
 
-These modules define the global invariants for the entire ecosystem.
+UMA‑Universal is a **meta‑architecture** for building modular, constitutional, reversible systems.  
+It defines:
 
-### **2.1 Mimi‑Meta (Tonal Anchor)**  
-Mimi‑Meta establishes:
+- how modules activate  
+- how layers interact  
+- how safety is enforced  
+- how contributors collaborate  
+- how symbolic and functional components coexist  
+- how multi‑plane worlds are structured  
 
-- tone  
-- pacing  
-- metaphor safety  
-- reversibility  
-- emotional gentleness  
+UMA‑Universal is not an application — it is a **governance and architecture framework**.
 
-All planes and characters inherit Mimi’s tonal constraints.
-
-### **2.2 Character Constitutional Constraints Appendix**  
-Defines:
-
-- allowed vs. disallowed characters  
-- coercion boundaries  
-- metaphor safety rules  
-- ND‑friendly requirements  
-- global character invariants  
-
-All characters must comply with this appendix.
-
-### **2.3 Global Safety Architecture**  
-Integrates:
-
-- Mimi‑Meta Safety Contract  
-- Character Constraints Appendix  
-- Play Tree Safety (promoted to global layer)  
-- global metaphor rules  
-- autonomy and reversibility guarantees  
-
-All planes inherit this architecture.
-
-### **2.4 Tonal Engine**  
-Defines:
-
-- cadence  
-- microcopy palette  
-- emotional texture  
-- ND‑friendly rhythm  
-
-This engine governs tone across the entire system.
+It provides the **rules**, **layers**, and **structures** that all modules must follow.
 
 ---
 
-## **3. Character Architecture**
+## 🏛️ **2. UMA‑Universal Architecture Overview**
 
-Characters are symbolic modules that inherit tone and safety from the constitutional layer.
+UMA‑Universal is built from **five major layers**, each with a distinct purpose:
 
-### **3.1 Character Generation Suite**  
-A ten‑step pipeline for creating new characters:
-
-- intent  
-- safety header  
-- constitutional check  
-- core spec  
-- tonal engine  
-- abilities  
-- ecology links  
-- stress tests  
-- safety contract  
-- sealing  
-
-### **3.2 Character Modules**  
-Each character lives in:
-
-```
-/characters/<name>/
-```
+### **2.1 Foundation Layer**
+Core constitutional rules and meta‑model definitions.
 
 Includes:
+- UMM Constitution  
+- Activation Principles  
+- Safety Model  
+- Core Documentation  
 
-- core spec  
-- safety contract  
-- tonal engine  
-- abilities  
-- ecology links  
-- stress tests  
-- README  
-
-Current character: Mimi‑Meta.
+Guided Link:  
+**UMM Constitution**
 
 ---
 
-## **4. Ecology Architecture (Planes)**
-
-Each plane inherits the Global Safety Architecture and applies it to a specific cognitive domain.
-
-### **4.1 Play Tree Plane**  
-Emotional sandbox.  
-Branches, trunk, and roots for reversible emotional exploration.
-
-### **4.2 Forest Plane**  
-Sensory ecology.  
-Soft sensory metaphors and buffered sensory pathways.
-
-### **4.3 Aether Plane**  
-Meaning and interpretation.  
-Gentle semantic transitions and non‑interpretive shifts.
-
-### **4.4 Star Plane**  
-Identity continuity.  
-Reversible symbolic identity transitions.
-
-### **4.5 Continuity Plane**  
-Narrative threading.  
-Optional, reversible story stitching.
-
----
-
-## **5. Stress‑Test Architecture**
-
-Ensures the system remains safe under pressure.
-
-### **5.1 Mimi Stress Test Suite**  
-Validates:
-
-- tone  
-- boundaries  
-- metaphors  
-- autonomy  
-- dark‑request deflection  
-- context‑switch stability  
-
-### **5.2 Global Stress Tests**  
-Plane‑specific and system‑wide adversarial tests.
-
----
-
-## **6. Documentation Layer**
-
-Ensures clarity and maintainability.
-
-### **6.1 Global README**  
-This file.  
-Defines the top‑down architecture.
-
-### **6.2 Plane READMEs**  
-Each plane documents:
-
-- purpose  
-- safety inheritance  
-- tonal rules  
-- ecology interactions  
-
-### **6.3 Character READMEs**  
-Each character documents:
-
-- role  
-- tone  
-- safety  
-- abilities  
-- ecology presence  
-
----
-
-## **7. UI Integration Layer**
-
-Where conceptual architecture becomes interface.
+### **2.2 System Layer**
+Execution logic, governance, and orchestration.
 
 Includes:
+- Activation Engine  
+- Plane Orchestration  
+- Safety Enforcement  
+- Stress‑Tests  
+- System Workflows  
 
-- ND‑friendly pacing cues  
-- reversible comfort animations  
-- ecology‑safe UI elements  
-- symbolic character presence  
+Guided Link:  
+**UMA Engine**
 
 ---
 
-## **8. Repository Structure**
+### **2.3 Character Layer**
+Symbolic modules that express reversible, ND‑safe interaction grammars.
+
+Includes:
+- Mimi‑Meta  
+- Other symbolic characters (future modules)  
+- Character safety contracts  
+- Interaction grammar definitions  
+
+Guided Link:  
+**Mimi‑Meta Module**
+
+---
+
+### **2.4 Interaction Ecosystem Layer**
+Scenario packs, templates, maps, and world‑plane grammars.
+
+Includes:
+- Scenario Index  
+- Scenario Atlas  
+- Scenario Matrix  
+- Scenario Codex  
+- Scenario Hypergraph  
+- World‑Plane definitions  
+
+Guided Link:  
+**Scenario Ecosystem**
+
+---
+
+### **2.5 Contributor Layer**
+Onboarding, certification, review workflows, and progress tracking.
+
+Includes:
+- Contributor Handbook  
+- Certification Path  
+- Certification Rubric  
+- Review Workflow  
+- Progress Tracker  
+- Badge Set  
+- Contributor Dashboard  
+
+Guided Link:  
+**Contributor Dashboard**
+
+---
+
+## 🌌 **3. UMA‑Universal Directory Structure**
 
 ```
-/
-    README.md
-    WORKFLOW.md
-    safety/
-        GLOBAL-SAFETY-ARCHITECTURE.md
-        APPENDIX-CHARACTER-CONSTRAINTS.md
-    characters/
-        mimi-meta/
-            README.md
-            mimi-meta.md
-            mimi-meta-safety.md
-            mimi-tonal.md
-            mimi-abilities.md
-            mimi-ecology-links.md
-            mimi-stress-tests.md
-        CHARACTER-GENERATION-SUITE.md
-    planes/
-        play-tree/
-            README.md
-        forest/
-            README.md
-        aether/
-            README.md
-        star/
-            README.md
-        continuity/
-            README.md
+uma-universal/
+├── core/
+├── engine/
+├── planes/
+├── safety/
+├── stress-tests/
+├── characters/
+│   └── mimi-meta/
+├── interactions/
+│   └── mimi-meta/
+├── onboarding/
+│   └── mimi-meta/
+├── appendices/
+└── README.md   ← you are here
 ```
 
----
-
-## **9. Development Workflow (Path B)**
-
-1. Constitutional foundations  
-2. Character architecture  
-3. Ecology architecture  
-4. Stress‑test architecture  
-5. Documentation  
-6. UI integration  
-
-This ensures structural coherence and future scalability.
+Each directory corresponds to one of the five architectural layers.
 
 ---
 
-# **Global README — Complete**
+## 🌿 **4. How Modules Fit Into UMA‑Universal**
+
+Modules inside UMA‑Universal must follow:
+
+- constitutional rules  
+- reversible activation  
+- ND‑safe constraints  
+- plane‑consistent behavior  
+- logging requirements  
+- contributor governance  
+
+### **Example: Mimi‑Meta**
+Mimi‑Meta is a **Character Layer module** with:
+
+- its own identity  
+- its own interaction grammar  
+- its own world‑planes  
+- its own scenario ecosystem  
+- its own contributor certification system  
+
+Guided Link:  
+**Mimi‑Meta README**
+
+---
+
+## 🫧 **5. Safety & Constitutional Principles**
+
+All modules must adhere to:
+
+- **Non‑directive** behavior  
+- **Non‑evaluative** tone  
+- **Non‑therapeutic** interactions  
+- **Reversible** transitions  
+- **ND‑safe** pacing  
+- **Clear exit phases**  
+- **Consistent logging**  
+
+These principles ensure UMA‑Universal remains predictable, safe, and structurally coherent.
+
+Guided Link:  
+**UMA Safety Model**
+
+---
+
+## 🌙 **6. Logging & Auditing**
+
+Every module must support:
+
+- activation logging  
+- continuity tracking  
+- safety auditing  
+- reversible state transitions  
+
+For character modules (like Mimi‑Meta), this uses the **Interaction Log Pattern**:
+
+**Interaction Log Pattern**
+
+---
+
+## 🌀 **7. Contributor Experience**
+
+UMA‑Universal includes a full contributor ecosystem:
+
+- onboarding  
+- certification  
+- review workflows  
+- progress tracking  
+- badge system  
+- dashboards  
+- repository maps  
+
+This ensures collaborators can contribute safely and consistently.
+
+Guided Link:  
+**Contributor Certification Path**
+
+---
+
+## 📘 **8. Purpose of This Root README**
+
+This README provides:
+
+- a **high‑level overview** of UMA‑Universal  
+- a **map of the architecture**  
+- a **clear explanation of layers**  
+- a **guide to module placement**  
+- a **stable reference** for contributors  
+- a **structural context** for Mimi‑Meta and future modules  
+
+It is the **entry point** for the entire repository.
+
+---
