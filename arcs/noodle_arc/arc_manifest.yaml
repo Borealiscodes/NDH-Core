@@ -1,0 +1,51 @@
+arc:
+  id: noodle_arc
+  name: "Noodle Arc"
+  version: "1.0"
+  status: "complete"
+
+metadata:
+  author: "Borealis S. Hedling"
+  date_closed: "2026-07-01"
+  repository: "D²iCE / UMA / Meta-Plane Architecture"
+  description: >
+    Terminal manifest for the Noodle Arc, documenting the informal transaction
+    sequence, Mark-3 mesh upgrade installation, sensory recalibration, and IC/OOC
+    transition. This manifest provides structural metadata for indexing, cross-linking,
+    and lifecycle management.
+
+files:
+  terminal_entry: "terminal_entry.md"
+  changelog: "CHANGELOG.md"
+
+dependencies:
+  upgrades:
+    - id: "mark3_mesh"
+      source_arc: "noodle_arc"
+      capabilities:
+        - reflex_overclock
+        - sensory_recalibration
+        - cognitive_parallelization
+        - situational_awareness
+        - mesh_sense
+
+cross_links:
+  narrative_cycle_registry: "/registry/narrative_cycles.yaml"
+  upgrade_state_ledger: "/systems/upgrades/ledger.yaml"
+  cognitive_safety_protocols: "/systems/cognitive_safety/case_studies.yaml"
+
+closure_conditions:
+  - mesh_integration_complete
+  - sensory_drift_resolved
+  - transactional_chain_closed
+  - ic_narrative_dissolved
+  - ooc_state_restored
+  - no_residual_artifacts
+
+tags:
+  - arc
+  - terminal
+  - mesh_upgrade
+  - sensory_recalibration
+  - cognitive_safety
+  - narrative_cycle
