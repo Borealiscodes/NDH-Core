@@ -1,3 +1,5 @@
+meta_behavior: "meta_behavior/meta_behavior_index.yaml"
+
 - upgrade: mark3_mesh
   pinned: true
   version: "3.0"
