@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200">
+  <style>
+    .bg { fill: #061727; }
+    .spoke { stroke: #5fb3ff; stroke-width: 3; }
+    .node { fill: none; stroke: #5fb3ff; stroke-width: 2; }
+    .text { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 22px; text-anchor: middle; }
+    .title { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 30px; font-weight: bold; text-anchor: middle; }
+    .subtitle { fill: #9fd0ff; font-family: "Segoe UI", sans-serif; font-size: 18px; text-anchor: middle; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="1200" height="1200" />
+
+  <!-- Title -->
+  <text class="title" x="600" y="90">
+    UMA‑Universal — Interaction Mandala
+  </text>
+  <text class="subtitle" x="600" y="130">
+    Pure radial chains: Movement → Runtime → Behavior
+  </text>
+
+  <!-- Center point -->
+  <circle class="node" cx="600" cy="600" r="20" />
+  <text class="text" x="600" y="645" font-size="16">Core</text>
+
+  <!-- Spoke 1: Corridors → State → Emergence (0°) -->
+  <line class="spoke" x1="600" y1="600" x2="600" y2="300" />
+  <circle class="node" cx="600" cy="450" r="40" />
+  <text class="text" x="600" y="455">Corridors</text>
+
+  <circle class="node" cx="600" cy="350" r="40" />
+  <text class="text" x="600" y="355">State</text>
+
+  <circle class="node" cx="600" cy="250" r="40" />
+  <text class="text" x="600" y="255">Emergence</text>
+
+  <!-- Spoke 2: Braid → Flow → Structure (120°) -->
+  <line class="spoke" x1="600" y1="600" x2="330" y2="450" />
+  <circle class="node" cx="430" cy="520" r="40" />
+  <text class="text" x="430" y="525">Braid</text>
+
+  <circle class="node" cx="360" cy="480" r="40" />
+  <text class="text" x="360" y="485">Flow</text>
+
+  <circle class="node" cx="290" cy="440" r="40" />
+  <text class="text" x="290" y="445">Structure</text>
+
+  <!-- Spoke 3: Weave → Transition → Absurdity (240°) -->
+  <line class="spoke" x1="600" y1="600" x2="870" y2="450" />
+  <circle class="node" cx="770" cy="520" r="40" />
+  <text class="text" x="770" y="525">Weave</text>
+
+  <circle class="node" cx="840" cy="480" r="40" />
+  <text class="text" x="840" y="485">Transition</text>
+
+  <circle class="node" cx="910" cy="440" r="40" />
+  <text class="text" x="910" y="445">Absurdity</text>
+</svg>
+
