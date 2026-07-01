@@ -1,3 +1,5 @@
+meta_behavior: "meta_behavior/meta_behavior_index.yaml"
+
 - arc: noodle_arc
   relevance: "upgrade_state_transition"
   reference: "arcs/noodle_arc/terminal_entry.md"
