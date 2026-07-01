@@ -91,3 +91,8 @@ without ever needing to reorder again.
 
 ---
 
+If you want, I can now generate the **Cosmology‑Only Mandala** layout text or proceed to the next diagram:
+
+- **Generate Cosmology Mandala**  
+- **Generate Behavior Mandala**  
+- **Generate UMA Orbital Model**
