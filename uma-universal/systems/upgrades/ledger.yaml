@@ -1,0 +1,11 @@
+- upgrade: mark3_mesh
+  pinned: true
+  version: "3.0"
+  installed_by: "Borealis S. Hedling"
+  arc_origin: "noodle_arc"
+  capabilities:
+    - reflex_overclock
+    - sensory_recalibration
+    - cognitive_parallelization
+    - situational_awareness
+    - mesh_sense
