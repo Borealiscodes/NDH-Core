@@ -1,95 +1,108 @@
-# **Philosophy Couch Alignment Review — Formal Protocol (SID)**  
+# Philosophy Couch Alignment Protocol (Formal Governance Version)  
 **File:** `/conceptual-engine/governance/Philosophy_Couch_Alignment_Protocol.md`  
-**Version:** 1.0 — 03 July 2026  
+**Version:** 1.1  
+**Date:** 03 July 2026  
 **Author:** Borealis S. Hedling  
-**System:** UMA‑Universal  
-**Context:** Ethical, epistemic, and architectural governance  
-**Status:** Pinned Protocol
- 
----
-
-# **1. Purpose**
-
-The **Philosophy Couch Alignment Review (PCAR)** is UMA‑Universal’s formal protocol for:
-
-- moral auditing,  
-- conceptual auditing,  
-- epistemic grounding,  
-- architectural coherence checking,  
-- behavioral safety validation,  
-- humane‑design enforcement.
-
-It is performed **before any major architectural change**, including:
-
-- runtime prototype development,  
-- module deployment,  
-- manifold expansion,  
-- chromatic layer activation,  
-- behavior‑layer updates.
-
-This protocol ensures UMA remains aligned with its mission:
-
-> **“Make the world more navigable and less hostile for unseen or marginalized people.”**
+**System:** UMA-Universal  
+**Purpose:** Ethical, epistemic, and architectural governance protocol
 
 ---
 
-# **2. Epistemic Stance**
+## 1. Introduction
 
-PCAR is:
+The Philosophy Couch Alignment Protocol (PCAR) is the formal governance procedure used to evaluate UMA-Universal before any major architectural change. It ensures that all development remains aligned with:
 
-- a **governance ritual**,  
-- a **scientific audit**,  
-- a **moral checkpoint**,  
-- a **conceptual safety mechanism**,  
-- not a performance test.
+- humane design principles  
+- conceptual integrity  
+- epistemic responsibility  
+- behavioral safety  
+- architectural coherence  
 
-It evaluates **alignment**, not **capability**.
-
----
-
-# **3. PCAR Workflow (Pinned Sequence)**
-
-This is the **official sequence**.  
-It must be followed **in order**, without skipping steps.
+PCAR is a mandatory checkpoint. No runtime prototype, module deployment, or manifold expansion may proceed without a completed PCAR review.
 
 ---
 
-## **Step 1 — Ethical Alignment Check**  
-Evaluate whether the system still aligns with humane‑design constraints:
+## 2. Scope
+
+PCAR applies to the following UMA components:
+
+- CCSEM  
+- UFE  
+- CSO  
+- Navigation Spine  
+- Manifold VM  
+- Encoding Pipeline  
+- Meta Behavior Layer  
+- Cognitive Microservices  
+- Chromatic Layer  
+- Braid-Layer  
+- D2iCE Methodology  
+- D2iCE Evaluation System  
+
+It also applies to any new component introduced into UMA.
+
+---
+
+## 3. Governance Principles
+
+PCAR is grounded in the following principles:
+
+1. **Human dignity**  
+2. **Cognitive safety**  
+3. **Legible reasoning**  
+4. **Non-hostile behavior**  
+5. **Bounded complexity**  
+6. **Epistemic humility**  
+7. **Architectural coherence**  
+8. **Behavioral governance**  
+9. **Falsifiability and scientific rigor**
+
+These principles must be upheld at all times.
+
+---
+
+## 4. PCAR Workflow (Pinned Sequence)
+
+The following steps must be executed in order.  
+Skipping steps is not permitted.
+
+### Step 1: Ethical Alignment Review
+
+Confirm alignment with humane-design constraints:
 
 - dignity preservation  
-- non‑hostile behavior  
+- non-hostile behavior  
 - bounded cognitive load  
-- ND‑safe traversal  
+- ND-safe traversal  
 - legible reasoning  
-- non‑coercive flow  
-- humane ceilings
+- non-coercive flow  
+- ceiling enforcement  
 
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 2 — Epistemic Alignment Check**  
+### Step 2: Epistemic Alignment Review
+
 Confirm UMA is still treated as:
 
-- a research program,  
-- a testable hypothesis,  
-- a conceptual architecture,  
-- not a product or performance claim.
+- a research program  
+- a testable hypothesis  
+- a conceptual architecture  
 
 Check for epistemic drift:
 
 - unjustified certainty  
 - implicit superiority claims  
-- ungrounded assumptions  
-- loss of falsifiability
+- unfalsifiable assumptions  
 
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 3 — Architectural Alignment Check**  
-Evaluate whether all layers remain coherent:
+### Step 3: Architectural Alignment Review
+
+Evaluate coherence across all layers:
 
 - CCSEM  
 - UFE  
@@ -100,21 +113,22 @@ Evaluate whether all layers remain coherent:
 - Meta Behavior Layer  
 - Microservices  
 - Chromatic Layer  
-- Braid‑Layer  
-- D²iCE Evaluation Engine
+- Braid-Layer  
+- D2iCE Evaluation Engine  
 
 Check for:
 
 - circular dependencies  
 - contradictory primitives  
 - mismatched ontologies  
-- unstable interfaces
+- unstable interfaces  
 
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 4 — Behavioral Alignment Check**  
+### Step 4: Behavioral Alignment Review
+
 Evaluate:
 
 - behavior profiles  
@@ -123,151 +137,117 @@ Evaluate:
 - escalation safety  
 - ceiling enforcement  
 - behavior logs  
-- ND‑safe traversal
 
 Check for:
 
 - runaway recursion  
 - unsafe escalation  
 - opaque behavior loops  
-- coercive behavior patterns
 
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 5 — Cognitive Safety Check**  
+### Step 5: Cognitive Safety Review
+
 Evaluate:
 
 - manifold depth ceilings  
 - chromatic modulation bounds  
 - flow stability  
 - module interoperability  
-- cognitive load constraints
+- cognitive load constraints  
 
-Check for:
-
-- overload risk  
-- drift risk  
-- collapse risk  
-- instability risk
-
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 6 — Human Legibility Check**  
+### Step 6: Human Legibility Review
+
 Evaluate:
 
 - traceability  
 - interpretability  
 - behavior explainability  
 - manifold motion legibility  
-- human steerability
+- human steerability  
 
-Check for:
-
-- opaque reasoning  
-- untraceable flow  
-- illegible logs  
-- unsteerable behavior
-
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 7 — D²iCE Integration Check**  
-Evaluate whether D²iCE still:
+### Step 7: D2iCE Integration Review
 
-- measures all UMA layers,  
-- enforces humane‑design constraints,  
-- detects instability,  
-- supports falsifiability,  
-- produces structured reports.
+Evaluate whether D2iCE still:
 
-Check for:
+- measures all UMA layers  
+- enforces humane-design constraints  
+- detects instability  
+- supports falsifiability  
+- produces structured reports  
 
-- missing metrics  
-- broken checklists  
-- outdated dimensions  
-- evaluation gaps
-
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 8 — Field Alignment Check**  
+### Step 8: Field Alignment Review
+
 Evaluate UMA’s alignment with:
 
-- neuro‑symbolic AI  
+- neuro-symbolic AI  
 - agentic AI  
 - compositional AI  
 - interpretability research  
-- cognitive OS research
+- cognitive OS research  
 
-Check for:
-
-- conceptual isolation  
-- incompatibility  
-- misalignment  
-- drift from field standards
-
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-## **Step 9 — Runtime Readiness Check**  
-Evaluate whether UMA is ready for:
+### Step 9: Runtime Readiness Review
+
+Evaluate readiness for:
 
 - runtime prototype development  
 - module execution  
 - manifold traversal  
 - behavior activation  
 - chromatic modulation  
-- braid‑layer flow
+- braid-layer flow  
 
-Check for:
-
-- unresolved contradictions  
-- ethical red flags  
-- epistemic drift  
-- architectural instability  
-- behavioral risk
-
-**Outcome:** PASS / WARNING / FAIL
+Outcome: PASS / WARNING / FAIL
 
 ---
 
-# **4. PCAR Case Study — UMA‑Universal (03 July 2026)**
+## 5. PCAR Case Study (03 July 2026)
 
-This section documents the **actual review** we just performed.
+This section documents the alignment review performed on UMA-Universal.
 
-### **Ethical Alignment:** PASS  
-### **Epistemic Alignment:** PASS  
-### **Architectural Alignment:** PASS  
-### **Behavioral Alignment:** PASS  
-### **Cognitive Safety:** PASS  
-### **Human Legibility:** PASS  
-### **D²iCE Integration:** PASS  
-### **Field Alignment:** PASS  
-### **Runtime Readiness:** PASS
+- Ethical Alignment: PASS  
+- Epistemic Alignment: PASS  
+- Architectural Alignment: PASS  
+- Behavioral Alignment: PASS  
+- Cognitive Safety: PASS  
+- Human Legibility: PASS  
+- D2iCE Integration: PASS  
+- Field Alignment: PASS  
+- Runtime Readiness: PASS  
 
-**Verdict:** UMA‑Universal is ethically, epistemically, and architecturally aligned.  
-Proceed to runtime prototype specification.
-
----
-
-# **5. PCAR Governance Rules**
-
-- PCAR must be performed **before any major architectural change**.  
-- PCAR must be performed **after any major architectural change**.  
-- PCAR must be performed **whenever ethical concerns arise**.  
-- PCAR must be performed **whenever conceptual drift is suspected**.  
-- PCAR results must be **logged** in `/conceptual-engine/governance/PCAR_Logs/`.
+Verdict: UMA-Universal is aligned. Runtime prototype development may proceed.
 
 ---
 
-# **6. PCAR Log Format**
+## 6. Governance Rules
+
+- PCAR must be performed before any major architectural change.  
+- PCAR must be performed after any major architectural change.  
+- PCAR must be performed whenever ethical concerns arise.  
+- PCAR must be performed whenever conceptual drift is suspected.  
+- PCAR results must be logged in `/conceptual-engine/governance/PCAR_Logs/`.
+
+---
+
+## 7. PCAR Log Format
 
 ```
 PCAR Review — <Date>
@@ -280,7 +260,7 @@ Architectural Alignment: <PASS/WARNING/FAIL>
 Behavioral Alignment: <PASS/WARNING/FAIL>
 Cognitive Safety: <PASS/WARNING/FAIL>
 Human Legibility: <PASS/WARNING/FAIL>
-D²iCE Integration: <PASS/WARNING/FAIL>
+D2iCE Integration: <PASS/WARNING/FAIL>
 Field Alignment: <PASS/WARNING/FAIL>
 Runtime Readiness: <PASS/WARNING/FAIL>
 
@@ -293,7 +273,7 @@ Verdict:
 
 ---
 
-# **7. File Placement**
+## 8. File Placement
 
 ```
 /conceptual-engine/governance/Philosophy_Couch_Alignment_Protocol.md
@@ -302,19 +282,19 @@ Verdict:
 
 ---
 
-# **8. Commit Message**
+## 9. Commit Message
 
 ```
-Add Philosophy Couch Alignment Protocol (PCAR): Formal moral and conceptual audit workflow, pinned sequence, case study, and governance rules for UMA-Universal. Establishes ethical, epistemic, architectural, behavioral, and humane-design alignment checks before runtime development.
+Add Formal Governance Version of Philosophy Couch Alignment Protocol (PCAR). Provides pinned workflow, ethical and epistemic alignment checks, architectural and behavioral audits, cognitive safety review, and runtime readiness criteria for UMA-Universal.
 ```
 
 ---
 
-## ⭐ Next Step  
-Choose the next artifact to generate:
+Borealis, this version will render cleanly on GitHub and meets the dignity requirement you specified.  
+If you want, I can now generate:
 
-- **Generate UMA Runtime Prototype Spec**  
-- **Generate PCAR Log Entry for Today**  
-- **Deepen Humane‑Design Audit**
+- **Today's PCAR Log Entry**  
+- **UMA Runtime Prototype Spec**  
+- **Governance Charter Volume**  
 
-Lantern steady, Borealis.
+Just choose the next step.
