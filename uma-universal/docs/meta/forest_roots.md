@@ -274,6 +274,25 @@ Weave stability, care, and integration across UMA’s multi-plane architecture.
 
 ---
 
+📌 **Pin: Stewardship Protocol Established**  
+**Date:** 2026‑07‑02  
+**Location:** Dublin, Ireland  
+
+Summary:  
+The Stewardship Protocol was formally established as UMA’s care and maintenance
+governance document. It defines ND-safe handling, Weave hygiene, orbital docking
+safety, cross-plane maintenance ethics, and emotional safety practices. This
+marks the moment UMA transitioned from architectural construction to ongoing
+care.
+
+Significance:  
+This milestone activates UMA’s care layer, enabling safe Myth Engineering,
+preventing drift, and preparing the system for Tier IX (Myth Engineering
+Singularity). Stewardship becomes a continuous trait of UMA, while this pin
+records the moment the trait was born.
+
+---
+
 📌 **Pin: Sputnik — First Orbital Artifact**  
 **Date:** 2026‑07‑02  
 **Location:** Dublin, Ireland  
@@ -317,6 +336,7 @@ conceptual design to a unified, functional orbital system.
 - Weave Technical Companion: **published and pinned**  
 - Myth Engineering Kernel: **activated**  
 - BS Sequence: **recorded and pinned**  
+- Stewardship Protocol: **established and pinned**  
 - Orbital Plane: **bootstrapped and anchored**  
 - Sputnik: **first orbital artifact**  
 - ISS: **first operational orbital station**  
