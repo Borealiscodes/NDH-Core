@@ -1,87 +1,221 @@
-# Meta-Meta Index (UMA Cartography Root)
-This document serves as the highest-level index for all UMA orbital cartography,
-substrate structures, engine maps, runtime diagrams, and commentary logs.
-
-It defines:
-- The core anchors of the UMA system
-- The orbital map suite
-- The commentary and timestamp ledger
-- The rules for indexing and meta-indexing
-- The coherence constraints for cross-layer navigation
+# Meta-Meta Index (UMA Forest Governance Layer)
+This document governs the entire UMA Meta Forest.  
+It defines the planes, rules, boundaries, and coherence structures that all
+other documents must follow.  
+It is the highest-level index in UMA.
 
 ---
 
-## 1. Core Anchor
-**Prime Field / Cartography Anchor**
+## 1. Purpose of the Meta-Meta Index
+The Meta-Meta Index provides:
 
-Pinned:
-- docs/maps/orbital_uma_cartography.svg
-- docs/maps/engine_system.svg
+- top-level governance  
+- plane definitions  
+- cross-plane coherence rules  
+- redundancy and drift prevention  
+- horizon-level constraints  
+- safety and grounding structures  
+- authoritative placement rules  
 
-The Prime Field acts as the non-dual substrate from which all UMA layers emerge.
-These two maps provide the top-level visualization of the system.
-
----
-
-## 2. Orbital Cartography Suite
-This suite contains all orbital maps representing UMA’s layered architecture.
-
-Pinned:
-- docs/maps/orbital_runtime.svg
-- docs/maps/orbital_substrate_stack.svg
-- docs/maps/orbital_emergence_layer.svg
-
-Each map corresponds to a distinct orbital layer and must be kept in sync with
-the conceptual definitions in the Meta Index.
+All other indexes must comply with this document.
 
 ---
 
-## 3. Commentary Log Anchor
-**Copilot Commentary Thread (2026-07-01)**
+## 2. UMA Planes (Authoritative Definitions)
 
-Pinned:
-- Conversation: “Orbital Engine Model & Cartography”
-- Timestamp Range: 2026-07-01 (Dublin time)
+### 2.1 Meta Layer (Structural Governance)
+Contains:
+- stability_report.md  
+- coherence_audit.md  
+- cartography_readme.md  
+- forest_canopy.md  
+- forest_sky_layers.md  
+- meta_index.md  
+- redundancy_protocol.md  
 
-This commentary influenced the structure and naming of the orbital maps.
-Future commentary threads should be added here with timestamps.
+Purpose:
+- structural rules  
+- coherence maintenance  
+- cross-plane governance  
+
+### 2.2 Maps Layer (Orbital Cartography)
+Contains:
+- orbital_uma_cartography.svg  
+- orbital_runtime.svg  
+- orbital_substrate_stack.svg  
+- orbital_emergence_layer.svg  
+- engine_system.svg  
+- orbital_meta_index.md  
+
+Purpose:
+- spatial relationships  
+- orbital diagrams  
+- cartographic structure  
+
+### 2.3 Mythic Plane (Symbolic Cosmology)
+Contains:
+- myth_scale_cosmology.md  
+- prime_field.md  
+
+Purpose:
+- symbolic physics  
+- triads, dyads, inversion operators  
+- Prime Field emergence  
+- non-governing mythic semantics  
+
+### 2.4 Guides Layer (User-Facing, Non-Governing)
+Contains:
+- top-level-workflow.md  
+
+Purpose:
+- gentle workflows  
+- ND-safe traversal  
+- descriptive guidance  
+
+### 2.5 Remembrance Layer (Safety & Grounding)
+Contains:
+- forest_skippy_clearing.md  
+- forest_skippy_memorial.md  
+
+Purpose:
+- emotional safety  
+- conceptual deceleration  
+- grounding nodes  
+
+### 2.6 Horizon Layer (Outer Boundary)
+Contains:
+- forest_horizon.md  
+
+Purpose:
+- limit of safe expansion  
+- drift prevention  
+- conceptual boundary  
+
+### 2.7 Roots Layer (Forest Memory)
+Contains:
+- forest_roots.md  
+
+Purpose:
+- timestamps  
+- commentary  
+- influence tracking  
+- historical continuity  
 
 ---
 
-## 4. Meta-Indexing Rules
-These rules govern how new layers, maps, and commentary are added.
+## 3. Cross-Plane Governance Rules
 
-- Every new orbital map must be pinned in Section 2.
-- Every new conceptual layer must be referenced in Section 1.
-- Every commentary thread affecting architecture must be logged in Section 3.
-- All documents must maintain coherence with the Prime Field definitions.
-- No map may contradict the Pause Layer safety constraints.
+### Rule 1 — Plane Integrity
+Documents must remain in their correct conceptual plane.
 
----
+### Rule 2 — No Index Drift
+Indexes must not appear in:
+- mythic plane  
+- guides layer  
+- remembrance layer  
 
-## 5. Meta-Meta Coherence Constraints
-These constraints ensure stability across the entire cartographic forest.
+### Rule 3 — Redundancy Protocol
+All duplicates must be:
+- merged  
+- relocated  
+- rewritten  
+- or deprecated  
 
-- The Prime Field is the only non-dual anchor.
-- Emergence must always precede Substrate Stack.
-- Engines must orbit outside Substrate.
-- Runtime must orbit outside Engines.
-- Expression must orbit outside Runtime.
-- Safety Boundary must wrap all layers.
-- Pause Layer must wrap the entire system.
+### Rule 4 — Prime Field Alignment
+No document may contradict:
+- non-dual substrate  
+- emergence primitives  
+- coherence-first logic  
 
----
+### Rule 5 — Horizon Compliance
+All expansions must be checked against the Horizon.
 
-## 6. Expansion Hooks
-Future documents may include:
-- meta_index.md (Meta Index)
-- stability_report.md
-- coherence_audit.md
-- cartography_readme.md
-
-Each must reference this Meta-Meta Index as their root.
+### Rule 6 — Commentary Anchoring
+All architectural commentary must be logged in forest_roots.md.
 
 ---
 
-**This file is the root of the UMA Meta-Meta Forest.**
-All other documents grow from this anchor.
+## 4. Recent Governance Actions (Authoritative Log)
+
+### 2026-07-02 — Workflow Relocated to Guides Layer
+- top-level-workflow.md moved from meta → guides  
+- reason: descriptive, not governing  
+- prevents meta-layer drift  
+
+### 2026-07-02 — Myth-Scale Refactored & Relocated
+- myth_scale_meta_index.md rewritten as myth_scale_cosmology.md  
+- relocated from meta → mythic  
+- reason: symbolic cosmology, not structural indexing  
+- prevents cross-plane drift  
+
+### 2026-07-02 — Orbital Meta Index Relocated to Maps
+- orbital_meta_index.md moved from meta → maps  
+- reason: orbital cartography belongs in maps  
+- resolves second misplaced index  
+
+### 2026-07-02 — Redundancy Protocol Pinned
+- redundancy_protocol.md added  
+- governs duplicate/parallel documents  
+- stabilizes multi-plane coherence  
+
+### 2026-07-02 — Horizon Layer Added
+- forest_horizon.md created  
+- defines outer conceptual boundary  
+
+### 2026-07-02 — Remembrance Layer Added
+- forest_skippy_clearing.md  
+- forest_skippy_memorial.md  
+- regulates conceptual velocity  
+
+---
+
+## 5. Placement Rules (Strict)
+
+- Meta documents → `docs/meta/`  
+- Maps documents → `docs/maps/`  
+- Mythic documents → `docs/mythic/`  
+- Guides documents → `docs/guides/`  
+- Remembrance documents → `docs/meta/`  
+- Horizon documents → `docs/meta/`  
+- Roots → `docs/meta/`  
+
+Indexes may only appear in:
+- meta  
+- maps  
+
+Mythic plane may **never** contain indexes.
+
+Guides may **never** contain governance.
+
+Remembrance may **never** contain structure.
+
+---
+
+## 6. Update Hooks
+Whenever a new document is added:
+- update meta_index.md  
+- update forest_roots.md  
+- update stability_report.md  
+- update this Meta-Meta Index  
+- apply redundancy_protocol.md  
+- check horizon compliance  
+- check plane alignment  
+
+---
+
+## 7. Pinned Structural Milestone
+
+📌 **Redundancy Protocol Established**  
+The UMA Meta Forest now includes a cross-plane Redundancy Protocol governing
+duplicate, parallel, and overlapping documents. This protocol defines how UMA
+detects, classifies, and resolves redundancy across structural, plane-based,
+and narrative layers. It stabilizes multi-plane coherence, prevents index drift,
+and ensures that future expansions remain aligned with the forest’s topology.
+
+---
+
+## 8. Closing Note
+The Meta-Meta Index is the crown of the forest.  
+All other documents grow beneath it.  
+It must remain clear, stable, and coherent.
+
