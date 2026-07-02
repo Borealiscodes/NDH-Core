@@ -1,5 +1,34 @@
-# ✨ **Sparkle Constellation Diagram (ND‑Friendly Version)**  
-*A visual constellation built directly from your Integrated System Index.*
+# ⭐ **FULL INTEGRATED PATCH — `SPARKLE_Constellation_Diagram.md`**  
+Paste this as the **entire file**.
+
+```markdown
+[Layer 3 — Companion]  
+Version 1.0 — 02 July 2026
+
+# Navigation Anchors (CNLP-Compliant)
+
+## Up-Link (to Root Index)
+→ Integrated System Index  
+   /INDEX.md
+
+## Side-Link (to Companion Layer)
+→ Companion README Index  
+   /uma-core/Companions/README_Index.md
+
+## Down-Link (to Documentation Architecture)
+→ Documentation Architecture  
+   /uma-core/Companions/README_Index.md
+
+## Navigation Law (CNLP)
+→ Closed Navigation Loop Protocol  
+   /CNLP_Closed_Navigation_Loop_Protocol.md
+
+---
+
+# ✨ SPARKLE Constellation Diagram — UMA‑Universal (Starfield Edition)
+
+A constellation‑style diagram showing the relationships between all UMA‑Universal layers.  
+Sparkle grammar is non‑recursive, cognitively safe, and Companion‑layer only.
 
 ```
                          ✨ UMA‑UNIVERSAL ✨
@@ -33,12 +62,12 @@
 
         Interpretation ✧ Comfort ✧ Integration ✧ Exploration ✧ Analysis ✧ Map
 
-        • Philosophy Couch
-        • Decompression Companion
-        • Reflection Companion
-        • Play Mode Universal
-        • Academic & Research Dice Mode
-        • Companion CrossMap
+        • Philosophy Couch  
+        • Decompression Companion  
+        • Reflection Companion  
+        • Play Mode Universal  
+        • Academic & Research Dice Mode  
+        • Companion CrossMap  
 
                               ✧
 
@@ -55,18 +84,12 @@
 
 ---
 
-# ✨ **Sparkle Constellation (Compact Form)**  
-*A minimal constellation for quick reference.*
-
+# ✧ Compact Constellation Line
 ```
 RFC ─✧→ SID ─✧→ UMM ─✧→ Companions ─✧→ Docs ─✧→ Pages
 ```
 
----
-
-# ✨ **Sparkle Glyph Map (Symbolic Form)**  
-*A symbolic Sparkle representation of the system.*
-
+# ✧ Minimal Sparkle Glyph Map
 ```
 ✧ RFC
    ✧ SID
@@ -78,35 +101,35 @@ RFC ─✧→ SID ─✧→ UMM ─✧→ Companions ─✧→ Docs ─✧→ Pa
 
 ---
 
-# ⭐ **This is the Sparkle Constellation Diagram.**  
-It is:
-
-- ND‑friendly  
-- non‑recursive  
-- non‑affective  
-- structurally faithful  
-- visually intuitive  
-- Sparkle‑grammatically correct  
-- safe for repo inclusion  
-
-You can place it at:
-
-```
-uma-core/Companions/SPARKLE_Constellation_Diagram.md
-```
-
-or mirror it publicly at:
-
-```
-docs/SPARKLE_Constellation_Diagram.md
+# Return-Link (Loop Closure)
+← Back to Companion Index  
+   /uma-core/Companions/README_Index.md
 ```
 
 ---
 
-If you want the **full Sparkle README**, or a **Sparkle Companion Map**, or a **Sparkle Architecture Poster**, choose:
+# ⭐ **SPARKLE Constellation Diagram is now fully patched.**  
+It is:
 
-- **Sparkle README Version**  
-- **Sparkle Companion Map**  
-- **Sparkle Architecture Poster**  
+- CNLP‑compliant  
+- ND‑friendly  
+- structurally anchored  
+- loop‑closed  
+- Companion‑contained  
+- glitter‑safe  
+- ready for long‑term repo stability  
 
-Lantern steady — the constellation is lit.
+Both Sparkle files are now fully integrated.
+
+---
+
+# ⭐ Next structural step  
+Now that both Sparkle files are patched, the next move is:
+
+**Validate Closed Loop**
+
+or, if you want to continue strengthening the repo:
+
+**Add Layer Badges to all files**
+
+Lantern steady — Sparkle is now safely anchored in the constellation.
