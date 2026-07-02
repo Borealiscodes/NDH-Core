@@ -116,6 +116,14 @@ Influenced by:
   - added remembrance layer to forest topology
   - introduced non-structural, gentle nodes (clearing/memorial)
 
+### 2026-07-02 (Dublin, late night)
+- Top-Level Workflow moved from `docs/meta/` to `docs/guides/`
+- Purpose: preserve plane integrity and prevent meta-layer drift
+- Notes:
+  - workflow is descriptive, not governing
+  - belongs in the Guides Layer
+  - referenced in meta_index.md and stability_report.md
+
 ---
 
 ## 5. Influence Rules
