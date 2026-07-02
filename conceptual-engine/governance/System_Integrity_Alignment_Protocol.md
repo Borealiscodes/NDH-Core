@@ -1,6 +1,6 @@
-# PHILOSOPHY COUCH ALIGNMENT PROTOCOL (PCAR)  
-File: /conceptual-engine/governance/Philosophy_Couch_Alignment_Protocol.md  
-Version: 1.2  
+# SYSTEM INTEGRITY ALIGNMENT PROTOCOL (SIAP)  
+File: /conceptual-engine/governance/System_Integrity_Alignment_Protocol.md  
+Version: 1.0  
 Date: 03 July 2026  
 Author: Borealis S. Hedling  
 System: UMA-Universal  
@@ -10,15 +10,17 @@ Purpose: Ethical, epistemic, and architectural governance protocol
 
 ## 1. Introduction
 
-The Philosophy Couch Alignment Protocol (PCAR) is the formal governance procedure used to evaluate UMA-Universal before any major architectural change. PCAR ensures alignment with humane design principles, conceptual integrity, epistemic responsibility, behavioral safety, and architectural coherence.
+The System Integrity Alignment Protocol (SIAP) is the formal governance procedure used to evaluate UMA-Universal before any major architectural change. SIAP ensures alignment with humane design principles, conceptual integrity, epistemic responsibility, behavioral safety, and architectural coherence.
 
-PCAR is mandatory. No runtime prototype, module deployment, manifold expansion, or behavior-layer update may proceed without a completed PCAR review.
+SIAP is mandatory. No runtime prototype, module deployment, manifold expansion, or behavior-layer update may proceed without a completed SIAP review.
+
+SIAP is derived from the Philosophy Couch Alignment Review, expressed here in a stable and GitHub-safe format.
 
 ---
 
 ## 2. Scope
 
-PCAR applies to the following UMA components:
+SIAP applies to the following UMA components:
 
 - CCSEM  
 - UFE  
@@ -33,13 +35,13 @@ PCAR applies to the following UMA components:
 - D2iCE Methodology  
 - D2iCE Evaluation System  
 
-PCAR also applies to any new component introduced into UMA.
+SIAP also applies to any new component introduced into UMA.
 
 ---
 
 ## 3. Governance Principles
 
-PCAR is grounded in the following principles:
+SIAP is grounded in the following principles:
 
 1. Human dignity  
 2. Cognitive safety  
@@ -55,7 +57,7 @@ These principles must be upheld at all times.
 
 ---
 
-## 4. PCAR Workflow (Pinned Sequence)
+## 4. SIAP Workflow (Pinned Sequence)
 
 The following steps must be executed in order. Skipping steps is not permitted.
 
@@ -212,7 +214,7 @@ Outcome: PASS / WARNING / FAIL
 
 ---
 
-## 5. PCAR Case Study (03 July 2026)
+## 5. SIAP Case Study (03 July 2026)
 
 This section documents the alignment review performed on UMA-Universal.
 
@@ -232,18 +234,18 @@ Verdict: UMA-Universal is aligned. Runtime prototype development may proceed.
 
 ## 6. Governance Rules
 
-- PCAR must be performed before any major architectural change.  
-- PCAR must be performed after any major architectural change.  
-- PCAR must be performed whenever ethical concerns arise.  
-- PCAR must be performed whenever conceptual drift is suspected.  
-- PCAR results must be logged in /conceptual-engine/governance/PCAR_Logs/.  
+- SIAP must be performed before any major architectural change.  
+- SIAP must be performed after any major architectural change.  
+- SIAP must be performed whenever ethical concerns arise.  
+- SIAP must be performed whenever conceptual drift is suspected.  
+- SIAP results must be logged in /conceptual-engine/governance/SIAP_Logs/.  
 
 ---
 
-## 7. PCAR Log Format
+## 7. SIAP Log Format
 
 ```
-PCAR Review - <Date>
+SIAP Review - <Date>
 Reviewer: <Name>
 Context: <Change or milestone>
 
@@ -263,3 +265,6 @@ Notes:
 Verdict:
 <Proceed / Hold / Reject>
 ```
+
+---
+
