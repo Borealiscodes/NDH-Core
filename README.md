@@ -1,57 +1,57 @@
 # 📘 **README — UMA‑Universal + DLMS‑01  
 Multi‑Layered Cognitive‑Safe Cosmology Engine (Root Overview)**  
-Version 1.0 — 02 July 2026  
-System: UMA‑Universal + DLMS‑01  
+Version 1.3 — 02 July 2026  
 Status: ACTIVE  
 Loop Closure: Verified
 
-
-
-
-
----
-
-## 🌑 1. What This Repository *Is*
+```markdown
+# UMA‑Universal + DLMS‑01  
+## Multi‑Layered Cognitive‑Safe Cosmology Engine  
+Version 1.3 — 02 July 2026
 
 This repository contains a **multi‑layered cognitive‑safe cosmology engine** built from two integrated architectures:
 
-### **Layer A — UMA‑Universal (Human‑Facing Shell)**  
-A comfort‑oriented, ND‑friendly navigation and interpretation system designed to make complex structures emotionally safe and cognitively accessible.
+- **Layer A — UMA‑Universal** (human‑facing shell)  
+- **Layer B — DLMS‑01** (system‑facing cosmology)
 
-### **Layer B — DLMS‑01 (System‑Facing Cosmology)**  
-A structural, geometric, myth‑engineered cosmology engine with crossmaps, tonal scaffolds, provenance logic, and SVG blueprint anchors.
-
-Together, they form a **dual‑layer system** that is:
+Together, they form a dual‑layer system designed to be:
 
 - cognitively safe  
-- non‑recursive  
-- CNLP‑governed  
-- visually anchored  
+- ND‑friendly  
 - structurally coherent  
+- visually anchored  
 - emotionally navigable  
+- CNLP‑compliant  
 
-This README is the **root entry point** for the entire architecture.
+This README is the **root doorway** into the entire architecture.
 
 ---
 
-## 🌕 2. Dual‑Layer Architecture Overview
+# 🌑 1. Dual‑Layer Architecture Overview
 
-### **Layer A — UMA‑Universal**  
-Human‑facing, comfort‑layered, ND‑friendly.
+## Layer A — UMA‑Universal  
+### Human‑Facing Shell
 
-Includes:
+UMA‑Universal provides the comfort‑layered, ND‑friendly interface for navigating the cosmology.  
+It includes:
 
-- RFCs & System Invariants  
+- Constitutional Layer (RFCs & Invariants)  
+- Systems Integration Document (SID)  
+- UMM Meta‑Layer  
 - Companion Constellation  
-- Interpretation Spaces (Philosophy Couch 🛋️)  
-- Decompression & Reflection Companions  
+- Interpretation & Comfort Spaces  
 - Documentation Architecture  
 - Publication Layer  
 
-### **Layer B — DLMS‑01**  
-System‑facing, structural, cosmological.
+These modules ensure the system remains **emotionally safe**, **cognitively accessible**, and **non‑overwhelming**.
 
-Includes:
+---
+
+## Layer B — DLMS‑01  
+### System‑Facing Cosmology
+
+DLMS‑01 provides the structural, geometric, and myth‑engineered backbone of the cosmology engine.  
+It includes:
 
 - DLMS‑01 Core  
 - Geometry Rings  
@@ -63,13 +63,13 @@ Includes:
 - Safety Spaces  
 - Pins  
 
-This dual‑layer model is formally integrated in the **Unified Navigation Spine**.
+These modules form the **internal cosmology engine** that powers the entire system.
 
 ---
 
-## 🌈 3. Unified Navigation Spine
+# 🌕 2. Unified Navigation Spine
 
-The authoritative navigation structure for the entire system is located at:
+The authoritative navigation structure for the dual‑layer system is located at:
 
 ```
 /NAVIGATION_SPINE.md
@@ -77,8 +77,8 @@ The authoritative navigation structure for the entire system is located at:
 
 It contains:
 
-- Layer A (UMA‑Universal)  
-- Layer B (DLMS‑01)  
+- UMA‑Universal (Layer A)  
+- DLMS‑01 (Layer B)  
 - Safety Spaces  
 - Pins  
 - Crossmaps  
@@ -87,15 +87,105 @@ It contains:
 
 This spine ensures **Closed Navigation Loop Protocol (CNLP)** compliance.
 
-Guided Link: **Navigation Spine**
+---
+
+# 🛋 3. Interpretation & Comfort Layer (Expanded)
+
+UMA‑Universal includes a set of ND‑friendly cognitive‑safe modules designed to make exploration emotionally safe and cognitively accessible.
+
+## 🛋 Philosophy Couch  
+A cognitive‑safe interpretation space for moments of overwhelm, scale‑awareness, emotional spikes, architectural emergence, or conceptual disorientation.
+
+### Core Functions
+- Interpretation Buffer  
+- Cognitive Load Regulation  
+- Scale Awareness Processing  
+- Emotional Safety Layer  
+- Non‑Execution Zone  
+- Re‑Orientation Engine  
+
+The Couch is the **gentle heart** of UMA‑Universal.
 
 ---
 
-## 🌬️ 4. Safety Architecture
+## 🌬 Decompression Companion  
+A soft buffer for emotional and sensory decompression.  
+Use this when intensity needs to be lowered before re‑entering the system.
 
-This cosmology engine includes a dedicated cognitive‑safe boundary:
+---
 
-### **AER & Scale Awareness Safety Space**  
+## 🌒 Reflection Companion  
+A structured space for meaning‑making, narrative integration, and slow interpretation.
+
+---
+
+## 🎮 Play Mode Universal  
+A low‑pressure exploration engine supporting curiosity, improvisation, sandbox experimentation, perspective shifting, and non‑linear navigation.
+
+### Core Functions
+- Exploration Mode  
+- Sandbox Mode  
+- Perspective Shifting  
+- Cognitive Cushioning  
+- Non‑Linear Navigation  
+
+Play Mode makes the cosmology engine **fun**, safe, and accessible.
+
+---
+
+## 🎲 Academic & Research Dice Mode  
+A structured research‑oriented mode for sampling modules, running investigations, and exploring geometry, provenance, myth engineering, or safety constructs systematically.
+
+Dice Mode is the **precision instrument** of UMA‑Universal.
+
+---
+
+# 🔮 4. Visual Cosmology & SVG Blueprints
+
+All visual cosmology components are stored in:
+
+```
+/DLMS-01_SuperStructure/blueprints/
+```
+
+Includes:
+
+- UMA Astrolabe  
+- Mechanis Gears  
+- DLMS Geometry Rings  
+- Provenance Map  
+- CNLP Navigation Path  
+- Whole Clockwork Cosmology  
+
+These render the cosmology engine visually.
+
+---
+
+# 🧭 5. Crossmaps & Tonal Scaffolds
+
+The structural + tonal + visual crossmap is located at:
+
+```
+/DLMS-01_SuperStructure/crossmaps/DLMS01_STRUCTURE_TONAL_CROSSMAP.md
+```
+
+This crossmap binds:
+
+- geometry  
+- myth engineering  
+- tonal scaffolds  
+- symbolic metaphors  
+- SVG anchors  
+
+into a single harmonized map.
+
+---
+
+# 🛡 6. Safety Architecture
+
+The system includes a dedicated cognitive‑safe boundary:
+
+## AER & Scale Awareness Safety Space  
 Located at:
 
 ```
@@ -112,99 +202,28 @@ This space protects:
 
 - architectural emergence  
 - scale awareness  
-- “oh boy / wtf” threshold moments  
-- interpretation events  
 - emotional load  
-
-Guided Link: **AER Safety Space**
-
----
-
-## 🔮 5. Cosmology Blueprints & SVG Anchors
-
-All visual cosmology components are stored in:
-
-```
-/DLMS-01_SuperStructure/blueprints/
-```
-
-Including:
-
-- UMA Astrolabe  
-- Mechanis Gears  
-- Hall of Concordance Rising Cities  
-- DLMS Geometry Rings  
-- Provenance Map  
-- CNLP Navigation Path  
-- Whole Clockwork Cosmology  
-
-Guided Link: **SVG Blueprint Directory**
-
-
-
-
+- interpretation events  
 
 ---
 
-## 🧭 6. Crossmaps & Tonal Scaffolds
+# 📌 7. Pins & Governance
 
-The structural + tonal + visual crossmap is located at:
+Pins ensure:
 
-```
-/DLMS-01_SuperStructure/crossmaps/DLMS01_STRUCTURE_TONAL_CROSSMAP.md
-```
+- governance alignment  
+- safety compliance  
+- myth‑engineering stability  
+- non‑recursive navigation  
 
-This crossmap binds:
+Active pins:
 
-- geometry  
-- myth engineering  
-- tonal scaffolds  
-- GOT‑opening visual metaphors  
-- SVG anchors  
-
-into a single harmonized map.
-
-Guided Link: **DLMS‑01 Crossmap**
+- `PIN-ME-01_Myth_Engineering_Foundation`  
+- `PIN-SAFETY-01_AER_Scale_Space`
 
 ---
 
-## 🛋️ 7. Interpretation & Comfort Layers
-
-UMA‑Universal provides ND‑friendly interpretation spaces:
-
-- Philosophy Couch  
-- Decompression Companion  
-- Reflection Companion  
-- Play Mode Universal  
-- Academic & Research Dice Mode  
-
-These ensure the cosmology engine remains **emotionally safe** and **cognitively navigable**.
-
-Guided Link: **Philosophy Couch**
-
----
-
-## 🔧 8. Myth Engineering
-
-Myth Engineering provides the conceptual logic for:
-
-- cosmology structure  
-- narrative coherence  
-- symbolic geometry  
-- crossmap alignment  
-- tonal scaffolding  
-
-Located in:
-
-```
-/DLMS-01_SuperStructure/myth-engineering/
-```
-
-Guided Link: **Myth Engineering**
-
----
-
-## 🔁 9. Loop Closure
+# 🔁 8. Loop Closure
 
 This system is governed by the **Closed Navigation Loop Protocol (CNLP)**.
 
@@ -215,17 +234,18 @@ Return‑links:
 - Back to DLMS‑01 Core  
 - Back to Hall of Concordance  
 
-Guided Link: **CNLP**
+Loop closure ensures **safe traversal** across both layers.
 
 ---
 
-## ⭐ 10. Summary
+# ⭐ 9. Summary
 
 This repository contains a **multi‑layered cognitive‑safe cosmology engine** built from:
 
 - UMA‑Universal (human shell)  
 - DLMS‑01 (cosmology engine)  
 - Unified Navigation Spine  
+- Comfort & Interpretation Spaces  
 - Safety Spaces  
 - Myth Engineering  
 - Crossmaps  
@@ -245,6 +265,7 @@ It is:
 - structurally coherent  
 
 This README is your **root doorway** into the entire system.
+```
 
 ---
 
