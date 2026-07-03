@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="800"
+  height="800"
+  viewBox="0 0 800 800">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="800" fill="white" />
+
+  <!-- Grid of tesseract projections to represent multiple modules -->
+  <!-- We'll draw 3x3 small tesseract projections as a field metaphor -->
+
+  <!-- Helper: function-like pattern via repetition of groups -->
+
+  <!-- Row 1 -->
+  <g transform="translate(80, 80)">
+    <!-- Outer square -->
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <!-- Inner square -->
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <!-- Connecting edges -->
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(320, 80)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(560, 80)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(80, 320)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(320, 320)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(560, 320)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(80, 560)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(320, 560)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(560, 560)">
+    <rect x="0" y="0" width="120" height="120"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <rect x="20" y="20" width="80" height="80"
+          fill="none" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="0" x2="20" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="100" y2="20" stroke="black" stroke-width="1.5" />
+    <line x1="0" y1="120" x2="20" y2="100" stroke="black" stroke-width="1.5" />
+    <line x1="120" y1="120" x2="100" y2="100" stroke="black" stroke-width="1.5" />
+  </g>
+
+  <!-- Title -->
+  <text
+    x="400"
+    y="40"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="18"
+    fill="black">
+    UMA – Stacked Hypercube Field (Modules as Tesseract Projections)
+  </text>
+</svg>
