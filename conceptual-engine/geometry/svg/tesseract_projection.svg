@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="800"
+  height="800"
+  viewBox="0 0 800 800">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="800" fill="white" />
+
+  <!-- Outer cube (projected) -->
+  <!-- Square centered at (400, 400), size 400 -->
+  <rect
+    x="200"
+    y="200"
+    width="400"
+    height="400"
+    fill="none"
+    stroke="black"
+    stroke-width="2" />
+
+  <!-- Inner cube (projected) -->
+  <!-- Smaller square, offset to suggest 4D -->
+  <rect
+    x="260"
+    y="260"
+    width="280"
+    height="280"
+    fill="none"
+    stroke="black"
+    stroke-width="2" />
+
+  <!-- Connect corresponding vertices (edges between cubes) -->
+  <!-- Top-left -->
+  <line x1="200" y1="200" x2="260" y2="260" stroke="black" stroke-width="2" />
+  <!-- Top-right -->
+  <line x1="600" y1="200" x2="540" y2="260" stroke="black" stroke-width="2" />
+  <!-- Bottom-left -->
+  <line x1="200" y1="600" x2="260" y2="540" stroke="black" stroke-width="2" />
+  <!-- Bottom-right -->
+  <line x1="600" y1="600" x2="540" y2="540" stroke="black" stroke-width="2" />
+
+  <!-- Optional: small circles at vertices for clarity -->
+  <!-- Outer vertices -->
+  <circle cx="200" cy="200" r="4" fill="black" />
+  <circle cx="600" cy="200" r="4" fill="black" />
+  <circle cx="200" cy="600" r="4" fill="black" />
+  <circle cx="600" cy="600" r="4" fill="black" />
+
+  <!-- Inner vertices -->
+  <circle cx="260" cy="260" r="4" fill="black" />
+  <circle cx="540" cy="260" r="4" fill="black" />
+  <circle cx="260" cy="540" r="4" fill="black" />
+  <circle cx="540" cy="540" r="4" fill="black" />
+
+  <!-- Title text (optional, small, non-intrusive) -->
+  <text
+    x="400"
+    y="760"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="16"
+    fill="black">
+    UMA – Tesseract Projection (Single Module Governance Space)
+  </text>
+</svg>
