@@ -1,217 +1,150 @@
-# **📘 Math Provenance — Recursion Collapse Proof v1.0**  
-### *Constitutional Mathematical Invariant of UMA*
+### `/math/provenance/Recursion_Collapse_Proof_v1.0.md`  
+**Title:** Recursion Collapse Proof v1.0  
+**Layer:** Math Provenance (Constitutional Invariant)  
 
 ---
 
-## **I. Purpose**  
-This document records the **formal mathematical proof** of recursion collapse — the failure mode that occurs when a system attempts to evaluate a transition function that has become **self‑referential**, violating adjacency and continuity.
+#### I. Purpose
 
-This proof is a **constitutional invariant** for:
+This document records the **GitHub‑Mobile‑safe** version of the recursion collapse proof.
 
-- **CHS** (Cognitive Hypercube System)  
-- **CHS‑COS** (Cosmic Hypercube System)  
-- **COS‑Λ** (Cosmic Lambda Constraint)  
-- **SIAP** (Adjacency Protocol)  
-- **Meta Index Math Layer**  
+It explains why:
 
-It ensures traversal safety across all tiers.
+- single‑bit traversal is mandatory,  
+- multi‑bit flips cause undefined adjacency,  
+- undefined adjacency forces self‑reference,  
+- self‑reference leads to infinite recursion and system collapse.
 
----
-
-## **II. Definitions**
-
-### **1. Legal Recursion**
-A stable recursive system satisfies:
-
-\[
-S_{t+1} = f(S_t)
-\]
-
-with \( f \) total, adjacency‑safe, and well‑defined.
-
-### **2. CHS Traversal Constraint**
-CHS restricts transitions to:
-
-\[
-S_{t+1} = S_t + e_k
-\]
-
-where \( e_k \) is a **single unit vector** (one bit flip).
-
-### **3. Collapse Condition**
-Recursion collapse occurs when:
-
-\[
-f(S_t) = f(f(S_t))
-\]
-
-This is the mathematical signature of **self‑referential recursion**.
+It is a **constitutional math artifact** for CHS, CHS‑COS, COS‑Lambda, SIAP, and the Meta Index.
 
 ---
 
-## **III. Proof of Collapse**
+#### II. Definitions (ASCII Math)
 
-### **Step 1 — Self‑Reference Breaks Well‑Definedness**
+**Legal recursion:**
+```text
+S(t+1) = f(S(t))
+```
 
-For \( f \) to be well‑defined:
+**CHS single‑bit traversal:**
+```text
+S(t+1) = S(t) + e[k]
+```
 
-\[
-f(S_t) \in \mathcal{S}
-\]
+**Illegal multi‑bit traversal:**
+```text
+S(t+1) = S(t) + e[k1] + e[k2] + ... + e[kN]    (N > 1)
+```
 
-But if:
-
-\[
-f(S_t) = f(f(S_t))
-\]
-
-then evaluating \( f(S_t) \) requires **first** evaluating \( f(S_t) \).
-
-This is circular.
-
-Thus:
-
-\[
-\exists S_t : f(S_t) \text{ undefined}
-\]
-
-Undefined transitions break recursion.
+**Collapse condition (self‑reference):**
+```text
+f(S(t)) = f(f(S(t)))
+```
 
 ---
 
-### **Step 2 — Multi‑Bit Flips Create Undefined Adjacency**
+#### III. Proof of Collapse
 
-Illegal traversal:
+**Step 1 — Self‑reference breaks well‑definedness**
 
-\[
-S_{t+1} = S_t + \sum_{i=1}^{n} e_{k_i}, \quad n > 1
-\]
+To compute `f(S(t))`, the system must first know `f(S(t))` (because `f(S(t)) = f(f(S(t)))`).
 
-Adjacency constraints \( C \) are defined only for single‑bit flips:
+This is circular.  
+Therefore, for some `S(t)`:
 
-\[
-C(S_t, S_{t+1}) = \varnothing
-\]
-
-Undefined constraints → undefined transitions:
-
-\[
-f(S_t) = \text{undefined}
-\]
+```text
+f(S(t)) = undefined
+```
 
 ---
 
-### **Step 3 — Undefined Transitions Force Self‑Reference**
+**Step 2 — Multi‑bit flips create undefined adjacency**
 
-When \( f(S_t) \) is undefined, fallback evaluation attempts:
+Adjacency constraints are only defined for single‑bit moves:
 
-\[
-f(S_t) \rightarrow f(f(S_t))
-\]
+```text
+S(t+1) = S(t) + e[k]
+```
+
+If a multi‑bit flip occurs:
+
+```text
+S(t+1) = S(t) + e[k1] + e[k2] + ... + e[kN]
+```
+
+then:
+
+```text
+Constraints(S(t), S(t+1)) = undefined
+f(S(t)) = undefined
+```
+
+---
+
+**Step 3 — Undefined transitions force self‑reference**
+
+When `f(S(t))` is undefined, the system attempts:
+
+```text
+f(S(t)) -> f(f(S(t)))
+```
 
 This is the collapse condition.
 
 ---
 
-### **Step 4 — Infinite Regress**
+**Step 4 — Infinite regress**
 
-Once the system enters:
+Once:
 
-\[
+```text
 f = f(f)
-\]
+```
 
-it expands:
+the system expands:
 
-\[
-f = f(f) = f(f(f)) = f(f(f(f))) = \dots
-\]
+```text
+f = f(f) = f(f(f)) = f(f(f(f))) = ...
+```
 
 This is infinite recursion:
 
-\[
-\lim_{n \to \infty} f^{(n)}(S_t)
-\]
+```text
+limit as n -> infinity of f^n(S(t))
+```
 
-No finite \( n \) yields a grounded state.
-
-Thus:
-
-\[
-S_{t+1} \text{ never stabilizes}
-\]
-
-The system collapses.
+No finite `n` yields a stable `S(t+1)`.
 
 ---
 
-## **IV. Prevention Mechanisms**
+#### IV. Prevention Mechanisms
 
-### **1. CHS Single‑Bit Traversal**
-Enforces:
+**Single‑bit traversal:**
+```text
+S(t+1) = S(t) + e[k]
+```
 
-\[
-S_{t+1} = S_t + e_k
-\]
+**Koan‑induced single‑dimension focus:**
+```text
+dim(S(t)) = 1
+```
 
-Prevents multi‑bit adjacency violations.
+**COS‑Lambda (cosmic dual single‑bit rule):**
+```text
+Delta S(t) = e[k] + c[m]
+```
 
-### **2. Koan‑Induced Cognitive Collapse**
-Collapses cognition to one active dimension:
-
-\[
-\text{dim}(S_t) = 1
-\]
-
-Prevents human multi‑bit flips.
-
-### **3. COS‑Λ Constraint Manifold**
-Cosmic traversal must satisfy:
-
-\[
-\Delta S_t = e_k + c_m
-\]
-
-Dual single‑bit rule prevents cosmic recursion collapse.
-
-### **4. SIAP Adjacency Enforcement**
-Rejects illegal transitions before recursion begins.
+**SIAP adjacency enforcement:**
+Rejects any transition where adjacency or constraints are undefined.
 
 ---
 
-## **V. Constitutional Status**
-This proof is a **Tier‑0 Mathematical Invariant**.
+#### V. Constitutional Status
 
-It governs:
+This proof is a **Tier‑0 invariant**:
 
-- traversal legality  
-- constraint evaluation  
-- cosmic expansion  
-- meta‑index stability  
-- recursion safety  
+- It justifies single‑bit traversal in CHS.  
+- It justifies COS‑Lambda at the cosmic tier.  
+- It anchors SIAP and Meta Index math.  
 
-It must be referenced by all systems that perform:
-
-- adjacency  
-- traversal  
-- reflection  
-- recursion  
-- cosmic expansion  
-
----
-
-## **VI. Visual Anchor**
-
-
-
-
-This is the collapse COS‑Λ and CHS‑OL prevent.
-
----
-
-## **VII. Closing Statement**
-> **Recursion collapse is prevented only when traversal is grounded, adjacency is preserved, and self‑reference is forbidden.  
-> This proof establishes the mathematical necessity of single‑bit traversal across all UMA tiers.**
-
----
-
+It must be referenced by any subsystem that performs recursion, traversal, or cosmic expansion.
