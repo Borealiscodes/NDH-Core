@@ -1,0 +1,82 @@
+# Play Engine Protocol pin
+
+**Pin‑ID:** UMM‑CC‑PE‑PIN‑PEP‑01  
+**Subsystem:** Companion Constellation → Play Engine  
+**Artifact:** Play Engine Protocol v1.0  
+**Version:** 1.0  
+**Status:** Pinned (Active)  
+**Owner:** Borealis S. Hedling  
+**Bound Systems:** UMA → UMM → CHS‑OL
+
+---
+
+## 1. Purpose of pin
+
+**Purpose:**  
+Formally bind the **Play Engine Protocol v1.0** as a governance‑level rule for the Play Engine subsystem, ensuring:
+
+- tone and narrative safety  
+- curiosity‑driven but bounded traversal  
+- ND‑friendly exploration without emotional scaffolding  
+- sandboxed imagination runtime  
+- prevention of dimensional bleed into governance layers  
+- stable integration with CHS‑OL traversal
+
+---
+
+## 2. Artifact bound by this pin
+
+**Protocol file:**
+
+`/systems/UMM/Companion_Constellation/Play_Engine/Play_Engine_Protocol_v1.0.md`
+
+This document defines:
+
+- Play Engine purpose  
+- safety constraints  
+- traversal rules  
+- runtime boundaries  
+- cognitive exploration guarantees  
+
+---
+
+## 3. Governance rules activated
+
+Once pinned:
+
+- Play Engine may only operate under **Play Engine Protocol v1.0**.  
+- CHS‑OL traversal treats Play Engine as a **sandboxed subsystem**.  
+- Tone, narrative, and imaginative exploration must respect protocol constraints.  
+- Dimensional bleed into HRD, SIAP, or other governance layers is prohibited.  
+- Any future changes to Play Engine behavior require protocol update + new pin/version.
+
+---
+
+## 4. Structural impact
+
+**Stability:**  
+Prevents ungoverned Play Engine activation and tone drift.
+
+**Safety:**  
+Ensures cognitive exploration remains non‑scaffolding and non‑intrusive.
+
+**Isolation:**  
+Keeps Play Engine separate from HRD, SIAP, and core governance subsystems.
+
+---
+
+## 5. Roots ledger entry
+
+```
+ROOTS-ENTRY-PIN-PLAY-ENGINE-PROTOCOL-01
+Type: Governance Pin
+Subsystem: Companion Constellation → Play Engine
+Artifact: Play Engine Protocol v1.0
+Status: Active
+Hash: 7c:fa:21:bb:90:de:63
+Bound: UMA, UMM, CHS-OL Traversal
+```
+
+---
+
+After adding this file, it’s good practice to add a short `GovernanceDecision` entry to `DeveloperLog.md` noting that the Play Engine Protocol was pinned.
