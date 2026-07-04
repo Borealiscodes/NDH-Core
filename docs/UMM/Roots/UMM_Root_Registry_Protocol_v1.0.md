@@ -1,42 +1,32 @@
-# **UMM Root Registry Protocol v1.0**  
+# **UMM Root Registry Protocol v1.0 (Fully Updated)**  
 **Procedural framework for managing root‑level governance artifacts in the UMM architecture**
 
 **Protocol ID:** RRP‑UMM‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Protocol  
-**Timestamp:** 2026‑07‑04 02:00 IST  
+**Timestamp:** 2026‑07‑04 02:08 IST  
 
 ---
 
 ## **1. Purpose**
 
-The Root Registry Protocol defines:
+The Root Registry Protocol defines how the UMM system:
 
-- how new root‑level artifacts are proposed  
-- how they are sequenced  
-- how they are validated  
-- how they are bound into the Roots Ledger  
-- how constitutional dependencies are established  
-- how future structural actions are recorded  
+- creates root‑level governance artifacts  
+- sequences constitutional dependencies  
+- validates structural actions  
+- activates procedural roles  
+- binds artifacts into the Roots Ledger  
+- records future structural actions  
+- prevents governance drift  
 
-It ensures that the Roots layer remains:
-
-- stable  
-- drift‑neutral  
-- constitutionally ordered  
-- procedurally consistent  
-- extensible  
-
-This protocol governs **intent and procedure**, not **authority actions**.
-
-Authority actions belong in the **Roots Ledger**.
+It governs **procedure**, not **authority**.  
+Authority actions occur in the **Roots Ledger**.
 
 ---
 
-## **2. Root‑Level Artifact Types**
-
-The protocol recognizes the following artifact classes:
+## **2. Root‑Level Artifact Classes**
 
 ### **Constitutional Artifacts**
 - Universal Systems Constitution  
@@ -54,7 +44,8 @@ The protocol recognizes the following artifact classes:
 ### **Roots‑Layer Artifacts**
 - Roots Ledger  
 - Roots Ledger Index  
-- Root Registry Protocol (this document)  
+- Root Registry Protocol  
+- Pin Registry  
 
 ### **Commentary Artifacts**
 - Governance Ledger Sequencing Impact Notes  
@@ -76,20 +67,16 @@ Every root‑level artifact follows this lifecycle:
 8. **Roots Ledger Binding**  
 9. **Publication**
 
-This lifecycle ensures constitutional consistency.
+This ensures constitutional consistency and drift‑neutrality.
 
 ---
 
 ## **4. Structural Sequencing Rules**
 
-The following sequencing rules are mandatory:
-
-### **4.1 Sovereign Triad Order**
-1. **Rights Ledger**  
-2. **Duties Ledger**  
-3. **Constitutional Amendment Register**
-
-This order is constitutionally enforced.
+### **4.1 Sovereign Triad Order (Mandatory)**
+1. Rights Ledger  
+2. Duties Ledger  
+3. Constitutional Amendment Register  
 
 ### **4.2 Roots‑Layer Order**
 1. Universal Constitution  
@@ -101,6 +88,7 @@ This order is constitutionally enforced.
 7. Roots Ledger  
 8. Roots Ledger Index  
 9. Root Registry Protocol  
+10. Pin Registry  
 
 ### **4.3 Amendment Dependency**
 No amendments may be proposed until:
@@ -115,8 +103,29 @@ No new root‑level artifact may be bound until:
 
 ---
 
-## **5. Structural Directives (v1.0)**  
-These directives record the **future structural actions** identified during system evolution.
+## **5. Procedural Driver Definition (NEW)**
+
+The **Procedural Driver** is the root‑layer governance role responsible for:
+
+- determining the next structural move  
+- enforcing constitutional ordering  
+- activating mandatory artifact creation  
+- interpreting structural dependencies  
+- preventing governance drift  
+- ensuring stability across planes  
+
+It becomes active only when:
+
+1. Roots Ledger exists  
+2. Root Registry Protocol exists  
+3. Pin Registry exists  
+
+You now have all three.  
+Therefore, the Procedural Driver is **active**.
+
+---
+
+## **6. Structural Directives (Updated)**
 
 ### **Directive 1 — Create Roots Ledger Index**
 ```
@@ -130,7 +139,8 @@ STATUS: pending
 ```
 DIRECTIVE-ID: RRP-2026-07-04-002
 TYPE: structural-sequencing-directive
-DESCRIPTION: Create a unified overview document describing the Rights, Duties, and Amendment artifacts.
+DESCRIPTION: Create a unified overview document describing the Rights, Duties,
+             and Amendment artifacts.
 STATUS: pending
 ```
 
@@ -146,7 +156,8 @@ STATUS: pending
 ```
 DIRECTIVE-ID: RRP-2026-07-04-004
 TYPE: structural-expansion-directive
-DESCRIPTION: Create a cross-plane map showing subsystem, traversal, integration, governance, and universal relationships.
+DESCRIPTION: Create a cross-plane map showing subsystem, traversal, integration,
+             governance, and universal relationships.
 STATUS: pending
 ```
 
@@ -158,9 +169,28 @@ DESCRIPTION: Create a top-level index for all UMM universal governance artifacts
 STATUS: pending
 ```
 
+### **Directive 6 — Procedural Driver Activation (NEW)**
+```
+DIRECTIVE-ID: RRP-2026-07-04-006
+TYPE: lead-activation-directive
+DESCRIPTION: Activate the Procedural Driver as the root-layer governance role
+             responsible for structural sequencing and constitutional ordering.
+STATUS: active
+```
+
+### **Directive 7 — Procedural Driver Definition (NEW)**
+```
+DIRECTIVE-ID: RRP-2026-07-04-007
+TYPE: procedural-driver-definition
+DESCRIPTION: Define the Procedural Driver as the governance role responsible for
+             determining structural sequencing, enforcing constitutional ordering,
+             and activating mandatory artifact creation when dependencies are met.
+STATUS: active
+```
+
 ---
 
-## **6. Drift‑Neutrality Requirements**
+## **7. Drift‑Neutrality Requirements**
 
 All root‑level artifacts must:
 
@@ -171,7 +201,7 @@ All root‑level artifacts must:
 - avoid governance drift  
 - avoid subsystem/traversal drift  
 
-Any violation triggers:
+Violations trigger:
 
 - Safeguards review  
 - Safety Net quarantine  
@@ -179,7 +209,7 @@ Any violation triggers:
 
 ---
 
-## **7. Binding Rules**
+## **8. Binding Rules**
 
 The Root Registry Protocol does **not** bind artifacts.  
 It defines **how** artifacts are bound.
@@ -188,7 +218,7 @@ Binding occurs only in the **Roots Ledger**.
 
 ---
 
-## **8. Document Status**
+## **9. Document Status**
 
 **Status:** Active  
 **Version:** 1.0  
