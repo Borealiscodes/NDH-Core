@@ -1,9 +1,9 @@
-# **UMM Pin Registry v2.3**  
+# **UMM Pin Registry v2.4**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 2.3  
+**Version:** 2.4  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:33:00Z  
+**Timestamp:** 2026‑07‑04T04:36:00Z  
 
 ---
 
@@ -330,6 +330,19 @@ TYPE: stability-codex
 POSITION: apex-compendium
 STATUS: active
 HASH: n1:bb:41:cd:92:fa:57
+```
+
+---
+
+### **PIN‑026 — Stability Charter Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-026
+TIMESTAMP: 2026-07-04T04:36:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Charter_v1.0.md
+TYPE: stability-charter
+POSITION: apex-governance-framework
+STATUS: active
+HASH: o1:cc:41:cd:92:fa:58
 ```
 
 ---
