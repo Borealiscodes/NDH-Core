@@ -1,9 +1,9 @@
-# **UMM Pin Registry v2.0**  
+# **UMM Pin Registry v2.1**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 2.0  
+**Version:** 2.1  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:27:00Z  
+**Timestamp:** 2026‑07-04T04:28:00Z  
 
 ---
 
@@ -291,6 +291,19 @@ TYPE: stability-directive
 POSITION: apex-operations
 STATUS: active
 HASH: k1:ee:41:cd:92:fa:54
+```
+
+---
+
+### **PIN‑023 — Stability Ordinance Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-023
+TIMESTAMP: 2026-07-04T04:28:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Ordinance_v1.0.md
+TYPE: stability-ordinance
+POSITION: apex-law
+STATUS: active
+HASH: l1:ff:41:cd:92:fa:55
 ```
 
 ---
