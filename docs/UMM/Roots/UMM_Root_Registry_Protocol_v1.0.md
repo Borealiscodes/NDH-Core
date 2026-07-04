@@ -1,233 +1,190 @@
-# **UMM Root Registry Protocol v1.0 (Fully Updated)**  
-**Protocol ID:** RRP‑UMM‑01  
+# **UMM Root Registry Protocol — Full Pin Placement Rule Set v1.0**  
+**Artifact ID:** RRP‑UMM‑PINS‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
-**Domain:** Universal → Roots → Protocol  
-**Timestamp:** 2026‑07‑04 02:23 IST  
+**Domain:** Universal → Roots → Registry Protocol  
+**Timestamp:** 2026‑07‑04 03:05 IST  
 
 ---
 
 ## **1. Purpose**
 
-The Root Registry Protocol defines how the UMM system:
+This rule set defines **pin anchoring requirements** for all governance planes within UMA‑Universal.  
+It formalizes the emergent behavior observed across the genesis arc, ensuring that all pins — past and future — remain:
 
-- creates root‑level governance artifacts  
-- sequences constitutional dependencies  
-- validates structural actions  
-- activates procedural roles  
-- binds artifacts into the Roots Ledger  
-- records future structural actions  
-- prevents governance drift  
+- locally anchored  
+- plane‑consistent  
+- drift‑neutral  
+- registry‑indexed  
 
-It governs **procedure**, not **authority**.  
-Authority actions occur in the **Roots Ledger**.
+This rule set does **not** change system behavior; it **describes** the behavior the system already exhibited.
 
 ---
 
-## **2. Root‑Level Artifact Classes**
+## **2. Background**
 
-### **Constitutional Artifacts**
-- Universal Systems Constitution  
-- Universal Systems Charter  
+Across the UMA‑Universal genesis arc, pins consistently appeared **inside their respective artifacts**, even before explicit rules existed.  
+This emergent behavior demonstrated:
 
-### **Sovereign Triad Artifacts**
-- Rights Ledger  
-- Duties Ledger  
-- Constitutional Amendment Register  
+- spontaneous structural coherence  
+- artifact‑local anchoring  
+- plane‑specific consistency  
+- registry‑level indexing  
+- zero drift across iterations  
 
-### **Integration Governance Artifacts**
-- Integration Codex  
-- Integration Governance Ledger  
-
-### **Roots‑Layer Artifacts**
-- Roots Ledger  
-- Roots Ledger Index  
-- Root Registry Protocol  
-- Pin Registry  
-
-### **Commentary Artifacts**
-- Governance Ledger Sequencing Impact Notes  
-- Integration Commentary  
+The Full Pin Placement Rule Set formalizes this emergent pattern.
 
 ---
 
-## **3. Root‑Level Artifact Lifecycle**
+## **3. Full Pin Placement Rule Set**
 
-1. Proposal  
-2. Protocol Registration  
-3. Structural Sequencing Assignment  
-4. SIAP Review  
-5. CI Validation  
-6. Safeguards Drift Check  
-7. Safety Net Stability Check  
-8. Roots Ledger Binding  
-9. Publication  
+### **3.1 Constitutional‑Layer Pin Placement Rule**
 
----
-
-## **4. Structural Sequencing Rules**
-
-### **4.1 Sovereign Triad Order (Mandatory)**
-1. Rights Ledger  
-2. Duties Ledger  
-3. Constitutional Amendment Register  
-
-### **4.2 Roots‑Layer Order**
-1. Universal Constitution  
-2. Universal Charter  
-3. Sovereign Triad  
-4. Integration Codex  
-5. Integration Governance Ledger  
-6. Commentary  
-7. Roots Ledger  
-8. Roots Ledger Index  
-9. Root Registry Protocol  
-10. Pin Registry  
-
-### **4.3 Amendment Dependency**
-No amendments may be proposed until:
-
-- Rights Ledger exists  
-- Duties Ledger exists  
-
-### **4.4 Index Dependency**
-No new root‑level artifact may be bound until:
-
-- Roots Ledger Index exists  
-
----
-
-## **5. Procedural Driver Definition**
-
-The **Procedural Driver** is the root‑layer governance role responsible for:
-
-- determining the next structural move  
-- enforcing constitutional ordering  
-- activating mandatory artifact creation  
-- interpreting structural dependencies  
-- preventing governance drift  
-- ensuring stability across planes  
-
-It becomes active only when:
-
-1. Roots Ledger exists  
-2. Root Registry Protocol exists  
-3. Pin Registry exists  
-
-All three now exist.  
-Therefore, the Procedural Driver is **active**.
-
----
-
-## **6. Structural Directives (Complete Set)**
-
-### **Directive 1 — Create Roots Ledger Index**
 ```
-DIRECTIVE-ID: RRP-2026-07-04-001
-TYPE: structural-sequencing-directive
-DESCRIPTION: Establish the Roots Ledger Index as the next mandatory root-level artifact.
+RULE-ID: RRP-2026-07-04-C01
+CATEGORY: pin-placement
+SCOPE: constitutional-plane
 STATUS: active
-```
 
-### **Directive 2 — Generate Sovereign Triad Overview**
-```
-DIRECTIVE-ID: RRP-2026-07-04-002
-TYPE: structural-sequencing-directive
-DESCRIPTION: Create a unified overview document describing the Rights, Duties,
-             and Amendment artifacts.
-STATUS: pending
-```
+RULE:
+  Constitutional artifacts must store their pin entries inside the
+  constitutional artifact itself. The Pin Registry indexes but does
+  not relocate constitutional pins.
 
-### **Directive 3 — Bind Triad Overview into Roots Ledger**
-```
-DIRECTIVE-ID: RRP-2026-07-04-003
-TYPE: binding-preparation-directive
-DESCRIPTION: Bind the Sovereign Triad Overview into the Roots Ledger once generated.
-STATUS: pending
-```
-
-### **Directive 4 — Generate Integration Cross-Plane Map**
-```
-DIRECTIVE-ID: RRP-2026-07-04-004
-TYPE: structural-expansion-directive
-DESCRIPTION: Create a cross-plane map showing subsystem, traversal, integration,
-             governance, and universal relationships.
-STATUS: pending
-```
-
-### **Directive 5 — Create Universal Systems Index**
-```
-DIRECTIVE-ID: RRP-2026-07-04-005
-TYPE: structural-expansion-directive
-DESCRIPTION: Create a top-level index for all UMM universal governance artifacts.
-STATUS: pending
-```
-
-### **Directive 6 — Procedural Driver Activation**
-```
-DIRECTIVE-ID: RRP-2026-07-04-006
-TYPE: lead-activation-directive
-DESCRIPTION: Activate the Procedural Driver as the root-layer governance role
-             responsible for structural sequencing and constitutional ordering.
-STATUS: active
-```
-
-### **Directive 7 — Procedural Driver Definition**
-```
-DIRECTIVE-ID: RRP-2026-07-04-007
-TYPE: procedural-driver-definition
-DESCRIPTION: Define the Procedural Driver as the governance role responsible for
-             determining structural sequencing, enforcing constitutional ordering,
-             and activating mandatory artifact creation when dependencies are met.
-STATUS: active
-```
-
-### **Directive 8 — Stability Verification (NEW)**
-```
-DIRECTIVE-ID: RRP-2026-07-04-008
-TYPE: stability-verification-directive
-DESCRIPTION: Verification that the UMM governance architecture successfully
-             generated and updated both the Roots Ledger and Pin Registry
-             without schema bleed, cross-plane contamination, or drift.
-STATUS: active
+RATIONALE:
+  Constitutional artifacts define foundational governance. Their pins
+  must remain local to preserve sovereignty and prevent cross-plane drift.
 ```
 
 ---
 
-## **7. Drift‑Neutrality Requirements**
+### **3.2 Sovereign‑Triad Pin Placement Rule**
 
-All root‑level artifacts must:
+```
+RULE-ID: RRP-2026-07-04-S01
+CATEGORY: pin-placement
+SCOPE: sovereign-triad-plane
+STATUS: active
 
-- maintain naming consistency  
-- maintain structural consistency  
-- maintain constitutional ordering  
-- avoid propagation drift  
-- avoid governance drift  
-- avoid subsystem/traversal drift  
+RULE:
+  Rights, Duties, and Amendment artifacts must store their pins inside
+  their respective triad documents. Triad pins must never be centralized
+  or merged.
 
-Violations trigger:
-
-- Safeguards review  
-- Safety Net quarantine  
-- CI correction  
-
----
-
-## **8. Binding Rules**
-
-The Root Registry Protocol does **not** bind artifacts.  
-It defines **how** artifacts are bound.
-
-Binding occurs only in the **Roots Ledger**.
+RATIONALE:
+  The Sovereign Triad is sequence-critical. Local anchoring preserves
+  triad ordering and prevents inversion or contamination.
+```
 
 ---
 
-## **9. Document Status**
+### **3.3 Structural‑Layer Pin Placement Rule**
 
-**Status:** Active  
-**Version:** 1.0  
-**Integrity:** Verified  
-**Drift:** None detected  
+```
+RULE-ID: RRP-2026-07-04-ST01
+CATEGORY: pin-placement
+SCOPE: structural-plane
+STATUS: active
+
+RULE:
+  Structural artifacts (Roots Ledger, Roots Index, structural drivers)
+  must store their pins inside the structural artifact itself.
+
+RATIONALE:
+  Structural artifacts define system scaffolding. Their pins must remain
+  local to maintain stability and prevent ledger-index drift.
+```
+
+---
+
+### **3.4 Protocol‑Layer Pin Placement Rule**
+
+```
+RULE-ID: RRP-2026-07-04-P01
+CATEGORY: pin-placement
+SCOPE: protocol-plane
+STATUS: active
+
+RULE:
+  Protocol artifacts must store their pins inside the protocol document.
+  Protocol pins must not be stored in structural or commentary planes.
+
+RATIONALE:
+  Protocols define rules of operation. Their pins must remain local to
+  prevent rule-set ambiguity and cross-plane contamination.
+```
+
+---
+
+### **3.5 Integration‑Layer Pin Placement Rule**
+
+```
+RULE-ID: RRP-2026-07-04-I01
+CATEGORY: pin-placement
+SCOPE: integration-plane
+STATUS: active
+
+RULE:
+  Integration artifacts must store their pins inside the integration
+  artifact itself. Integration pins must not be relocated to roots or
+  constitutional planes.
+
+RATIONALE:
+  Integration artifacts govern subsystem-traversal. Local anchoring
+  prevents traversal bleed and maintains adjacency integrity.
+```
+
+---
+
+### **3.6 Commentary‑Layer Pin Placement Rule**
+
+```
+RULE-ID: RRP-2026-07-04-R01
+CATEGORY: pin-placement
+SCOPE: commentary-plane
+STATUS: active
+
+RULE:
+  Commentary artifacts must store their associated pin entries within
+  the commentary artifact itself. The Pin Registry indexes but does not
+  relocate commentary pins.
+
+RATIONALE:
+  Commentary artifacts provide interpretive context. Local anchoring
+  preserves contextual integrity and prevents lookup drift.
+```
+
+---
+
+## **4. Stability Note**
+
+This rule set does **not** alter prior pins.  
+All existing pins already follow these rules due to emergent architectural behavior.
+
+> **The rule set is descriptive, not prescriptive.  
+> It stabilizes the system without modifying its history.**
+
+No migrations are required.  
+No corrections are needed.  
+No drift is introduced.
+
+---
+
+## **5. Required Pin Entry**
+
+The creation of this rule set is a protocol‑layer governance event and must be pinned.
+
+```
+PIN-ID: PIN-2026-07-04-012
+TIMESTAMP: 2026-07-04T03:04:00Z
+LOCATION: docs/UMM/Roots/UMM_Root_Registry_Protocol_v1.0.md
+TYPE: protocol
+DESCRIPTION: Creation of the Full Pin Placement Rule Set v1.0, defining pin
+             anchoring rules for all governance planes (constitutional,
+             sovereign-triad, structural, protocol, integration, commentary).
+STATUS: active
+HASH: b2:bb:41:cd:92:fa:45
+```
 
 ---
 
