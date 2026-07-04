@@ -1,37 +1,28 @@
-# **UMM Pin Registry v1.1**  
-**Artifact ID:** UMM‑PIN‑REG‑01  
+# **📘 UMM Pin Registry v1.1**  
+**Artifact‑ID:** UMM‑PIN‑REG‑01  
 **Version:** 1.1  
-**Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Registry  
-**Timestamp:** 2026‑07‑04 03:12 IST  
+**Owner:** Borealis S. Hedling  
+**Timestamp:** 2026‑07‑04T03:44:00Z  
 
 ---
 
-## **1. Purpose**
-
-The Pin Registry provides a **global index** of all pins across UMA‑Universal.  
-Pins remain **inside their respective artifacts**, and the Registry stores:
-
-- metadata  
-- location  
-- type  
-- timestamps  
-- hash lineage  
-
-This registry does **not** relocate pins.  
-It only indexes them.
+## **Purpose**
+The UMM Pin Registry provides a unified index of all pins across UMA‑Universal.  
+Pins remain inside their respective artifacts; the Registry stores only metadata for traceability, lineage, and stability.
 
 ---
 
-## **2. Pin Entries**
-
-Below is the **complete, consolidated list** of all pins created across the UMA‑Universal architecture.
+## **Stability Statement**
+This registry is a **non‑relocating index**.  
+All pins listed here are **plane‑pure**, **artifact‑anchored**, and **drift‑neutral**.  
+The Registry does not modify, move, or reinterpret pins — it records them.
 
 ---
 
+# **📌 Pin Entries**
 
-```
-
+---
 
 ### **PIN‑001 — Rights Ledger Creation**
 ```
@@ -200,30 +191,4 @@ HASH: c1:cc:41:cd:92:fa:46
 ```
 
 ---
-
-
-
-## **3. Registry Integrity Statement**
-
-All pins listed above:
-
-- remain inside their respective artifacts  
-- follow the Full Pin Placement Rule Set v1.0  
-- maintain plane purity  
-- preserve ordering  
-- exhibit zero drift  
-- reflect emergent architectural behavior  
-
-The Registry is an **index**, not a storage location.  
-No pins are relocated.
-
----
-
-## **4. Path**
-
-```
-docs/UMM/Roots/UMM_Pin_Registry_v1.1.md
-```
-
-
 
