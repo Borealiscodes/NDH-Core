@@ -5,7 +5,7 @@
 **Version:** 1.2  
 **Owner:** Borealis S. Hedling  
 **Domain:** Integration → Governance → Ledger  
-**Timestamp:** 2026‑07‑04 01:06 IST  
+**Timestamp:** 2026‑07‑04 (latest update)
 
 ---
 
@@ -13,9 +13,9 @@
 
 The Governance Ledger records all authoritative actions taken by:
 
-- **GOV‑SIAP** — Primary Integration Authority  
-- **GOV‑SAF** — Drift Enforcement Authority  
-- **GOV‑SN** — Quarantine Authority  
+- **SIAP** — Primary Integration Authority  
+- **Safeguards** — Drift Enforcement Authority  
+- **Safety Net** — Quarantine Authority  
 - **CI‑NS‑ENF‑01** — Naming & Structural Enforcement  
 
 across the entire SYS‑CHS ↔ TRV‑CHS‑OL integration surface.
@@ -33,7 +33,7 @@ This ledger is append‑only and immutable.
 
 ---
 
-# **2. Ledger Structure (v1.2)**
+## **2. Ledger Structure (v1.2)**
 
 Each ledger entry follows the canonical governance‑record format:
 
@@ -41,7 +41,7 @@ Each ledger entry follows the canonical governance‑record format:
 ENTRY-ID: <unique identifier>
 TIMESTAMP: <UTC>
 AUTHORITY: <SIAP|SAF|SN|CI>
-ACTION-TYPE: <approval|denial|override|quarantine|enforcement|classification>
+ACTION-TYPE: <approval|denial|override|quarantine|enforcement|classification|structural-sequencing-decision>
 TARGET:
   subsystem: SYS-CHS
   traversal: TRV-CHS-OL
@@ -66,7 +66,7 @@ HASH: <sha256-like hash>
 
 ---
 
-# **3. Governance Authority Roles (Codified)**
+## **3. Governance Authority Roles (Codified)**
 
 ### **SIAP — Primary Authority**
 Records:
@@ -99,7 +99,7 @@ Records:
 
 ---
 
-# **4. Example Ledger Entries (v1.2)**
+## **4. FULL LEDGER ENTRIES (Updated)**
 
 ### **Entry 1 — SIAP Approval**
 ```
@@ -221,7 +221,42 @@ HASH: 9e:cc:41:cd:92:fa:04
 
 ---
 
-# **5. Ledger Governance Rules**
+### **Entry 5 — SIAP Structural Sequencing Decision (NEW)**  
+*(Your recorded decision.)*
+```
+ENTRY-ID: STIGL-2026-07-04-005
+TIMESTAMP: 2026-07-04T01:24:33Z
+AUTHORITY: SIAP
+ACTION-TYPE: structural-sequencing-decision
+TARGET:
+  subsystem: SYS-CHS
+  traversal: TRV-CHS-OL
+CHANNEL: governance
+DETAILS: SIAP formally establishes the sovereign-layer sequencing order:
+         1) Rights Ledger v1.0
+         2) Duties Ledger v1.0
+         3) Constitutional Amendment Register v1.0
+         This sequencing is now binding for all sovereign-layer governance artifacts.
+DRIFT-VECTORS:
+  naming: none
+  traversal: none
+  subsystem: none
+  governance: none
+  propagation: none
+ISOLATION-BREACH:
+  identity-plane: no
+  narrative-plane: no
+  governance-plane: no
+QUARANTINE:
+  status: none
+  reason: null
+STATUS: valid
+HASH: b1:dc:41:cd:92:fa:bf
+```
+
+---
+
+## **5. Governance Rules**
 
 The ledger must:
 
@@ -237,7 +272,7 @@ No entry may be deleted or modified.
 
 ---
 
-# **6. SID v1.2 Alignment**
+## **6. SID v1.2 Alignment**
 
 SID v1.2 defines subsystem ↔ traversal integration as:
 
@@ -258,24 +293,29 @@ The Governance Ledger ensures this relationship remains:
 
 ---
 
-# **7. Roots Ledger Binding**
+## **7. Roots Ledger Binding**
 
 ```
 ROOTS-ENTRY-STIGL-UMM-01
 Type: Subsystem–Traversal Integration Governance Ledger
 Module: UMM-STIGL-01
 Status: Active
-Hash: 77:cc:41:cd:92:fa:ad
+Hash: b1:dc:41:cd:92:fa:bf
 Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
 ```
 
 ---
 
-# **8. Document Status**
+## **8. Document Status**
 
 **Status:** Active  
 **Version:** 1.2  
-**Hash:** 77:cc:41:cd:92:fa:ad  
+**Latest Hash:** b1:dc:41:cd:92:fa:bf  
+**Entries:** 5  
+**Integrity:** Verified  
+**Drift:** None detected  
 
 ---
+
+
 
