@@ -1,0 +1,54 @@
+### 1️⃣ NDH‑Hexeract‑Base‑6D.template.svg
+
+**Path:**
+
+```text
+/UMA/Tools/NDH-Blueprint-Suite/NDH-Templates-SVG-v1.0/NDH-Hexeract-Base-6D.template.svg
+```
+
+**Purpose:**  
+2D projection of the 6D cube (hexeract) as the **baseline NDH geometry** before non‑dual collapse.
+
+**Template SVG:**
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- Outer projected cube -->
+  <rect x="150" y="150" width="500" height="500"
+        stroke="black" fill="none" />
+
+  <!-- Inner projected cube -->
+  <rect x="250" y="250" width="300" height="300"
+        stroke="black" fill="none" />
+
+  <!-- Connector edges (outer → inner corners) -->
+  <line x1="150" y1="150" x2="250" y2="250" stroke="black" />
+  <line x1="650" y1="150" x2="550" y2="250" stroke="black" />
+  <line x1="150" y1="650" x2="250" y2="550" stroke="black" />
+  <line x1="650" y1="650" x2="550" y2="550" stroke="black" />
+
+  <!-- Axis label placeholders -->
+  <text x="100" y="120">{AXIS_X1_LABEL}</text>
+  <text x="700" y="120">{AXIS_X2_LABEL}</text>
+  <text x="100" y="720">{AXIS_X3_LABEL}</text>
+  <text x="700" y="720">{AXIS_X4_LABEL}</text>
+  <text x="400" y="60">{AXIS_X5_LABEL}</text>
+  <text x="400" y="780">{AXIS_X6_LABEL}</text>
+
+</svg>
+```
+
+**Replacement mapping (per spec):**
+
+- `{AXIS_X1_LABEL}` → `C`  
+- `{AXIS_X2_LABEL}` → `E`  
+- `{AXIS_X3_LABEL}` → `A`  
+- `{AXIS_X4_LABEL}` → `R`  
+- `{AXIS_X5_LABEL}` → `P`  
+- `{AXIS_X6_LABEL}` → `𝒜`
+
+---
+
+ 
