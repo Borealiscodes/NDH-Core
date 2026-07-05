@@ -1,17 +1,3 @@
-### 1️⃣ NDH‑Hexeract‑Base‑6D.template.svg
-
-**Path:**
-
-```text
-/UMA/Tools/NDH-Blueprint-Suite/NDH-Templates-SVG-v1.0/NDH-Hexeract-Base-6D.template.svg
-```
-
-**Purpose:**  
-2D projection of the 6D cube (hexeract) as the **baseline NDH geometry** before non‑dual collapse.
-
-**Template SVG:**
-
-```svg
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 800 800">
 
@@ -38,17 +24,3 @@
   <text x="400" y="780">{AXIS_X6_LABEL}</text>
 
 </svg>
-```
-
-**Replacement mapping (per spec):**
-
-- `{AXIS_X1_LABEL}` → `C`  
-- `{AXIS_X2_LABEL}` → `E`  
-- `{AXIS_X3_LABEL}` → `A`  
-- `{AXIS_X4_LABEL}` → `R`  
-- `{AXIS_X5_LABEL}` → `P`  
-- `{AXIS_X6_LABEL}` → `𝒜`
-
----
-
- 
