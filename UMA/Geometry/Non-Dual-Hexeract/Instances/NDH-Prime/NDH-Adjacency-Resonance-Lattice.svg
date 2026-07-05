@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- Central awareness node -->
+  <circle cx="400" cy="400" r="40"
+          fill="white" stroke="black" />
+  <text x="390" y="405">𝒜</text> <!-- CENTER_NODE_LABEL -->
+
+  <!-- Radial adjacency nodes -->
+  <circle cx="400" cy="250" r="12" fill="black" />
+  <circle cx="550" cy="400" r="12" fill="black" />
+  <circle cx="400" cy="550" r="12" fill="black" />
+  <circle cx="250" cy="400" r="12" fill="black" />
+
+  <!-- Adjacency edges -->
+  <line x1="400" y1="400" x2="400" y2="250" stroke="black" />
+  <line x1="400" y1="400" x2="550" y2="400" stroke="black" />
+  <line x1="400" y1="400" x2="400" y2="550" stroke="black" />
+  <line x1="400" y1="400" x2="250" y2="400" stroke="black" />
+
+  <!-- Resonance arcs -->
+  <path d="M 400 250 A 150 150 0 0 1 550 400"
+        stroke="blue" fill="none" />
+  <path d="M 550 400 A 150 150 0 0 1 400 550"
+        stroke="blue" fill="none" />
+  <path d="M 400 550 A 150 150 0 0 1 250 400"
+        stroke="blue" fill="none" />
+  <path d="M 250 400 A 150 150 0 0 1 400 250"
+        stroke="blue" fill="none" />
+
+</svg>
