@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- Wireframe hexeract box -->
+  <rect x="150" y="150" width="500" height="500"
+        fill="none" stroke="black" />
+
+  <!-- Axis labels -->
+  <text x="140" y="140">C</text>      <!-- AXIS_X1_LABEL -->
+  <text x="660" y="140">E</text>      <!-- AXIS_X2_LABEL -->
+  <text x="140" y="680">A</text>      <!-- AXIS_X3_LABEL -->
+  <text x="660" y="680">R</text>      <!-- AXIS_X4_LABEL -->
+  <text x="400" y="120">P</text>      <!-- AXIS_X5_LABEL -->
+  <text x="400" y="720">𝒜</text>      <!-- AXIS_X6_LABEL -->
+
+</svg>
