@@ -71,15 +71,4 @@ Status: Generated from NDH-Blueprint-Spec-v1.0
 
 ---
 
-# ⭐ Replacement mapping (per spec)
-
-- `{INSTANCE_LABEL}` → NDH instance name  
-- `{CENTER_NODE_LABEL}` → `𝒜`  
-- `{MONAD_LABEL}` → `T`  
-- `{OMEGA_LABEL}` → `Ω`  
-- `{OMEGA_MAP_LABEL}` → `αΩ`  
-- `{AXIS_X#_LABEL}` → `C, E, A, R, P, 𝒜`  
-- `{VERSION_LABEL}` → `v1.0`  
-
----
 
