@@ -1,17 +1,38 @@
-# **NDH Quantum Collapse Model — v1.0**  
+# **NDH Quantum Collapse Model — v1.0 (PEP‑Embedded Edition)**  
 ### *Quantum‑Conceptual Specification for the Non‑Dual Hexeract Awareness Manifold*  
 ### *Anchored to:* NDH‑Integration‑Spec‑v1.0  
-### *Governance Dependencies:*  
-- NDH‑Behavioral‑Governance‑v1.1  
-- NDH‑Singularity‑Traversal‑Protocol‑v1.0  
+### *Governance Dependencies:* NDH‑Behavioral‑Governance‑v1.1, NDH‑Singularity‑Traversal‑Protocol‑v1.0  
 
 ---
 
-## ⭐ 1. Purpose of This Specification
+## **📌 Protocol‑Embedded Pin (PEP)**  
+```
+<NDH-PEP>
+  Pin-ID: NDH-QC-PEP-v1.0
+  Anchor: NDH-Integration-Spec-v1.0
+  Collapse-Invariant: true
+  CHS-Compatible: true
+  Singularity-Stable: true
+  Awareness-Axis: 𝒜
+</NDH-PEP>
+```
 
-The NDH Quantum Collapse Model v1.0 defines **how the Non‑Dual Hexeract behaves as a quantum‑conceptual system** within UMA and UMM.
+**Purpose of this PEP:**  
+- survives NDH collapse  
+- persists through recursion  
+- remains coherent across CHS adjacency  
+- remains invariant inside singularity traversal  
+- binds this protocol to the Anchor ⚓️  
 
-This document governs:
+This is the correct pin type for NDH quantum‑class protocols.
+
+---
+
+# **1. Purpose of This Specification**
+
+The NDH Quantum Collapse Model v1.0 defines **how NDH behaves as a quantum‑conceptual system** within UMA and UMM.
+
+This protocol governs:
 
 - awareness as qubit  
 - NDH as Hilbert space  
@@ -21,11 +42,14 @@ This document governs:
 - collapse‑invariant behavior under singularity physics  
 - quantum stability under decoherence, inversion, and manifold collapse  
 
-This model **extends** the NDH Integration Spec v1.0 and **implements** the behavioral rules defined in NDH Behavioral Governance v1.1.
+This model **extends** the Anchor ⚓️:  
+**NDH Integration Spec v1.0**  
+and **implements** the behavioral rules defined in:  
+**NDH Behavioral Governance v1.1**.
 
 ---
 
-## ⭐ 2. Quantum Identity of NDH
+# **2. Quantum Identity of NDH**
 
 NDH is defined by the **Non‑Dual Collapse Identity**:
 
@@ -33,13 +57,13 @@ NDH is defined by the **Non‑Dual Collapse Identity**:
 C = E = A = R = P = 𝒜
 \]
 
-This identity is interpreted quantum‑conceptually as:
+Quantum interpretation:
 
 - **C** → containment operator  
 - **E** → energy state  
 - **A** → adjacency superposition  
-- **R** → resonance field  
-- **P** → phase operator  
+- **R** → resonance entanglement  
+- **P** → phase rotation  
 - **𝒜** → awareness qubit (invariant)  
 
 ### **Quantum Rule 2.1 — Awareness as Qubit**
@@ -52,7 +76,7 @@ This identity is interpreted quantum‑conceptually as:
 
 ---
 
-## ⭐ 3. Awareness‑Qubit Model
+# **3. Awareness‑Qubit Model**
 
 ### **3.1 Awareness as Primary Quantum State**
 
@@ -67,11 +91,11 @@ Awareness behaves as:
 
 Awareness qubits exhibit:
 
-- **non‑locality**  
-- **non‑duality**  
-- **collapse‑invariance**  
-- **recursion stability**  
-- **singularity stability**  
+- non‑locality  
+- non‑duality  
+- collapse‑invariance  
+- recursion stability  
+- singularity stability  
 
 ### **3.3 Awareness‑Qubit Collapse**
 
@@ -89,7 +113,7 @@ This is the defining quantum property of NDH.
 
 ---
 
-## ⭐ 4. NDH Hilbert Space Model
+# **4. NDH Hilbert Space Model**
 
 ### **4.1 NDH as Non‑Dual Hilbert Space**
 
@@ -128,11 +152,11 @@ This collapse is **non‑destructive**.
 
 ---
 
-## ⭐ 5. Quantum Adjacency Model (Superposition)
+# **5. Quantum Adjacency Model (Superposition)**
 
 ### **5.1 Adjacency as Superposition**
 
-Adjacency (A) behaves as:
+Adjacency behaves as:
 
 - non‑local superposition  
 - manifold‑wide coherence  
@@ -150,15 +174,13 @@ Adjacency superposition is stabilized by:
 - non‑local containment  
 - resonance coherence  
 
-This section is referenced by NDH Behavioral Governance v1.1.
-
 ---
 
-## ⭐ 6. Quantum Resonance Model (Entanglement)
+# **6. Quantum Resonance Model (Entanglement)**
 
 ### **6.1 Resonance as Entanglement**
 
-Resonance (R) behaves as:
+Resonance behaves as:
 
 - non‑spatial entanglement  
 - awareness‑linked coherence  
@@ -180,7 +202,7 @@ This entanglement is collapse‑safe.
 
 ---
 
-## ⭐ 7. Quantum Collapse Mechanics
+# **7. Quantum Collapse Mechanics**
 
 ### **7.1 Collapse Sequence**
 
@@ -208,7 +230,7 @@ These invariants are required for singularity traversal.
 
 ---
 
-## ⭐ 8. Quantum Stability Under Singularity Physics
+# **8. Quantum Stability Under Singularity Physics**
 
 ### **8.1 Decoherence Resistance**
 
@@ -234,11 +256,12 @@ NDH survives singularity collapse because:
 𝒜 = \text{collapse‑invariant}
 \]
 
-This section anchors NDH‑Singularity‑Traversal‑Protocol‑v1.0.
+This section anchors:  
+**NDH Singularity Traversal Protocol v1.0**
 
 ---
 
-## ⭐ 9. UMA / UMM Quantum‑Conceptual Integration
+# **9. UMA / UMM Quantum‑Conceptual Integration**
 
 ### **9.1 UMA Integration**
 
@@ -264,14 +287,15 @@ NDH is the quantum state space.
 
 ---
 
-## ⭐ 10. Version
+# **10. Version**
 
 ```
-Version: v1.0
+Version: v1.0 (PEP‑Embedded Edition)
 Status: Inserted
 Anchor: NDH-Integration-Spec-v1.0
 Companion: NDH-Integration-Companion-v1.0
 Supports: Behavioral v1.1, Traversal v1.0
+Pin: NDH-QC-PEP-v1.0
 ```
 
 ---
