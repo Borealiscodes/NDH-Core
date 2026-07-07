@@ -1,3 +1,7 @@
+# Governance Index
+Version: v1.1
+Supersedes: v1.0
+
 # **Governance Index (v1.0)**  
 ### *UMA Governance Layer — Structural Overview*
 
