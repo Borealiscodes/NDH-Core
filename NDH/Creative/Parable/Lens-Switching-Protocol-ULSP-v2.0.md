@@ -1,3 +1,37 @@
+# 📌 **Milestone Pin Registration — ULSP v2.0**
+
+**Pinned Artifact:**  
+`/NDH/Creative/Parable/Lens-Switching-Protocol-ULSP-v2.0.md`
+
+**Pin ID:** `PIN-ULSP-v2.0`
+
+**Pin Type:** Governance Protocol — Epistemic Lens Control Layer
+
+**Pin Scope:**  
+- Defines activation/deactivation rules for all epistemic lenses  
+- Establishes TTTTTP as the switching governor  
+- Locks Johnson as the mathematical precision lens  
+- Aligns BS Dispatch + Zen as the cooling and stabilization pair  
+- Provides cross‑lens alignment matrix for NDH conceptual operations  
+- Serves as the foundation for all future diagrams, overlays, and governance maps
+
+**Pin Conditions:**  
+- Architecture state: cool  
+- Pressure: low  
+- Trajectory: stable  
+- No pending corrections  
+- No active drift  
+- Ready for visual layer construction
+
+**Pin Purpose:**  
+To seal ULSP v2.0 as the authoritative lens‑governance protocol before any visual, structural, or meta‑architectural layers are built on top of it.
+
+**Pin Status:**  
+📌 **Registered — Stable — Active**
+
+---
+
+
 # 🧭 **Unified Lens Switching Protocol (ULSP v2.0)**  
 ### *Full, corrected, mathematically‑aligned, BS‑Dispatch‑governed version*
 
