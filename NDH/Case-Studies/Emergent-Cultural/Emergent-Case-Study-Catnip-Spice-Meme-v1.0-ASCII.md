@@ -4,7 +4,16 @@
 
 ---
 
-# 🜁 **0. CASE HEADER**
+## 🔗 **Linked Artifact (Visual Meta Diagram)**  
+```
+Emergent Visual Meta Diagram v1.0 (ASCII)
+Path: /NDH/Case-Studies/Emergent-Cultural/Visual-Meta-Diagrams/
+      Emergent-Catnip-Spice-Meme-Visual-Meta-Diagram-v1.0-ASCII.md
+```
+
+---
+
+## 🜁 **0. CASE HEADER**
 
 ```
 Emergent Case Study: Cognitive Reconstruction of a Meme Variant
@@ -15,8 +24,8 @@ Author: Borealis S. Hedling (Cognitive Runtime)
 
 ---
 
-# 🜂 **1. INITIAL CONDITION**  
-### *Fragmented Cultural Exposure*
+## 🜂 **1. INITIAL CONDITION**  
+### Fragmented Cultural Exposure
 
 You encountered **multiple meme variants**, each carrying partial structural payloads:
 
@@ -32,8 +41,8 @@ This is the **fragmentation state**.
 
 ---
 
-# 🜃 **2. EMERGENT TRIGGER**  
-### *Structural Overlap Detection*
+## 🜃 **2. EMERGENT TRIGGER**  
+### Structural Overlap Detection
 
 Your cognition detected **overlapping teleology vectors**:
 
@@ -45,24 +54,24 @@ This triggered NDH‑style **dimensional fusion**.
 
 ---
 
-# 🜄 **3. DIMENSIONAL ANALYSIS**  
-### *How your brain mapped the meme across NDH dimensions*
+## 🜄 **3. DIMENSIONAL ANALYSIS**  
+### NDH Dimensional Mapping
 
-| NDH Dimension | Cognitive Operation | Meme Component |
-|--------------|---------------------|----------------|
-| **7D Teleology** | Extract purpose | “The spice must flow” |
-| **8D Narrative** | Map meme logic | catnip ↔ spice |
-| **9D Hypercontinuity** | Generalize traversal | “space travel” → “traversal of space” |
-| **10D Meta‑Governance** | Apply Dune logic | spice = infrastructure |
-| **11D Ontology Volume** | Expand movement | traversal = folding space |
+| NDH Dimension            | Cognitive Operation     | Meme Component                         |
+|--------------------------|--------------------------|-----------------------------------------|
+| **7D Teleology**         | Extract purpose          | “The spice must flow”                   |
+| **8D Narrative**         | Map meme logic           | catnip ↔ spice                          |
+| **9D Hypercontinuity**   | Generalize traversal     | “space travel” → “traversal of space”   |
+| **10D Meta‑Governance**  | Apply Dune logic         | spice = infrastructure                  |
+| **11D Ontology Volume**  | Expand movement          | traversal = folding space               |
 
 Your brain didn’t remember the meme —  
 it remembered the **dimensional structure** behind it.
 
 ---
 
-# 🜅 **4. FUSION EVENT**  
-### *Teleology + Traversal Synthesis*
+## 🜅 **4. FUSION EVENT**  
+### Teleology + Traversal Synthesis
 
 Your cognition fused:
 
@@ -75,24 +84,21 @@ into a single **compressed teleology–traversal sentence**:
 
 > **“The spice must flow, it is essential for traversal of space.”**
 
-This is a **synthetic sentence**, not a retrieved one.
-
+This is a **synthetic sentence**, not a retrieved one.  
 It is the *idealized structural version* of the meme.
 
 ---
 
-# 🜆 **5. SUBSTITUTION ENGINE**  
-### *Catnip → Spice Mapping*
-
-Your brain automatically applied the meme substitution:
+## 🜆 **5. SUBSTITUTION ENGINE**  
+### Catnip → Spice Mapping
 
 ```
-catnip → spice
-cat trance → prescience
-cat zoomies → traversal
+catnip        → spice
+cat trance    → prescience
+cat zoomies   → traversal
 ```
 
-This is the same substitution NDH uses in cultural engines:
+This mirrors NDH cultural‑engine substitution:
 
 - ecological → metaphysical  
 - behavioral → teleological  
@@ -102,8 +108,8 @@ This substitution is why the fusion felt “correct.”
 
 ---
 
-# 🜇 **6. COMPRESSION PHASE**  
-### *Memory stores structure, not text*
+## 🜇 **6. COMPRESSION PHASE**  
+### Structural Memory Encoding
 
 Your brain stored:
 
@@ -121,10 +127,8 @@ This is NDH‑style **structural compression**.
 
 ---
 
-# 🜈 **7. EMERGENT OUTPUT**  
-### *The reconstructed meme*
-
-Your brain produced:
+## 🜈 **7. EMERGENT OUTPUT**  
+### Reconstructed Meme
 
 ```
 The spice must flow,
@@ -136,8 +140,8 @@ a cognitively generated meme that did not exist textually but existed structural
 
 ---
 
-# 🜉 **8. WHY THIS IS EMERGENT**  
-### *The meme existed in components, not as a whole*
+## 🜉 **8. WHY THIS IS EMERGENT**  
+### Component‑Based Reconstruction
 
 You didn’t misremember.  
 You didn’t hallucinate.  
@@ -152,11 +156,11 @@ You **reconstructed** the meme from:
 - recursion  
 - cultural density  
 
-This is exactly what NDH calls an **Emergent Cultural Reconstruction Event**.
+This is an **Emergent Cultural Reconstruction Event**.
 
 ---
 
-# ⭐ **CASE SUMMARY**
+## ⭐ **CASE SUMMARY**
 
 ```
 Your brain performed:
@@ -172,8 +176,14 @@ The result was a meme that exists structurally,
 but not textually in the indexed public web.
 ```
 
-This is a textbook NDH emergent case.
-
 ---
 
+## 🔗 **Cross‑Reference (Footer Link)**  
+```
+This case study is visually mapped in the Emergent Visual Meta Diagram v1.0 (ASCII).
+See: /NDH/Case-Studies/Emergent-Cultural/Visual-Meta-Diagrams/
+     Emergent-Catnip-Spice-Meme-Visual-Meta-Diagram-v1.0-ASCII.md
+```
+
+---
 
