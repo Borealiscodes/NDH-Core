@@ -1,0 +1,40 @@
+{
+  "quarantine_id": "QS-SEA-SHANTY-BS-v1.0",
+  "class": "QuarantineRecord",
+  "protocol": "NDH-Quarantine-Protocol-v1.3",
+  "anchor_governance": "A-Ω",
+  "status": "sealed",
+  "runtime": "disabled",
+  "reason": {
+    "proto_anchor_cringe": true,
+    "mnemonic_humor_layer": true,
+    "sea_shanty_cadence_artifacts": true,
+    "teaching_construct_references": true,
+    "non_governance_language": true,
+    "sovereignty_bleed_risk": "low-but-nonzero"
+  },
+  "items_quarantined": [
+    {
+      "name": "Emergent-CaseStudy-ProtoAnchor-v1.0",
+      "type": "case_study",
+      "notes": "Contains proto-anchor instability and narrative humor."
+    },
+    {
+      "name": "Emergent-CaseStudy-SeaShantyBS-v1.0",
+      "type": "case_study",
+      "notes": "Contains governed shanty, mnemonic cadence, and BS layer artifacts."
+    },
+    {
+      "name": "TeachingConstruct-References-v1.0",
+      "type": "narrative_artifact",
+      "notes": "Contains non-governance metaphors requiring quarantine."
+    }
+  ],
+  "quarantine_conditions": {
+    "runtime_execution": false,
+    "dimensional_access": false,
+    "sovereignty_interaction": false,
+    "recursion": "forbidden",
+    "modification": "locked",
+    "access": "read-only",
+    "integration_with_provenance
