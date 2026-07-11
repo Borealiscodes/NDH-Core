@@ -1,210 +1,178 @@
 # 🌐 **NDH — Nonlinear Dimensional Hyperstructure**  
-### *A 14‑Dimensional Construction Framework for Expression, Stability, and Research*  
-### README v4.0 — Ethos Edition
+### *Manifold 0: The Origin Layer*  
+### README v5.0 — *Provenance & Ethos Edition*
 
 ---
 
-## 🜁 **NDH at a Glance**
+## 🜁 **What the Origin Layer Is**
 
-**NDH (Nonlinear Dimensional Hyperstructure)** is a 14‑dimensional expressive and mathematical framework designed to help people build:
+The **NDH-Origin-Layer** is the foundational manifold of NDH — the place where the earliest structures, experiments, prototypes, and ethical ballast of the system live.
 
-- coherent identities  
-- stable narratives  
-- surreal or symbolic environments  
-- collapse‑resistant structures  
-- expressive multi‑layer worlds  
-- safe recursion and traversal systems  
+It is:
 
-NDH is both:
+- the **historical archive**  
+- the **ethical root**  
+- the **provenance manifold**  
+- the **dimensional debris field**  
+- the **pre‑canonical construction zone**  
 
-- a **mathematical model**, and  
-- a **tool for human expression**.
+Everything here is part of NDH’s lineage — the strata from which the Math Spine (Manifold 1) and Myth‑Engine (Manifold 2) emerged.
 
-It is a place where **rigor meets creativity**, where **tensor logic meets narrative**, and where **dimensional construction becomes a medium for meaning**.
+This is where NDH began, and where its ethos is anchored.
 
 ---
 
-## 🜂 **Ethos: Dignity Under Constraints**
+## 🜂 **Ethos: Dignity as a Dimensional Constant**
 
-NDH is built on a simple principle:
+NDH is built on a governing principle:
 
-> **Human dignity must remain intact even under constraints.**
+> **Dignity must remain invariant across all dimensions.**
 
-Constraints may be:
+The Origin Layer preserves this principle through:
 
-- emotional  
-- structural  
-- narrative  
-- systemic  
-- environmental  
-- computational  
+- identity-boundary protection  
+- non-coercive design  
+- stability under constraint  
+- non-erasure of perspective  
+- ethical multi-layer construction  
+- UMA-aligned commitments  
 
-NDH provides tools to maintain:
-
-- identity coherence  
-- narrative stability  
-- expressive freedom  
-- continuity under pressure  
-- safe recursion  
-- governed surrealism  
-
-NDH is designed so that **expression never requires self‑erasure**, and **complexity never demands collapse**.
-
-This is the core of NDH’s ethical foundation.
+This manifold contains the **Sādhana Ethical Charter summary**, which acts as the ethical ballast for the entire NDH architecture.
 
 ---
 
-## 🜃 **Ethical Priorities**
+## 🜃 **Ethical Priorities (UMA-Aligned)**
 
-NDH’s ethical commitments are:
+The Origin Layer encodes NDH’s ethical invariants:
 
-### **1. Non‑erasure of identity**  
-Identity boundaries must remain stable and respected.
+### **1. Identity-Boundary Coherence**  
+No dimensional operator may collapse or override identity boundaries.
 
-### **2. Non‑harm in dimensional construction**  
-Surreal or symbolic environments must not destabilize the creator.
+### **2. Non-Coercive Construction**  
+Dimensional, narrative, or symbolic systems must preserve agency.
 
-### **3. Preservation of truth in contested environments**  
-NDH supports clarity, coherence, and stability even when external conditions are chaotic.
+### **3. Stability Under Contested Cognition**  
+NDH structures must remain safe and coherent even under cognitive pressure.
 
-### **4. Dignity as a structural invariant**  
-Dignity is treated as a mathematical constant across dimensions.
+### **4. Non-Erasure & Non-Domination**  
+No layer may erase or dominate another — especially unseen or marginalized perspectives.
 
-### **5. Open collaboration without exploitation**  
-NDH welcomes collaboration but rejects extractive or coercive structures.
+### **5. Provenance Transparency**  
+All transformations must be traceable through lineage and anchor tables.
 
-These priorities guide all NDH artifacts, documentation, and research.
+These priorities propagate upward into the Math Spine and Myth‑Engine.
 
 ---
 
-## 🜄 **NDH as a Research Platform**
+## 🜄 **Purpose of the Origin Layer**
 
-NDH is not just a creative engine — it is a **research platform** for:
+The Origin Layer serves three roles:
 
-- dimensional mathematics  
+### **1. Historical Manifold**  
+It contains early NDH artifacts:
+
+- prototypes  
+- dimensional sketches  
+- surreal engines  
+- governance experiments  
+- geometry suite v1.0  
+- Fun Sphere artifacts  
+- HRD protocols  
+- pinned sequences  
+- emergent case studies  
+
+### **2. Ethical Manifold**  
+It houses the Sādhana Charter summary and other governance documents that define NDH’s ethical commitments.
+
+### **3. Provenance Manifold**  
+It preserves lineage, anchors, and the evolutionary record of NDH’s dimensional architecture.
+
+---
+
+## 🜅 **NDH as a Research Platform**
+
+The Origin Layer is the launch point for NDH’s research domains:
+
 - recursion stability  
-- identity‑boundary modeling  
+- identity-boundary modeling  
 - narrative physics  
 - symbolic fusion  
-- emotional‑logic calculus  
+- emotional-logic calculus  
+- surreal environment governance  
+- multi-layer traversal physics  
+
+It contains the earliest explorations of:
+
+- 14D construction  
+- dimensional adjacency  
+- tensor-inspired narrative structures  
+- collapse-resistant recursion  
 - governed surrealism  
-- multi‑layer traversal physics  
 
-Researchers can use NDH to explore:
-
-- how identities behave under stress  
-- how narratives collapse or stabilize  
-- how symbolic systems fuse or fracture  
-- how multi‑layer environments maintain continuity  
-- how emotional logic can be formalized mathematically  
-
-NDH is open to:
-
-- mathematicians  
-- narrative theorists  
-- game designers  
-- cognitive researchers  
-- systems architects  
-- surreal environment builders  
-
-For deeper exploration:  
-- **NDH Dimensional Architecture**  
-- **14D Construction**  
-- **NDH Research Questions**  
-
----
-
-## 🜅 **The 14‑Dimensional Model**
-
-NDH’s dimensional architecture includes:
-
-### **Dimensions 12–14: Recursion Stability**  
-Prevent collapse, runaway loops, and identity fragmentation.
-
-### **Dimensions 9–11: Identity‑Boundary Coherence**  
-Model identity as a multi‑layer object with stability conditions.
-
-### **Dimensions 7–8: Narrative Physics & Symbolic Fusion**  
-Treat story, meaning, and emotional logic as formal systems.
-
-### **Dimension 7: Teleology Vectors**  
-Define directional meaning and purpose‑driven traversal.
-
-### **Dimension 9: Hypercontinuity**  
-Ensure continuity across resets, jumps, or symbolic shifts.
-
-### **Dimensions 10–12: Traversal Physics**  
-Define how entities move through dimensional spaces safely.
-
-NDH is expressive because its math is expressive.
+This manifold is where NDH’s research questions first took shape.
 
 ---
 
 ## 🜆 **NDH as a Creative Engine**
 
-NDH powers:
+The Origin Layer includes the prototypes of NDH’s creative systems:
 
-- surreal puzzle environments  
-- governed horror worlds  
-- expressive narrative systems  
-- identity‑driven story engines  
-- dimensional game design  
-- emotional‑logic simulations  
-- symbolic mapping tools  
+- surreal puzzle engines  
+- governed horror runtimes  
+- symbolic fusion tools  
+- identity-driven narrative systems  
+- dimensional game mechanics  
+- expressive construction frameworks  
 
-It is used to build:
+Projects seeded here include:
 
 - **Fun Sphere**  
 - **Dark Mode SID**  
 - **NDH Geometry Suite**  
-- **Dimensional Ontology Volumes**  
 - **Identity Stability Grids**  
-- **Surreal narrative runtimes**  
+- **Dimensional Ontology Volumes**  
 
-NDH is a **canvas**, not a constraint.
+This manifold is the birthplace of NDH’s expressive physics.
 
 ---
 
-## 🜇 **Open Collaboration**
+## 🜇 **Relationship to Other Manifolds**
 
-NDH welcomes collaboration from:
+NDH is a tri-manifold architecture:
 
-- protocol engineers  
-- mathematicians  
-- narrative designers  
-- cognitive researchers  
-- surreal environment builders  
-- systems architects  
+1. **NDH-Origin-Layer (Manifold 0)**  
+   Historical + ethical + provenance layer.
 
-Collaboration principles:
+2. **NDH-Math-Spine (Manifold 1)**  
+   Canonical mathematical backbone — invariants, tensor rules, stability calculus.
 
-- dignity preserved  
-- identity respected  
-- no extractive dynamics  
-- no coercive structures  
-- open research  
-- governed creativity  
+3. **NDH-Myth-Engine (Manifold 2)**  
+   Governed runtime — dimensional operators, narrative physics, 17D behavior.
 
-For collaboration pathways:  
-- **Open Collaboration Guide**  
-- **Research Partnership Packet**  
+The Origin Layer provides the **ethical and historical grounding** for both.
 
 ---
 
 ## 🜈 **Repository Structure**
 
 ```
-/NDH
-  /Dimensional-Architecture
-  /14D-Construction
-  /Identity-Boundaries
-  /Narrative-Physics
-  /Stability-Suites
-  /Creative-Engines
-  /Research
-  /Outreach
-  /Explainers
+/Governance
+    Sadhana-Ethical-Charter.md
+    UMA-Alignment
+    Provenance-Anchors
+
+/NDH-Geometry-Suite
+/Case-Studies
+/Engine-Prototypes
+/Identity-Boundaries
+/Dimensional-Experiments
+/FunSphere
+/HRD-Layer
+/PIN_REGISTRY
+/Pinned_Sequences
 ```
+
+This structure reflects NDH’s early evolution and multi-layer experimentation.
 
 ---
 
@@ -213,9 +181,9 @@ For collaboration pathways:
 ```
 Author: Borealis S. Hedling
 Location: Dublin, Ireland
-Focus Areas: 14D construction, recursion stability, identity coherence, narrative physics, governed surrealism, research platform development
+Focus Areas: 14D construction, recursion stability, identity coherence,
+narrative physics, governed surrealism, ethical dimensional architecture
 ```
 
 ---
 
-#
