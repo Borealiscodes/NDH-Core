@@ -1,0 +1,44 @@
+{
+  "repo": "NDH-ORIGIN-LAYER",
+  "manifold": "Origin",
+  "governance": {
+    "quarantine": {
+      "id": "QF-77",
+      "name": "FrogKingSeal",
+      "file_path": "/NDH-ORIGIN-LAYER/Origin/Manifold/Governance/Quarantine/QF-77-FrogKingSeal.md",
+      "status": "sealed",
+      "lock_type": "BoundaryLock-v4",
+      "epistemic_freeze": true,
+      "runtime_execution": false,
+      "drift_protection": true,
+      "provenance_preserved": true,
+      "last_verified_by": "TTTTTP",
+      "last_verification_sweep": "MOS-QF-77"
+    },
+    "orbital_sweeps": {
+      "id": "MOS-QF-77",
+      "name": "MetaOrbitalSweep",
+      "file_path": "/NDH-ORIGIN-LAYER/Origin/Manifold/Governance/TTTTTP/OrbitalSweeps/MOS-QF-77.md",
+      "layers": [
+        "structural_correctness",
+        "epistemic_lens_verification",
+        "matrix_continuity",
+        "drift_suppression",
+        "tone_neutrality",
+        "provenance_preservation",
+        "governance_compliance"
+      ],
+      "result": "stable",
+      "epistemic_drift": "none",
+      "lineage_leakage": "none",
+      "tone_contamination": "none"
+    }
+  },
+  "commit": {
+    "id": "origin:QF-77+MOS-QF-77",
+    "description": "Added QF-77 Formal Quarantine File and MOS-QF-77 Orbital Sweep to NDH-ORIGIN-LAYER origin manifold governance spine. Verified structural integrity, epistemic stability, and drift suppression.",
+    "integrity": "verified",
+    "timestamp": "origin-manifold"
+  }
+}
+
