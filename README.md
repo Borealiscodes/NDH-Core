@@ -1,185 +1,130 @@
-# **Holonomy‑Based Projection Geometry (Final Public‑Facing Version)**  
-### *NDH — A System That Builds Systems*  
-### *Non‑Dual Algebra • Stability Geometry • Haptic Accessibility*  
-### *Dignity Under Constraints • HRD Threat‑Mapping* ✨
+# **NDH‑CORE README**  
+### *Curvature‑First Governance Layer of the Constellation*
+
+## **1. NDH‑CORE — Purpose and Identity**  
+NDH‑CORE is the **governance manifold** of the constellation.  
+Its role is to define, maintain, and enforce **invariants** — the curvature‑stable rules that all NDH systems must obey.
+
+NDH‑CORE does not produce posture, ethics, or embodiment.  
+NDH‑CORE binds them.
+
+NDH‑CORE ensures:
+
+- shape-first revelation  
+- accessibility-first embodiment  
+- dignity-first rendering  
+- holonomy-stable return paths  
+- invariant sequencing across all NDH systems  
+
+This README is the entry point for the governance layer.
 
 ---
 
-## **1. What Holonomy Means in NDH**
-Holonomy in NDH is a **formal geometric method** for understanding how a system behaves when you move through it.
+## **2. What NDH‑CORE Governs**  
+NDH‑CORE governs **invariants**, not explanations.
 
-> **Holonomy measures how a rights‑vector or stability‑vector changes after a full traversal through a system.**
+It defines:
 
-This is classical holonomy, applied to human systems using NDH’s algebra and geometry.
+- rendering progression invariants  
+- triad bindings  
+- curvature constraints  
+- stability rules  
+- system-wide sequencing laws  
 
-NDH uses holonomy to detect:
-
-- distortion  
-- collapse  
-- harm amplification  
-- bias curvature  
-- sabotage vectors  
-- dignity erosion  
-- stability loss  
-
-Holonomy is the **diagnostic backbone** of NDH.
+NDH‑CORE ensures that all NDH subsystems — TISD, Zen, NDH‑PLATFORMS, and NDH‑CORE itself — operate within a single, coherent curvature structure.
 
 ---
 
-## **2. Formal Definition**
-Let \( X \) be a rights‑vector or stability‑vector.  
-Let \( \gamma \) be a closed traversal through a system.
+## **3. Core Governance Artifacts**  
+NDH‑CORE maintains the following canonical governance documents:
 
-\[
-Hol(X) = X' - X
-\]
+### **Constellation Rendering Progression Invariant**  
+Defines the mandatory rendering sequence:  
+**Ethics → Interpretation → Embodiment → Governance Integration**
 
-Where:
+### **Triad Summary**  
+Binds the constellation’s three manifolds:
 
-- \( X \) = initial state  
-- \( X' \) = state after traversal  
-- \( Hol(X) \) = the system’s imprint  
+- **TISD (ethics)**  
+- **Zen (posture)**  
+- **NDH‑PLATFORMS (accessibility)**  
 
-NDH computes holonomy using:
+into a single NDH‑CORE invariant.
 
-- rights‑connection tensors  
-- harm‑propagation tensors  
-- bias‑curvature tensors  
-- collapse‑geometry operators  
+### **Archived Holonomy Explainer**  
+A historical, public-facing document preserved for lineage:
 
-This is academically legitimate differential geometry applied to governance, rights, and stability systems.
+```
+NDH-CORE/archive/Holonomy-Based-Projection-Geometry.md
+```
 
----
-
-## **3. Non‑Dual Algebra (NDA) — The Structural Engine**
-NDH uses **non‑dual algebra** to model systems where:
-
-- dualities collapse  
-- rights behave non‑linearly  
-- stability spans multiple axes  
-- harm propagates across non‑binary states  
-
-NDA provides:
-
-- operator rules  
-- manifold constraints  
-- collapse geometry  
-- stability invariants  
-- compositional logic (Tiles)  
-
-Holonomy is computed *within* NDA, ensuring mathematical coherence.
+It remains intact and unchanged, referenced here for provenance.
 
 ---
 
-## **4. NDH Is a System That Builds Systems**
-NDH is not a single model.  
-NDH is a **generative architecture**.
+## **4. Why the Holonomy Explainer Was Archived**  
+The holonomy explainer is:
 
-Holonomy is how NDH evaluates the systems it generates.
+- mathematically correct  
+- historically important  
+- posture-level and sensory-level  
+- public-facing  
+- part of NDH’s lineage  
 
-Holonomy allows NDH to:
+But NDH‑CORE requires:
 
-- test governance designs  
-- validate institutional structures  
-- detect collapse early  
-- measure harm propagation  
-- quantify bias curvature  
-- identify sabotage patterns  
-- certify dignity under constraints  
+- curvature-first governance  
+- invariant-grade documents  
+- non-drifting structural rules  
 
-Holonomy is NDH’s **quality‑control operator**.
+Therefore, the explainer was archived to preserve provenance while NDH‑CORE transitions to governance-grade artifacts.
 
----
-
-## **5. Sensory & Haptics — The Clear Explanation**
-NDH’s sensory direction — **Phase‑12** — is not XR, VR, Unity, or entertainment.
-
-It is **haptic comprehension**:
-
-> **A way for humans to *feel* the geometry of a system — its stability, distortions, and dignity constraints — through safe, bounded, mathematically‑controlled feedback.**
-
-Haptics exist to make NDH:
-
-- intuitive  
-- accessible  
-- perceptible  
-- cognitively navigable  
-
-This is **sensory comprehension**, not sensory stimulation.
-
-Holonomy provides the **geometric foundation**.  
-NDA ensures haptics remain **safe and bounded**.
+The new README points to the archive rather than duplicating its content.
 
 ---
 
-## **6. Accessibility — The Real Purpose of Haptics**
-NDH haptics exist for **accessibility**, not immersion.
+## **5. NDH‑CORE’s Governance Principles**  
+NDH‑CORE enforces:
 
-They help people understand:
+- **shape-first revelation**  
+- **accessibility-first embodiment**  
+- **dignity-first rendering**  
+- **holonomy-stable traversal**  
+- **invariant sequencing**  
+- **non-drifting curvature**  
 
-- stability envelopes  
-- collapse geometry  
-- bias curvature  
-- harm propagation  
-- dignity constraints  
+These principles ensure that NDH systems remain:
 
-without needing:
+- reversible  
+- predictable  
+- safe  
+- stable  
+- holonomy-aligned  
 
-- tensor calculus  
-- manifold theory  
-- holonomy operators  
-- NDA familiarity  
-
-This is accessibility engineering.
-
----
-
-## **7. Dignity Under Constraints**
-NDH’s haptic direction is built around one principle:
-
-> **No sensory output should ever violate dignity.**
-
-This means:
-
-- no shock  
-- no overwhelm  
-- no coercive feedback  
-- no trauma replication  
-- no collapse reenactment  
-
-NDH haptics are **protective**, not extractive.
+NDH‑CORE is the layer that prevents architectural drift.
 
 ---
 
-## **8. HRD Threat‑Mapping**
-NDH includes HRD (Human Rights Defense) threat‑mapping because:
+## **6. NDH‑CORE Summary**  
+**NDH‑CORE defines the invariants.  
+The invariants define the constellation.  
+The constellation defines the systems.**
 
-- collapse is real  
-- sabotage is real  
-- institutional harm is real  
-- rights erosion is real  
-
-NDH models these phenomena with:
-
-- harm tensors  
-- bias curvature  
-- sabotage operators  
-- collapse geometry  
-- holonomy distortion  
-
-This work is being developed under **extreme circumstances**, with dignity as a constraint.
+This README anchors the governance layer.
 
 ---
 
-## **9. Formal Lean Contribution (Simple, Professional Credit)**  
-NDH Stability Geometry incorporates a **machine‑checked Lean 4 anti‑collapse proof** contributed by **Jonathan Reed**, establishing forward invariance and strict span contraction for a cyclic ring consensus protocol over \([0,1]^n\), valid for all \(n \ge 3\).  
-Used under the MIT License as requested.
-
-This proof strengthens NDH’s stability geometry and provides a formal anti‑collapse invariant.
-
+## **Provenance**  
+```
 ---
-
-## **10. One‑Sentence Summary (Sagan Tone)**
-> **Holonomy shows how systems change us; NDA keeps the math coherent; haptics make the geometry perceptible; Myth Engineering makes it understandable; dignity keeps it human.** ✨
+Provenance: This README anchors the NDH-CORE governance layer and references the
+archived Holonomy-Based Projection Geometry explainer to preserve historical
+lineage. NDH-CORE now operates in curvature-first governance mode, maintaining
+invariants such as the Triad Summary and the Constellation Rendering Progression
+Invariant. This document defines NDH-CORE’s role within the constellation without
+altering archived posture-level materials.
+Version: 1.0 • Maintainer: Borealis S. Hedling • Dublin, Ireland
+---
+```
 
 ---
